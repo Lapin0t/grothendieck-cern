@@ -1,0 +1,1735 @@
+source: https://sniadecki.wordpress.com/2012/05/20/grothendieck-recherche
+
+Dekkers :
+
+Mesdames et messieurs, bonsoir.
+
+— Dans nos cycles de conférences, depuis dix ans que nous les organisons, nous
+avons périodiquement demandé à des scientifiques de venir nous faire des
+réflexions sur la science, sur la responsabilité du savant et je crois que
+c’est particulièrement nécessaire de le faire parce que nous avons un peu
+tendance au CERN à nous prendre pour des gens extraordinaires qui font des
+choses théoriques pas dangereuses du tout, au sein d’une collaboration
+européenne exceptionnelle. Alors, toujours pris par ces belles idées, on a un
+peu trop tendance peut-être à s’en satisfaire et à ne pas se poser de questions
+plus profondes. C’est justement pour aller un peu plus loin qu’il est utile
+d’avoir des conférenciers comme Monsieur Grothendieck que nous avons ce soir et
+auquel je cède immédiatement la parole.
+
+Alexandre Grothendieck :
+
+— Je suis très content d’avoir l’occasion de parler au CERN. Pour beaucoup de
+personnes, dont j’étais, le CERN est une des quelques citadelles, si l’on peut
+dire, d’une certaine science, en fait d’une science de pointe : la recherche
+nucléaire. On m’a détrompé. Il paraît qu’au CERN — le Centre Européen de
+Recherches Nucléaires —, on ne fait pas de recherches nucléaires. Quoiqu’il en
+soit, je crois que dans l’esprit de beaucoup de gens, le CERN en fait.
+
+La recherche nucléaire est indissolublement associée, pour beaucoup de gens
+également, à la recherche militaire, aux bombes A et H et, aussi, à une chose
+dont les inconvénients commencent seulement à apparaître : la prolifération des
+centrales nucléaires. En fait, l’inquiétude qu’a provoqué depuis la fin de la
+dernière guerre mondiale la recherche nucléaire s’est un peu effacée à mesure
+que l’explosion de la bombe A sur Hiroshima et Nagasaki s’éloignait dans le
+passé. Bien entendu, il y a eu l’accumulation d’armes destructives du type A et
+H qui maintenait pas mal de personnes dans l’inquiétude. Un phénomène plus
+récent, c’est la prolifération des centrales nucléaires qui prétend répondre
+aux besoins croissants en énergie de la société industrielle. Or, on s’est
+aperçu que cette prolifération avait un certain nombre d’inconvénients, pour
+employer un euphémisme, « extrêmement sérieux » et que cela posait des
+problèmes très graves. Qu’une recherche de pointe soit associée à une véritable
+menace à la survie de l’humanité, une menace même à la vie tout court sur la
+planète, ce n’est pas une situation exceptionnelle, c’est une situation qui est
+de règle. Depuis un ou deux ans que je commence à me poser des questions à ce
+sujet, je me suis aperçu que, finalement, dans chacune des grandes questions
+qui actuellement menacent la survie de l’espèce humaine, ces questions ne se
+poseraient pas sous la forme actuelle, la menace à la survie ne se poserait
+pas, si l’état de notre science était celle de l’an 1900, par exemple. Je ne
+veux pas dire par là que la seule cause de tous ces maux, de tous ces dangers,
+ce soit la science. Il y a bien entendu, une conjonction de plusieurs choses ;
+mais la science, l’état actuel de la recherche scientifique, joue certainement
+un rôle important.
+
+Tout d’abord, je pourrais peut-être dire quelques mots personnels. Je suis un
+mathématicien. J’ai consacré la plus grande partie de mon existence à faire de
+la recherche mathématique. En ce qui concerne la recherche mathématique, celle
+que j’ai faite et celle qu’on fait les collègues avec lesquels j’ai été en
+contact, elle me semblait très éloignée de toute espèce d’application pratique.
+Pour cette raison, je me suis senti pendant longtemps particulièrement peu
+enclin à me poser des questions sur les tenants et les aboutissants, en
+particulier sur l’impact social, de cette recherche scientifique. Ce n’est qu’à
+une date assez récente, depuis deux ans que j’ai commencé comme cela,
+progressivement, à me poser des questions à ce sujet. Je suis arrivé ainsi à
+une position où, depuis un an et demi en fait, j’ai abandonné toute espèce de
+recherche scientifique. à l’avenir, je n’en ferai que le strict nécessaire pour
+pouvoir subvenir à mes besoins puisque, jusqu’à preuve du contraire, je n’ai
+pas d’autre métier que mathématicien. Je sais bien que je ne suis pas le seul à
+m’être posé ce genre de question. Depuis une année ou deux, et même depuis les
+derniers mois, de plus en plus de personnes se posent des questions clés à ce
+sujet. Je suis tout à fait persuadé qu’au CERN également beaucoup de
+scientifiques et de techniciens commencent à se les poser. En fait, j’en ai
+rencontré. En outre, moi-même et d’autres connaissons des personnes, au CERN
+par exemple, qui se font des idées « extrêmement sérieuses » au sujet des
+applications dites pacifiques de l’énergie nucléaire ; mais qui n’osent pas les
+exprimer publiquement de crainte de perdre leur place. Bien entendu, il ne
+s’agit pas d’une atmosphère qui serait spéciale au CERN. Je crois que c’est une
+atmosphère qui prévaut dans la plupart des organismes universitaires ou de
+recherche, en France, en Europe, et même, dans une certaine mesure, aux
+États-Unis où les personnes qui prennent le risque d’exprimer ouvertement leurs
+réserves, même sur un terrain strictement scientifique, sur certains
+développements scientifiques, sont quand même une infime minorité.
+
+Ainsi, depuis un an ou deux, je me pose des questions. Je ne les pose pas
+seulement à moi-même. Je les pose aussi à des collègues et, tout
+particulièrement depuis plusieurs mois, six mois peut-être, je profite de
+toutes les occasions pour rencontrer des scientifiques, que ce soit dans les
+discussions publiques comme celle-ci ou en privé, pour soulever ces questions.
+En particulier : « Pourquoi faisons-nous de la recherche scientifique ? ». Une
+question qui est pratiquement la même peut-être, à longue échéance du moins,
+que la question : « Allons-nous continuer la recherche scientifique ? ». La
+chose extraordinaire est de voir à quel point mes collègues sont incapables de
+répondre à cette question. En fait, pour la plupart d’entre eux, cette question
+est simplement si étrange, si extraordinaire, qu’ils se refusent même des
+l’envisager. En tout cas, ils hésitent énormément à donner une réponse quelle
+qu’elle soit. Lorsqu’on parvient à arracher une réponse dans les discussions
+publiques ou privées, ce qu’on entend généralement c’est, par ordre de
+fréquence des réponses : « La recherche scientifique ? J’en fais parce que ça
+me fait bien plaisir, parce que j’y trouve certaines satisfactions
+intellectuelles. » Parfois, les gens disent : « Je fais de la recherche
+scientifique parce qu’il faut bien vivre, parce que je suis payé pour cela. »
+
+En ce qui concerne la première motivation, je peux dire que c’était ma
+motivation principale pendant ma vie de chercheur. Effectivement, la recherche
+scientifique me faisait bien plaisir et je ne me posait guère de questions au
+delà. En fait, si cela me faisait plaisir, c’était en grande partie parce que
+le consensus social me disait que c’était une activité noble, positive, une
+activité qui valait la peine d’être entreprise ; sans du tout d’ailleurs,
+détailler en quoi elle était positive, noble, etc. évidement, l’expérience
+directe me disait que, avec mes collègues, nous construisions quelque chose, un
+certain édifice. Il y avait un sentiment de progression qui donnait une
+certaine sensation d’achievement… de plénitude disons et, en même temps, une
+certaine fascination dans les problèmes qui se posaient.
+
+Mais tout ceci, finalement, ne répond pas à la question : « à quoi sert
+socialement la recherche scientifique ? » Parce que, si elle n’avait comme but
+que de procurer du plaisir, disons, à une poignée de mathématiciens ou d’autres
+scientifiques, sans doute la société hésiterait à y investir des fonds
+considérables — en mathématiques ils ne sont pas très considérables ; mais dans
+les autres sciences, ils peuvent l’être. La société hésiterait aussi sans
+doute, à payer tribut à ce type d’activité ; tandis qu’elle est assez muette
+sur des activités qui demandent peut-être autant d’efforts, mais d’un autre
+type, comme de jouer aux billes ou des choses de ce goût-là. On peut développer
+à l’extrême certaines facilités, certaines facultés techniques, qu’elles soient
+intellectuelles, manuelles ou autres, mais pourquoi y a-t-il cette valorisation
+de la recherche scientifique ? C’est une question qui mérite d’être posée.
+
+En parlant avec beaucoup de mes collègues, je me suis aperçu au cours de
+l’année dernière qu’en fait cette satisfaction que les scientifiques sont
+censés retirer de l’exercice de leur profession chérie, c’est un plaisir… qui
+n’est pas un plaisir pour tout le monde ! Je me suis aperçu avec stupéfaction
+que pour la plupart des scientifiques, la recherche scientifique était
+ressentie comme une contrainte, comme une servitude. Faire de la recherche
+scientifique, c’est une question de vie ou de mort en tant que membre considéré
+de la communauté scientifique. La recherche scientifique est un impératif pour
+obtenir un emploi, lorsqu’on s’est engagé dans cette voie sans savoir
+d’ailleurs très bien à quoi elle correspondait. Une fois qu’on a son boulot,
+c’est un impératif pour arriver à monter en grade. Une fois qu’on est monté en
+grade, à supposer même qu’on soit arrivé au grade supérieur, c’est un impératif
+pour être considéré comme étant dans la course. On s’attend à ce que vous
+produisiez. La production scientifique, comme n’importe quel autre type de
+production dans la civilisation ambiante, est considérée comme un impératif en
+soi. Dans tout ceci, la chose remarquable est que, finalement, le contenu de la
+recherche passe entièrement au second plan. Il s’agit de produire un certain
+nombre de “papiers”. Dans les cas extrêmes, on va jusqu’à mesurer la
+productivité des scientifiques au nombre de pages publiées. Dans ces
+conditions, pour un grand nombre de scientifiques, certainement pour
+l’écrasante majorité, à l’exception véritablement de quelques uns qui ont la
+chance d’avoir, disons, un don exceptionnel ou d’être dans une position sociale
+et une disposition d’esprit qui leur permette de s’affranchir de ces sentiments
+de contrainte, pour la plupart la recherche scientifique est une véritable
+contrainte qui tue le plaisir que l’on peut avoir à l’effectuer.
+
+C’est une chose que j’ai découvert avec stupéfaction parce qu’on en parle pas.
+Entre mes élèves et moi, je pensais qu’il y avait des relations spontanées et
+égalitaires. En fait, c’est une illusion dans laquelle j’étais enfermé ; sans
+même que je m’en aperçoive, il y avait une véritable relation hiérarchique. Les
+mathématiciens qui étaient mes élèves ou qui se considéraient comme moins bien
+situés que moi et qui ressentaient, disons, une aliénation dans leur travail,
+n’auraient absolument pas eu l’idée de m’en parler avant que, de mon propre
+mouvement, je quitte le ghetto scientifique dans lequel j’étais enfermé et que
+j’essaie de parler avec des gens qui n’étaient pas de mon milieu ; ce milieu de
+savants ésotériques qui faisaient de la haute mathématique.
+
+Pour illustrer ce point, j’aimerais donner ici un exemple très concret. Je suis
+allé, il y a deux semaines, faire un tour en Bretagne. J’ai eu l’occasion,
+entre autres, de passer à Nantes où j’ai vu des amis, où j’ai parlé dans une
+Maison de Jeunes et de la Culture (MJC) sur le genre de problèmes que nous
+abordons aujourd’hui. J’y étais le lundi. Comme les collègues de l’Université
+de Nantes étaient avertis de ma venue, ils avaient demandé in extremis que je
+vienne, le lendemain après-midi, pour faire une causerie sur des sujets
+mathématiques avec eux. Or il s’est trouvé que, le jour même de ma venue, un
+des mathématiciens de Nantes, M. Molinaro, s’est suicidé. Donc, à cause de cet
+incident malheureux, la causerie mathématique qui était prévue a été annulée.
+Au lieu de ceci, j’ai alors contacté un certain nombre de collègues pour
+demander s’il était possible que l’on se réunisse pour parler un peu de la vie
+mathématique à l’intérieur du département de mathématiques à l’Université et
+pour parler également un peu de ce suicide. Il y a eu une séance extrêmement
+révélatrice du malaise général, cette après-midi là à Nantes, où manifestement
+tout le monde présent — avec une exception je dirais — sentait bien clairement
+que ce suicide était lié de très très près au genre de choses que, précisément,
+on discutait la veille au soir à la MJC.
+
+En fait, je donnerai peut-être un ou deux détails. Il s’est trouvé que Molinaro
+avait deux thésards auxquels il faisait faire des thèses de troisième cycle —
+je crois que ce n’était pas des thèses d’état. Or, ces thèses furent
+considérées comme n’étant pas de valeur scientifique suffisante. Elles furent
+jugées très sévèrement par Dieudonné qui est un bon collègue à moi et avec
+lequel j’ai écrit un gros traité de géométrie algébrique. Je le connais donc
+très bien, c’est un homme qui a un jugement scientifique très sûr, qui est très
+exigeant sur la qualité d’un travail scientifique. Ainsi, alors que ces thèses
+étaient discutées par la Commission pour l’inscription sur la liste d’aptitude
+aux fonctions de l’Enseignement Supérieur, il les a saqués et l’inscription a
+été refusée. Ceci, bien entendu, a été ressenti comme une sorte d’affront
+personnel par Molinaro qui avait déjà eu des difficultés auparavant et il s’est
+suicidé sur ces circonstances. En fait, j’ai eu un ami mathématicien, qui
+s’appelait Terenhöfel qui s’est également suicidé. Je connais un certain nombre
+de mathématiciens — je parle surtout ici de mathématiciens puisque c’est le
+milieu que j’ai le mieux connu — qui sont devenus fous.
+
+Je ne pense pas que cela soit une chose propre aux mathématiques. Je pense que
+le genre, disons, d’atmosphère qui prévaut dans le monde scientifique, qu’il
+soit mathématique ou non, une sorte d’atmosphère à l’air extrêmement raréfié,
+et la pression qui s’exerce sur les chercheurs sont pour beaucoup dans
+l’évolution de ces cas malheureux.
+
+Ceci concernant le plaisir que nous prenons à faire de la recherche
+scientifique. Je crois qu’il peut y avoir plaisir, mais je suis arrivé à la
+conclusion que le plaisir des uns, le plaisir des gens haut placés, le plaisir
+des brillants, se fait aux dépends d’une répression véritable vis-à-vis du
+scientifique moyen.
+
+Un autre aspect de ce problème qui dépasse les limites de la communauté
+scientifique, de l’ensemble des scientifiques, c’est le fait que ces hautes
+voltiges de la pensée humaine se font au dépends de l’ensemble de la population
+qui est dépossédée de tout savoir. En ce sens que, dans l’idéologie dominante
+de notre société, le seul savoir véritable est le savoir scientifique, la
+connaissance scientifique, qui est l’apanage sur la planète de quelques
+millions de personnes, peut-être une personne sur mille. Tous les autres sont
+censés “ne pas connaître” et, en fait, quand on parle avec eux, ils ont bien
+l’impression de “ne pas connaître”. Ceux qui connaissent sont ceux qui sont
+là-haut, dans les hautes sciences : les mathématiciens, les scientifiques, les
+très calés, etc.
+
+Donc, je pense qu’il y a pas mal de commentaires critiques à faire sur ce
+plaisir que nous retourne la science et sur ses à-côtés. Ce plaisir est une
+sorte de justification idéologique d’un certain cours que la société humaine
+est en train de prendre et, à ce titre, je pense même que la science la plus
+désintéressée qui se fait dans le contexte actuel, et même la plus éloignée de
+l’application pratique, a un impact extrêmement négatif.
+
+C’est pour cette raison que, personnellement, je m’abstiens actuellement, dans
+toute la mesure du possible, de participer à ce genre d’activités. Je voudrais
+préciser la raison pour laquelle au début j’ai interrompu mon activité de
+recherche : c’était parce que je me rendais compte qu’il y avait des problèmes
+si urgents à résoudre concernant la crise de la survie que ça me semblait de la
+folie de gaspiller des forces à faire de la recherche scientifique pure. Au
+moment où j’ai pris cette décision, je pensais consacrer plusieurs années à
+faire de la recherche, à acquérir certaines connaissances de base en biologie,
+avec l’idée d’appliquer et de développer des techniques mathématiques, des
+méthodes mathématiques, pour traiter des problèmes de biologie. C’est une chose
+absolument fascinante pour moi et, néanmoins, à partir du moment où des amis et
+moi avons démarré un groupe qui s’appelle “Survivre”, pour précisément nous
+occuper des questions de la survie, à partir de ce moment, du jour au
+lendemain, l’intérêt pour une recherche scientifique désintéressée s’est
+complètement évanoui pour moi et je n’ai jamais eu une minute de regrets
+depuis.
+
+Il reste la deuxième motivation : la science, l’activité scientifique, nous
+permet d’avoir un salaire, nous permet de vivre. C’est en fait la motivation
+principale pour la plupart des scientifiques, d’après les conversations que
+j’ai pu avoir avec un grand nombre d’entre-eux. Il y aurait aussi pas mal de
+choses à dire sur ce sujet. En particulier, pour les jeunes qui s’engagent
+actuellement dans la carrière scientifique, ceux qui font des études de
+sciences en s’imaginant qu’ils vont trouver un métier tout prêt qui leur
+procurera la sécurité. Je crois qu’il est généralement assez bien connu qu’il y
+a là une grande illusion. à force de produire des gens hautement qualifiés, on
+en a produit vraiment de trop depuis le grand boom dans la production de jeunes
+savants, depuis le Spoutnik il y a une quinzaine d’années, et il y a de plus en
+plus de chômage dans les carrières scientifiques. C’est un problème qui se pose
+de façon de plus en plus aigüe pour un nombre croissant de jeunes, surtout de
+jeunes scientifiques. Aux États-Unis, on doit fabriquer chaque année quelque
+chose comme 1000 ou 1500 thèses rien qu’en mathématiques et le nombre de
+débouchés est à peu près de l’ordre du tiers de cela *.
+
+D’autre part, il n’en reste pas moins que lorsque la science nous permet
+d’avoir un salaire et de subvenir à nos besoins, les liens entre notre travail
+et la satisfaction de nos besoins sont pratiquement tranchés, ce sont des liens
+extrêmement abstraits. Le lien est pratiquement formé par le salaire, mais nos
+besoins ne sont pas directement reliés à l’activité que nous exerçons. En fait,
+c’est cela la chose remarquable, quand on pose la question : « à quoi sert
+socialement la science ? », pratiquement personne n’est capable de répondre.
+Les activités scientifiques que nous faisons ne servent à remplir directement
+aucun de nos besoins, aucun des besoins de nos proches, de gens que nous
+puissions connaître. Il y a aliénation parfaite entre nous-même et notre
+travail.
+
+Ce n’est pas un phénomène qui soit propre à l’activité scientifique, je pense
+que c’est une situation propre à presque toutes les activités professionnelles
+à l’intérieur de la civilisation industrielle. C’est un des très grand vice de
+cette civilisation industrielle.
+
+En ce qui concerne les mathématiques plus particulièrement, depuis quelques
+mois, j’essaie vraiment de découvrir une façon dont la recherche mathématique,
+celle qui s’est faite depuis quelques siècles — je ne parle pas nécessairement
+de la recherche mathématique la plus récente, celle dans laquelle j’étais
+encore impliqué moi-même à date assez récente — pourrait servir du point de vue
+de la satisfaction de nos besoins. J’en ai parlé avec toute sorte de
+mathématiciens depuis trois mois. Personne n’a été capable de me donner une
+réponse. Dans des auditoires comme celui-ci ou des groupes de collègues plus
+petits, personne ne sait. Je ne dirais pas qu’aucune de ces connaissances ne
+soit capable, d’une façon ou d’une autre, de s’appliquer pour nous rendre
+heureux, pour nous permettre un meilleur épanouissement, pour satisfaire
+certains désirs véritables, mais jusqu’à maintenant je ne l’ai pas trouvé. Si
+je l’avais trouvé, j’aurais été beaucoup plus heureux, beaucoup plus content à
+certains égards, du moins jusqu’à une date récente. Après tout, je suis
+mathématicien moi-même et cela m’aurait fait plaisir de savoir que mes
+connaissances mathématiques pouvaient servir à quelque chose de socialement
+positif. Or, depuis deux ans que j’essaie de comprendre un petit peu le cours
+que la société est en train de prendre, les possibilités que nous avons pour
+agir favorablement sur ce cours, en particulier les possibilités que nous avons
+pour permettre la survie de l’espèce humaine et pour permettre une évolution de
+la vie qui soit digne d’être vécue, que la survie en vaille la peine, mes
+connaissances de scientifique ne m’ont pas servi une seule fois.
+
+Le seul point sur lequel ma formation de mathématicien m’ait servi, ce n’est
+pas tellement par ma formation de mathématicien en tant que telle ni mon nom de
+mathématicien, c’était que, puisque j’étais un mathématicien connu, j’avais la
+possibilité de me faire inviter par pas mal d’universités un peu partout. Ceci
+m’a donné la possibilité de parler avec beaucoup de collègues, d’étudiants, de
+gens un peu partout. Cela s’est produit pour la première fois au printemps
+dernier où j’ai fait un tour au Canada et aux états-Unis. En l’espace de trois
+semaines, j’ai visité une vingtaine de campus. J’ai retiré un bénéfice énorme
+de ces contacts ; mes idées, ma vision des choses ont énormément évolués depuis
+ce moment là. Mais c’est donc de façon tout-à-fait incidente que ma qualité de
+mathématicien m’a servi ; en tous cas, mes connaissances de mathématiciens y
+étaient vraiment pour rien.
+
+Je pourrais ajouter que j’ai pris l’habitude, depuis le printemps dernier,
+lorsque je reçois une invitation pour faire des exposés mathématiques quelque
+part, et lorsque je l’accepte, c’est en explicitant que cela ne m’intéresse que
+dans la mesure où un tel exposé me donne l’occasion de débattre de problèmes
+plus importants, tels que celui dont on est en train de parler maintenant ici.
+En général, cela me donne aussi l’occasion de parler avec des
+non-mathématiciens, avec des scientifiques des autres disciplines, et également
+avec des non-scientifiques. C’est pourquoi je demande à mes collègues
+mathématiciens qu’au moins une personne du département s’occupe de
+l’organisation de tels débats. Cela a été le cas, par exemple, pour toutes les
+conférences que j’ai faites au Canada et aux états-Unis. Jusqu’à maintenant,
+personne n’a refusé une seule fois cette proposition d’organiser des débats
+non-techniques, non purement mathématiques, en marge de l’invitation
+mathématique au sens traditionnel. D’ailleurs, depuis ce moment là, j’ai
+également modifié un peu ma pratique en introduisant également des
+commentaires, disons, préliminaires, dans les exposés mathématiques eux-mêmes
+pour qu’il n’y ait pas une coupure trop nette entre la partie mathématique de
+mon séjour et l’autre.
+
+Donc, non seulement j’annonce le débat public plus général qui a lieu ensuite,
+mais également je prend mes distances vis-à-vis de la pratique même d’inviter
+des conférenciers étranger pour accomplir un certain rituel — à savoir, faire
+une conférence de haute volée sur un grand sujet ésotérique devant un public de
+cinquante ou cent personnes dont peut-être deux ou trois peuvent péniblement y
+comprendre quelque chose, tandis que les autres se sentent véritablement
+humiliés parce que, effectivement, ils sentent une contrainte sociale posée sur
+eux pour y aller. La première fois que j’ai posé la question clairement,
+c’était à Toulouse, il y a quelques mois, et j’ai senti effectivement une
+espèce de soulagement du fait que ces choses là soient une fois dites. Pour la
+première fois depuis que je faisais ce genre de conférence, spontanément, sans
+que rien n’ait été entendu à l’avance, après la conférence mathématique qui
+était effectivement très ésotérique et qui, en elle-même était très pénible et
+pesante — j’ai eu à m’excuser plusieurs fois au cours de la conférence parce
+que, vraiment, c’était assez intolérable — ; eh bien, immédiatement après,
+s’est instauré une discussion extrêmement intéressante et précisément sur le
+thème : « à quoi sert ce genre de mathématiques ? » et « à quoi sert ce genre
+de rituel qui consiste à faire des conférences devant des gens qui ne s’y
+intéressent rigoureusement pas ? ».
+
+Mon intention n’était pas de faire une sorte de théorie de l’anti-science. Je
+vois bien que j’ai à peine effleuré quelques-uns des problèmes qui sont liés à
+la question « Allons-nous continuer la recherche scientifique ? », même parmi
+ceux qui étaient indiqués sur ce tract dont j’ai vu une copie. Par exemple, sur
+les possibilités de développer une pratique scientifique entièrement différente
+de la pratique scientifique actuelle et sur une critique plus détaillée de
+cette pratique.
+
+J’ai parlé plutôt en termes assez concrets de mon expérience personnelle, de ce
+qui m’as été transmis directement par d’autres, pendant une demi-heure. C’est
+probablement suffisant ; peut-être sera-t-il préférable que d’autres points
+soient traités un peu plus en profondeur au cours d’une discussion générale.
+
+Je voudrais simplement indiquer, avant de terminer mon petit laïus introductif,
+que j’ai ramené ici quelques exemplaires d’un journal que nous éditons qui
+s’appelle Survivre et Vivre. Il s’agit du groupe dont j’ai parlé au début et
+qui a changé de nom depuis quelques mois. Au lieu de Survivre, après un certain
+changement d’optique assez important, assez caractéristique, il est devenu
+Survivre et Vivre. Au début, nous avions démarré sous la hantise d’une possible
+fin du monde où l’impératif essentiel, pour nous, était l’impératif de la
+survie. Depuis lors, par un cheminement parallèle chez beaucoup d’entre-nous et
+d’autres ailleurs hors du groupe, nous sommes parvenus à une autre conclusion.
+Au début, nous étions si l’on peut dire overwhelm, écrasés, par la multiplicité
+des problèmes extrêmement enchevêtrés, de telle façon qu’il semblait impossible
+de toucher à aucun d’eux sans, en même temps, amener tous les autres.
+Finalement, on se serait laissé aller à une sorte de désespoir, de pessimisme
+noir, si on n’avait pas fait le changement d’optique suivant : à l’intérieur du
+système de référence habituel où nous vivons, à l’intérieur du type de
+civilisation donné, appelons-là civilisation occidentale ou civilisation
+industrielle, il n’y a pas de solution possible ; l’imbrication des problèmes
+économiques, politiques, idéologiques et scientifiques, si vous voulez, est
+telle qu’il n’y a pas d’issues possibles.
+
+Au début, nous pensions qu’avec des connaissances scientifiques, en les mettant
+à la disposition de suffisamment de monde, on arriverait à mieux appréhender
+une solution des problèmes qui se posent. Nous sommes revenus de cette
+illusion. Nous pensons maintenant que la solution ne proviendra pas d’un
+supplément de connaissances scientifiques, d’un supplément de techniques, mais
+qu’elle proviendra d’un changement de civilisation. C’est en cela que consiste
+le changement d’optique extrêmement important. Pour nous, la civilisation
+dominante, la civilisation industrielle, est condamnée à disparaître en un
+temps relativement court, dans peut-être dix, vingt ou trente ans… une ou deux
+générations, dans cet ordre de grandeur ; parce que les problèmes que posent
+actuellement cette civilisation sont des problèmes effectivement insolubles.
+
+Nous voyons maintenant notre rôle dans la direction suivante : être nous-mêmes
+partie intégrante d’un processus de transformations, de ferments de
+transformations d’un type de civilisation à un autre, que nous pouvons
+commencer à développer dès maintenant. Dans ce sens, le problème de la survie
+pour nous a été, si l’on peut dire, dépassé, il est devenu celui du problème de
+la vie, de la transformation de notre vie dans l’immédiat ; de telle façon
+qu’il s’agisse de modes de vie et de relations humaines qui soient dignes
+d’être vécues et qui, d’autre part, soient viables à longue échéance et
+puissent servir comme point de départ pour l’établissement de civilisations
+post-industrielles, de cultures nouvelles.
+
+Pour les abonnements, on peut écrire à mon adresse : 21, avenue Kennedy, 91
+Massy ; les conditions sont indiquées dans le journal.
+
+ 
+
+ 
+
+Discussion
+
+ 
+
+Question :
+
+— J’aimerais beaucoup savoir ce qui, selon vous, rend la vie digne d’être
+vécue.
+
+Réponse :
+
+— En fait, jusqu’à présent, l’activité, la vie que j’ai eue, je la considérais
+tout à fait digne d’être vécue. J’avais le sentiment d’un certain type
+d’épanouissement personnel qui me satisfaisait. Maintenant, avec le recul,
+j’envisage ma vie passée sous un jour très différent ; en ce sens que je me
+rends compte que cet épanouissement était en même temps une mutilation. En
+effet, il s’agit d’une activité extrêmement intense, mais dans une direction
+excessivement étroite. De telle façon que toutes les autres possibilités
+d’épanouissement de la personne ne sont pas touchées. Pour moi, il n’y a
+absolument plus de doute possible à ce sujet. Le genre d’activité que j’ai
+actuellement est infiniment plus satisfaisant, plus enrichissant, que celui que
+j’ai eu pendant vingt ou vingt-cinq années de mon travail de chercheur
+mathématique. Ceci est un point tout-à-fait personnel, en ce qui concerne ma
+propre vie.
+
+Mais, d’autre part, quand je parle d’une vie qui est digne d’être vécue, il ne
+s’agit pas seulement de ma vie à moi, il s’agit de la vie de tous. Et je me
+rends compte que l’épanouissement que j’ai pu réaliser dans une direction très
+limitée se faisait au dépends des possibilités d’épanouissement d’autres
+personnes. Si certaines personnes se sont trouvées sous une pression
+psychologique si forte qu’elles en sont parfois venues au suicide, c’est bien à
+cause d’un consensus dominant qui faisait que la valeur de la personne était
+jugée, par exemple, d’après sa virtuosité technique à démontrer des théorèmes,
+c’est-à-dire à effectuer des opérations excessivement spécialisées — alors que,
+précisément, tout le reste de la personne était complètement laissée dans
+l’ombre. C’est une chose que j’ai expérimenté maintes fois. Quand on parle
+d’une certaine personne et que je demande « Qui est-ce ? », on me répond «
+C’est un con. » En voulant dire par là, entre mathématiciens, que c’est un type
+qui soit démontre des théorèmes qui ne sont pas très intéressants, soit
+démontre des théorèmes qui sont faux, ou bien ne démontre pas de théorèmes du
+tout.
+
+Donc, là, j’ai défini un peu négativement ce que j’entends par une vie qui soit
+digne d’être vécue. Je pense que, pour tout le monde, il y a possibilité
+d’épanouissement sans que nous soyons jugés par les autres, par des critères
+aussi étroits, aussi étriqués. En fait, je pense que cette échelle de valeurs a
+un effet directement mutilant sur les possibilités d’épanouissement. Enfin,
+c’est un des aspects, je ne prétends pas répondre ici à la question soulevée
+qui est très vaste ; mais dans l’optique où nous nous plaçons ici, en partant
+de la pratique scientifique, c’est ce que je vois de plus immédiat à répondre.
+
+Question :
+
+— Quelles sont vos opinions sur la structure de la recherche scientifique dans
+la République Populaire de Chine ?
+
+Réponse :
+
+— Jusqu’à une date assez récente, disons jusqu’à il y a environ trois mois,
+j’étais assez fermé à toutes les informations qui nous venaient de Chine parce
+qu’elles s’enveloppaient dans un jargon tel qu’on avait envie, a priori, de les
+mettre en doute — on n’avait pas envie de les prendre au sérieux. Le jargon,
+disons, d’un culte effréné de la personnalité de Mao Tsé Toung, une sorte de
+hagiographie qui l’accompagnait, faisait que je lisais ces publications assez
+souvent, mais qu’elles me tombaient des mains de découragement : ça ne passait
+pas. Alors, il y a trois mois, j’ai rencontré les Nouveaux Alchimistes [1] qui
+m’ont fait comprendre la possibilité d’une pratique scientifique entièrement
+différente de celle qui prévaut actuellement dans toutes les sciences qui sont
+professées à l’université et dans les instituts de recherche. à partir de ce
+moment là, effectivement, j’ai attaché un intérêt renouvelé à ce qui se passe
+en Chine et j’ai eu la motivation nécessaire pour dépasser, disons, les
+fioritures du style et pour essayer de voir le fond des choses. Ainsi, je me
+suis convaincu qu’il y a des choses extrêmement intéressantes qui se passent
+également en Chine, précisément en direction du développement d’une science
+nouvelle. En tout cas, la Chine est le seul pays dans lequel le mythe de
+l’expert soit officiellement battu en brèche, dans lequel on dit aux gens « ne
+vous fiez pas aux experts », « n’attendez pas que le gouvernement vous envoie
+des types compétents pour les résoudre vous-même », « résolvez-les vous-même
+avec les moyens du bord, avec les moyens que vous trouvez sur place ».
+
+Que nous soyons des professeurs d’université, des ouvriers ou des paysans, nous
+sommes tous capables d’initiatives créatrices, nous sommes tous capables
+d’inventer quelque chose. Je crois que la façon la plus frappante dont ces…
+appelons-les “mots d’ordre” ou ce mouvement nouveau se soient matérialisés,
+c’est dans le développement de la médecine chinoise. Tout particulièrement
+depuis la Révolution Culturelle. C’est un exemple où, précisément, la science
+sort des mains d’une certaine caste pour devenir la science de tous et ce n’est
+qu’en devenant la science de tous qu’elle peut devenir la science pour tous. En
+fait, pratiquement n’importe qui peut devenir médecin, quelle que soit sa
+formation culturelle. Ce vaste mouvement de « médecins aux pieds nus » a
+mobilisé un nombre impressionnant de gens — mais je suis mauvais en
+statistiques et je ne saurai pas dire combien — qui parcourent les campagnes
+pour toutes sortes d’interventions médicales simples qui ne seraient admises
+qu’après des années et des années d’études médicales dans un contexte social
+comme le nôtre. Alors que là-bas, après quelques mois de préparation, on peut
+exercer certaines activités médicales.
+
+On remarque tout particulièrement le développement sensationnel de
+l’acupuncture chinoise, qui a permis de guérir certaines affections dans des
+cas tout-à-fait insoupçonnés jusqu’à maintenant, ou d’être, par exemple,
+auxiliaire de certaines techniques médicales. On connaît le rôle que joue
+actuellement l’acupuncture chinoise dans l’anesthésie. L’acupuncture permet
+également de guérir toutes sortes d’affections, y compris des affections aussi
+banales que les rhumes, mais aussi, par exemple, des affections très sérieuses
+comme des descentes de matrice à des états très avancés. J’ai eu récemment la
+traduction d’un article d’un journal chinois à ce sujet qui nous éclaire bien
+sur les différences entre, disons, la pratique scientifique et en particulier
+la pratique médicale dans les pays occidentaux comme la France ou la Suisse et
+la pratique en Chine où une technique entièrement nouvelle de guérison d’une
+descente de matrice très avancée a été trouvée par une jeune femme médecin qui
+avait très peu d’études derrière elle, mais qui était fortement motivée pour
+guérir un cas précis. D’autre part, elle se trouvait dans un climat culturel où
+il n’est pas considéré comme inadmissible, comme impensable, qu’une personne
+ayant peu de connaissances, n’ayant pratiquement pas de diplômes, puisse
+développer des techniques nouvelles. Elle a fait des essais sur elle-même en
+faisant des piqûres sur ses propres vertèbres inférieures puisqu’elle savait,
+d’après le peu de choses élémentaires qu’elle avait apprises, qu’il y avait des
+liens nerveux directs entre la matrice et ces vertèbres et à force
+d’expérimentation sur elle-même, elle a fini par trouver un point qui lui a
+causé une réaction extrêmement forte qui lui a fait remonter la matrice à
+l’intérieur de son ventre. Sur ce, ayant la conviction qu’elle avait trouvé le
+point correct, elle a fait la même opération sur la malade qu’elle avait en vue
+et cette malade a été guérie. Depuis lors, d’après ce journal, une cinquantaine
+d’autres cas auraient été traités avec quarante cinq cas de guérison.
+
+On peut voir ici la différence fondamentale entre cette sorte de pratique et de
+découvertes scientifiques et celle qui prévalent dans les pays occidentaux.
+Tout d’abord le malade n’est plus un objet entre les mains du médecin ; ce
+n’est plus le médecin qui est le sujet qui sait et qui applique son savoir sur
+l’objet malade. Ici, dans l’investigation scientifique, le médecin est en même
+temps l’objet de l’expérimentation, ce qui, en même temps, lui permet de
+surmonter cette…
+
+……… PASSAGE INAUDIBLE ………
+
+…du point de vue intolérable pour le malade d’être précisément un objet sans
+volonté, sans personnalité, entre les mains du médecin et, en même temps, qui
+permet, je crois, une connaissance beaucoup plus directe, beaucoup plus intense
+de ce qui se passe.
+
+Lorsqu’on ressent la recherche scientifique dans sa propre chair, lorsqu’on
+ressent soi-même les réactions du corps, c’est une connaissance tout-à-fait
+différente que si l’on fait quelque chose sur un objet malade et que quelques
+aiguilles, ou autres, enregistrent des réactions de façon purement
+quantitative. Je pense qu’il y a là un ensemble de facteurs où les facultés
+rationnelles de la personne ne sont plus séparées les unes des autres, où elles
+ne sont plus séparées, par exemple, de l’expérience sensorielle directe, ou des
+motivations affectives, idéologiques, appelez-les comme vous voudrez.
+
+Donc, je pense qu’il y a là véritablement intégration de nos différentes
+facultés cognitives, de nos facultés de connaissance, qui fait véritablement
+défaut dans la pratique scientifique dominante, occidentale. Ici, au contraire,
+nous faisons tout pour séparer coûte que coûte les facultés purement
+rationnelles et tout le reste de nos possibilités de connaissance. Ceci est,
+entre autre, un des facteurs qui a abouti à cette espèce de délire
+technologique qui fait que les savants sont capables de fasciner sur des
+problèmes techniques, comme ceux posés par la construction de missiles
+intercontinentaux ou d’autres choses analogues, sans du tout se poser la
+question des implications atroces de l’utilisation éventuelle de ce qu’ils sont
+en train de construire.
+
+Question :
+
+— D’après vous, il faudrait changer la société en une société post-industrielle
+dans dix ou vingt ans. Je vous accorde même cinquante ans. Je vous demande la
+chose suivante : supposez qu’une fée vous accorde un pouvoir illimité de
+persuader tout le monde de faire ce que vous pensez qu’il faille faire. Que
+ferez vous sans provoquer une grande catastrophe, disons, de famine, etc. ?
+
+Réponse :
+
+— Je crois qu’il y a déjà un malentendu de base. Je n’ai pas dit qu’il faut que
+qui que ce soit, de particulier, ou quelqu’un d’autre, moi par exemple,
+transforme la société industrielle, comme ça, dans les dix, vingt ou trente
+années qui viennent dans une autre forme de société prédéterminée. Si une fée
+m’investissait de pouvoirs discrétionnaires, je lui dirais que je n’en ai pas
+envie. Effectivement, je suis bien persuadé que ce que je pourrais faire, ce ne
+serait guère autre chose que de mettre encore plus de mess, de bordel, que
+celui qui y est déjà. En fait, je suis entièrement convaincu que absolument
+personne n’est capable, disons, de programmer, de prévoir les changements qui
+vont avoir lieu. Je pense que la complexité des problèmes planétaires est si
+grande qu’elle défie absolument les capacités d’analyse mathématique ou
+expérimentale. Nous sommes dans une situation où les méthodes des sciences
+expérimentales ne nous servent pratiquement à rien. Parce que, finalement, une
+planète Terre, il y en a une seule et une situation comme une situation de
+crise où nous sommes maintenant n’a lieu qu’une seule fois dans l’histoire de
+l’évolution. Nous n’avons donc pas là une expérience que nous puissions répéter
+à volonté pour voir qu’elles vont être les conséquences de telle ou telle
+opération, de façon à ensuite optimiser nos modes opérationnels. Il n’est
+absolument pas question de ceci. Il s’agit d’une situation unique, d’une
+complexité qui dépasse infiniment nos possibilités d’analyse et de prédiction
+détaillée.
+
+Tout ce que nous pouvons faire, j’en suis persuadé, c’est que, chacun dans
+notre propre sphère d’activités, dans notre propre milieu, nous essayions
+d’être un ferment de transformation dans la direction qui, au jugé,
+intuitivement, nous semble la plus indiquée, en commençant par les rapports
+humains avec nos proches, les membres de notre famille, nos enfants, notre
+femme, nos amis, également nos collègues de travail. Je suis persuadé que c’est
+une première transformation qui a l’avantage d’être communicative, de se
+communiquer des uns aux autres.
+
+Parmi les transformations à effectuer, il y a plus particulièrement : le
+dépassement de l’attitude de compétitivité entre personnes, le dépassement de
+l’attitude ou du désir de domination des uns par rapport aux autres qui
+engendre d’autre part le désir de soumission à l’autorité — on a d’ailleurs là
+deux aspects de la même tendance — et surtout l’établissement de la
+communication entre les personnes qui est devenue extrêmement pauvre dans notre
+civilisation. J’ai fait, assez récemment, le bilan de ma propre vie et des
+relations humaines que j’ai eues, et j’ai été frappé de constater à quel point
+la véritable communication était pauvre. Par exemple, en milieu mathématique,
+entre collègues, les conversations roulent essentiellement sur des sujets
+techniques concernant la mathématique. J’ai eu un certain nombre de relations
+amoureuses dans ma vie, comme sans doute la plupart d’entre vous, et, là
+également, je me suis aperçu à quel point la communication véritable, la
+connaissance l’un de l’autre était pauvre. Je suis tout-à-fait convaincu qu’il
+ne s’agit pas d’une particularité liée à ma personne parce que je serais
+personnellement moins doué pour la communication que d’autres. En fait, il
+s’agit là d’un phénomène général dans notre culture et effectivement en parlant
+avec beaucoup d’autres personnes, j’ai fait des constatations tout-à-fait
+analogues. Pour ma part, par exemple, j’ai pris cette décision générale de ne
+poursuivre des relations amoureuses avec une femme que dans la mesure où elles
+me sembleraient être un moyen pour établir une communication plus profonde. Si
+vous voulez, c’est juste un exemple particulier d’une façon dans laquelle
+chacun de nous peut dans l’immédiat transformer la façon dont il aborde les
+autres. De même, je peux vous dire que mes relations avec de mes enfants ont
+changés ; dans le sens où j’ai compris que, dans beaucoup d’occasions, j’ai
+exercé sur eux une autorité assez arbitraire disons, sur des choses qui, en
+bonne conscience, étaient de leur propre ressort. Ce sont donc là des choses
+qu’on peut modifier.
+
+On peut se demander, à première vue, en quoi ce type de changement est-il lié,
+disons, aux problèmes globaux de la survie. J’en suis convaincu, mais je ne
+peux pas le prouver parce que rien d’important ne peut être prouvé ; on peut
+simplement le ressentir, le deviner. Mais je suis convaincu qu’effectivement
+ces changements dans les relations humaines vont être un facteur tout-à-fait
+déterminant, peut-être le plus important, dans les changements qui vont se
+faire d’un mode de civilisation vers un autre. Encore une fois, il est
+maintenant devenu tout-à-fait clair pour moi que ces changements ne se feront
+pas par la vertu d’innovations techniques, de changements de structures. Le
+changement véritablement profond qui va se faire, c’est un changement dans les
+mentalités et les relations humaines.
+
+Question :
+
+— Je voudrais revenir à la recherche scientifique. Vous parlez, en fait, des
+déviations de la recherche scientifique. Je suis en partie d’accord avec
+certains de vos diagnostics : le fait que nous recherchons trop la gloire
+personnelle, l’asservissement à la mode, les prétentions abusives de certains
+scientifiques, etc. Mais ceci est-il inhérent à la science ? La science, à mon
+avis, voudrait construire une nouvelle vision du monde. Quel but donneriez-vous
+à une autre pratique scientifique ?
+
+Réponse :
+
+— Quand on dit inhérent à la science, inhérent à quelle science ? Je pense que
+c’est inhérent à la science telle qu’elle est définie par la pratique des
+derniers siècles, telle qu’elle s’est développée depuis le début des sciences
+exactes. Je pense qu’elle est inhérente à la méthode même de ces sciences.
+Parmi les traits distinctifs de cette pratique scientifique, il y a un premier
+point qui est la séparation stricte de nos facultés rationnelles et des autres
+modes de connaissance. Donc une méfiance instinctive de tout ce qui est, disons
+émotivité, de tout ce qui est connaissance philosophique, religieuse, de tout
+ce qui est considération éthique, de tout ce qui est ressenti, sensoriel,
+direct. En ce sens nous avons plus confiance dans les indications d’une
+aiguille sur un cadran, qu’en ce que nous ressentons immédiatement,
+directement.
+
+L’exemple suivant mesure très bien cette méfiance vis-à-vis du vécu immédiat ;
+je pourrais en citer bien d’autres, mais celui-ci me semble particulièrement
+frappant. C’est le cas de parents qui vont voir avec leur enfant un médecin en
+lui disant : « Nous sommes bien malheureux, notre enfant devient de plus en
+plus impossible en classe, il est kleptomane, il se bagarre avec tout le monde,
+chez nous il reste à bouder des journées entières, il fait pipi au lit, etc. »
+Et ils posent la question : « Est-ce que notre enfant est malade ? » On demande
+donc au spécialiste, à la personne qui sait, de prononcer une formule rituelle
+: « Votre enfant est malade » ou « Votre enfant n’est pas malade ». Dans le cas
+« Votre enfant est malade », on s’attend à ce qu’il prescrive un médicament,
+une méthode de traitement, quelque chose qui le fera revenir dans l’autre état,
+le cas « Votre enfant n’est pas malade » et un point ce sera tout. Mais si, par
+hasard, il dit : « Votre enfant n’est pas malade », les parents, un peu
+consolés, s’en iront chez eux et auront l’impression qu’il n’y a pas de
+problème qui se pose réellement. C’est, je crois, une des façons d’illustrer
+cet état d’esprit dans la science, de vouloir faire abstraction du vécu et tout
+énoncer en termes de normes purement rationnelles qui s’expriment, qui sont
+incarnées par des spécialistes.
+
+Nous en arrivons ainsi au deuxième point, au deuxième vice de méthode, qui est
+inhérent à la méthode scientifique. C’est l’attitude analytique qui, bien
+entendu — je le sais bien — a été nécessaire pour le développement de ce type
+de connaissance. Le fait de diviser chaque parcelle de la réalité, chaque
+problème en des composantes simples pour mieux les résoudre et cette tendance à
+la spécialisation, comme on sait, est devenue de plus en plus grande. Chacun de
+nous ne saisit qu’une parcelle infime de la réalité. Ce qui fait que chacun de
+nous est parfaitement impuissant pour saisir, pour comprendre et pour prendre
+des options dans n’importe qu’elle question importante de sa vie, de la vie de
+la communauté ou de la vie du monde. Parce que n’importe quelle question
+importante a une infinité d’aspects différents, son découpage en petites
+tranches de spécialités est parfaitement arbitraire, et ce qu’un spécialiste
+tout seul ne peut pas faire, un colloque de cent spécialistes de spécialités
+différentes n’y parviendra pas non plus.
+
+Finalement, de par sa propre logique interne, par l’évolution de la méthode
+analytique, on est arrivé à un point où, je crois qu’indépendamment de la
+question de la crise écologique, il y a une crise de la connaissance. En ce
+sens je crois que, s’il n’y avait pas eu la crise écologique, d’ici dix ou
+vingt ans on se serait tous aperçu qu’il y a une profonde crise de la
+connaissance, même au sens de la connaissance scientifique. En ce sens qu’on
+arrive plus à intégrer en une image cohérente une vision du monde — puisque
+après tout c’est à cela que nous voulons arriver — , à une vision de la réalité
+qui nous permette d’interagir de façon favorable avec elle à partir de nos
+petites tranches de spécialités. C’est un deuxième aspect qui me semble être
+devenu néfaste.
+
+Il y en a un troisième lié à celui-ci. C’est que les spécialités s’ordonnent
+spontanément les unes par rapport aux autres, d’après des critères objectifs de
+subordination des unes aux autres ; de telle façon que nous voyons apparaître
+une stratification de la société en commençant, disons par une stratification
+de la science, d’après des soi-disant critères objectifs de subordination des
+spécialités les unes aux autres. En ce sens, la science, dans sa pratique
+actuelle telle qu’elle s’est développée depuis trois cent ou quatre cent ans,
+me semble être le principal support idéologique de la stratification de la
+société avec toutes les aliénations que cela implique. Je crois que, en ce
+sens, la communauté scientifique est une sorte de microcosme qui reflète assez
+fidèlement les tendances à l’intérieur de la société globale.
+
+En outre, quatrième point, c’est la séparation dans la science entre
+connaissance d’une part et désirs et besoins d’autres part. La connaissance
+scientifique se développe d’après, soi-disant, une logique interne à la
+connaissance, d’après, soi-disant, des critères objectifs pour la poursuite de
+la connaissance. Mais en fait, en s’éloignant de plus en plus de nos besoins et
+de nos désirs véritables. La chose la plus frappante à cet égard me semble être
+l’état de stagnation relative dans laquelle se trouve l’agriculture, depuis
+quatre cent ans que les sciences exactes se développent, quand on la compare
+avec des branches en plein essor comme les mathématiques, la physique, la
+chimie ou plus récemment la biologie. L’agriculture après tout, est la base de
+nos sociétés dites civilisées depuis dix mille ans. C’est véritablement
+l’activité de base de la société, c’est de là que nous tirons l’essentiel des
+ressources pour satisfaire nos besoins matériels. On aurait pu penser qu’avec
+le développement de méthodes de connaissance nouvelle, elles seraient
+appliquées en priorité à l’agriculture pour nous permettre de nous libérer,
+dans une certaine mesure, de cette obligation d’un travail démesuré pour
+satisfaire nos besoins élémentaires. Il n’en a rien été. Encore actuellement,
+je crois que pour la plupart d’entre-nous, l’agriculture n’est pas considérée
+comme une science. Cela semblerait indigne d’un esprit brillant de s’occuper
+d’agriculture. Or, précisément, avec des techniques scientifiques nouvelles, la
+première chose à se demander c’est : « à quoi peut servir la science, le
+contenu de la science que nous développons ? » Je pense que parmi les thèmes
+les plus importants qui seront étudiés par une science nouvelle, il y aura
+précisément le développement de techniques agricoles nouvelles beaucoup plus
+efficientes et surtout beaucoup plus viables à longue échéance que les
+techniques qui ont été utilisés jusqu’à présent.
+
+Voici donc quelques critiques de la pratique scientifique actuellement. D’après
+ce que j’ai entendu dire de certaines tentatives dans un sens novateur, je suis
+convaincu qu’on peut surmonter ces limitations de la science actuelle, qu’on
+peut donc développer une science qui soit directement et constamment
+subordonnée à nos besoins et nos désirs ; dans laquelle il n’y ait plus de
+séparation arbitraire entre l’activité scientifique et l’ensemble de nos modes
+de connaissance, où il n’y aurait plus de séparation arbitraire entre la
+science et notre vie. Du même coup aussi, les relations humaines qui sont
+promues par l’activité scientifique changeraient du tout au tout. La science ne
+serait plus la propriété d’une caste de scientifiques, la science serait la
+science de tous. Elle se ferait non pas dans des laboratoires par certaines
+personnes hautement considérées à l’exclusion de l’immense majorité de la
+population, elle se ferait dans les champs, dans les jardins, au chevet des
+malades, par tous ceux qui participent à la production dans la société,
+c’est-à-dire à la satisfaction de nos besoins véritables, c’est-à-dire en fait
+par tout le monde.
+
+Donc, la science devient véritablement la science de tous. Pour les Nouveaux
+Alchimistes, ce groupe auquel j’ai déjà fait allusion, c’est même une nécessité
+du point de vue technique. En effet, leur intention, leur thème de départ,
+c’était de développer des biotechniques qui permettent, avec des moyens
+extrêmement rudimentaires ne faisant pas appel à l’hyperstructure industrielle
+et technologique, de créer des écosystèmes artificiels très productifs en
+nourriture. Les moyens technologiques au sens ordinaire, par exemple
+l’introduction d’une source continue d’énergie (l’électricité), ou
+l’approvisionnement en aliments par des industries chimiques (les engrais ou
+les aliments qu’on donnerait au bétail, aux poissons), peuvent être remplacés
+par une connaissance sophistiquée et globale des phénomènes naturels à
+l’intérieur de ces écosystèmes artificiels. Pour ce faire, ils se sont
+convaincus qu’il n’était pas pensable de la faire à l’intérieur des structures
+académiques existantes ; en fait, ce n’était pas possible même de le faire à
+l’intérieur de laboratoires fermés ; on ne pouvait le faire que sur le terrain,
+parce qu’il fallait tenir compte dans le développement de ces techniques de
+facteurs écologiques subtils qui varient énormément d’un microsystème
+écologique à un autre — et il y en a des milliers et des dizaines de milliers
+dans un pays tels que les États-Unis où il poursuivent leurs activités.
+
+Donc, pour arriver à développer ces méthodes, c’est sur le terrain qu’il faut
+les développer et que tous doivent s’y associer virtuellement. Les Nouveaux
+Alchimistes sont en relation avec des millions d’américains intéressés par
+l’agrobiologie, « Organic gardening and farming », l’agriculture et le
+jardinage biologique, par l’intermédiaire de leur magazine Organic gardening
+and farming magazine. Parmi ceux-ci, il y a déjà des milliers de petites gens,
+de petits paysans, de petits jardiniers, qui leur ont écrit pour s’associer à
+leurs recherches concernant le développement de tels écosystèmes. Donc,
+actuellement, il ne s’agit pas seulement d’idées dans l’air, mais de choses qui
+sont en train d’être faites dans un pays aussi radicalement opposé à ce genre
+d’esprit que les états-Unis. Encore une fois, par des détails concrets dont
+m’as parlé John Todd, l’un des fondateurs des Nouveaux Alchimistes, il n’est
+absolument pas possible de promouvoir ce genre de recherches à l’intérieur des
+structures académiques existantes. Ils ont essayé, mais c’est impossible.
+
+Question :
+
+— Bien que 99% de la population n’ait pas accès à la science, il faut remarquer
+qu’elle a un respect plus grand de la science que vous et c’est basé sur un
+fait qui n’est pas simplement dû à son ignorance. Par exemple, on peut se poser
+la question : « combien de gens dans cette salle doivent la vie au fait qu’il y
+a eu cette science que vous décriez ? » Qu’il y a eu des retombées en médecine,
+par exemple, qui ne sont pas l’acuponcture, qui ne sont pas le remontée des
+matrices, mais qui sont simplement la pénicilline et un certain nombre de
+choses décisives qui ont fait que la population du globe a augmenté. Un certain
+nombre d’entre-nous, nous vivons, votre groupe s’appelle “vivre”, nous vivons
+parce qu’il y a eu cette science maudite.
+
+Il est vrai que nous risquons la destruction et il est naturel qu’il y ait une
+réflexion sur ce qu’est la science aujourd’hui entre les mains de types qui
+semblent surgir du fond des âges, parce que ce sont des barbares qui sont prêts
+à l’utiliser pour détruire l’humanité. C’est vrai. Mais je trouve chez vous
+qu’une partie de cette réflexion est détruite par l’espèce de nihilisme absolu,
+de négation absolue, que vous professez à l’égard de la science.
+
+J’ai relevé dans votre exposé un certain nombre d’affirmations péremptoires qui
+enlèvent une partie du poids à votre position :
+
+• Vous avez émis le doute, il est basé sur les relations que vous avez avec
+certaines gens du CERN, que la recherche que nous pouvons faire, nous par
+exemple, n’a pas d’application militaire. C’est quelque chose que l’on peut
+parfaitement mettre en doute. On doit être, peut-être, tous complètement idiots
+[2], mais je ne crois pas. Vraiment, je ne crois pas que des collègues
+prendraient le moindre risque à venir nous dire : « En quoi ce que nous faisons
+risque d’avoir des applications militaires ? » Et ça me fait venir à quelque
+chose qui me paraît essentiel.
+
+• Nous avons posé la question : « à quoi servent les mathématiques ? » Il faut
+continuer : à quoi sert la musique ? à quoi servent un certain nombre
+d’activités que les gens font simplement pour leur plaisir ?
+
+• Enfin quel est votre conception de l’homme ? Il est vrai qu’un certain nombre
+de gens ont des activités auxquelles la masse n’a pas accès, mais je ne pense
+pas que c’est en décidant que M. Einstein ne doit pas faire de la recherche ou
+que M. Evariste Gallois ne doit pas faire de la recherche que vous arriverez à
+enrichir la vie des gens qui ne sont ni Gallois ni Einstein. Il y a des
+problèmes qui sont posés pour des gens qui ne sont ni Gallois ni Einstein et
+qui sont dans des grandes institutions dans lesquelles l’organisation de la
+recherche de façon industrielle pose des problèmes considérables, des angoisses
+considérables.
+
+Mais je trouve qu’avec votre façon de rejeter totalement la science vous
+rejoignez Planète, vous rejoignez un certain nombre de…, vous voyez à quoi je
+pense…, vous rejoignez un certain nombre d’obscurantistes. Je m’excuse, comme
+je vous reçois dans l’estomac pour la première fois, je ne peux pas critiquer
+vos positions, mais il y a beaucoup de choses chez vous qui mériteraient un
+débat.
+
+Réponse :
+
+— Si vous me permettez, je vais dire quelques mots à propos de votre
+intervention.
+
+Donc, vous me reprochez un nihilisme anti-science. En fait, c’est vrai que dans
+la mesure où par science on entend l’activité scientifique telle qu’elle est
+exercée actuellement, je suis arrivé à la conclusion que, par beaucoup
+d’aspects, c’est une des principales forces négatives à l’œuvre dans la société
+actuelle. Ce n’était sans doute pas le cas il y a deux cent ans et peut-être
+même pas le cas il y a cent ans. Actuellement je crois que la situation à
+beaucoup changé. Mais encore une fois, comme je l’ai dit tout à l’heure, je
+pense que l’activité scientifique actuelle est susceptible de se modifier très
+très profondément ; je pense que ceci ne se fera pas sans que la plupart des
+secteurs scientifiques actuels dépérissent purement et simplement. Je suis tout
+à fait convaincu que les recherches actuelles où l’on se met à cataloguer des
+particules élémentaires correspondant à tels ou tels opérateurs dans l’espace
+de Hilbert, ou les recherches mathématiques dans lesquelles j’ai été impliqué
+jusqu’à maintenant vont dépérir, non pas par un décret autoritaire de moi ou de
+personne d’autre, mais spontanément. Et ce lorsque les structures actuelles de
+la société vont s’écrouler, lorsque les rouages ne marcheront plus, parce que
+les mécanismes de la société industrielle, par son fonctionnement normal même,
+sont autodestructeur ; ils détruisent l’environnement et heureusement pour nous
+je dirais. De telle sorte qu’ils ne peuvent pas continuer à fonctionner
+indéfiniment, ils mettent en marche des processus irréversibles. Alors il y
+aura écroulement de nos modes de vie actuels. Lorsque nos cités, par exemple,
+s’écrouleront, lorsque personne ne payera plus les salaires qui nous
+permettent, grâce à une activité scientifique ésotérique, d’aller acheter les
+provisions dont nous avons besoin dans les magasins, d’acheter des habits, de
+payer nos loyers, etc. — et alors même que nous aurions l’argent, cet argent ne
+nous servirait à rien parce que la nourriture, il nous faudra l’arracher de la
+terre par nos propres moyens, parce qu’il n’y en aura plus assez — , à ce
+moment là, les motivations pour étudier les particules élémentaires
+disparaîtront entièrement.
+
+J’étais moi-même assez fanatique, si l’on peut dire, de la recherche. J’étais
+vraiment très captivé, il y a de nobles passions. Mais à supposer même qu’il
+reste de physiciens — malgré une pression extrêmement forte des nécessités
+matérielles pour la survie — qui rêveraient de continuer la recherche, il ne
+faut pas oublier quand même qu’un accélérateur de particules ne se fabrique pas
+avec quelques morceaux de bois ; c’est quelque chose qui implique un effort
+social considérable et je doute fort que les autres membres de la société
+soient disposés à distraire des activités véritablement nécessaires pour
+établir un monde viable, digne d’être vécu, pour rebâtir des accélérateurs de
+particules et des choses analogues. En tout cas, je crois que, pour les
+accélérateurs et autres engins de ce genre, le large public n’a jamais été
+consulté. D’ailleurs, j’ajoute que s’il l’avait été, probablement qu’il
+l’aurait été de telle façon qu’il aurait dit « Amen ! ».
+
+Après les leçons que chacun de nous qui survivra pourra tirer des événements
+qui accompagneront l’écroulement de la société industrielle, je pense que les
+mentalités auront très profondément changées. C’est pour cette raison que la
+recherche scientifique cessera, ce ne sera pas parce que tel ou tel aura décidé
+autoritairement que nous ne feront plus de recherches scientifiques à partir
+d’aujourd’hui. Elle cessera simplement, comme quelque chose qui, d’après un
+consensus général, sera devenu entièrement inintéressant. On n’aura plus envie,
+simplement, j’en suis persuadé, d’en faire. ça ne signifie pas que l’on aura
+plus envie de faire de la recherche tout court. La recherche, nos activités
+créatrices, se dirigeront dans des directions tout à fait différentes.
+
+Je pense, par exemple, au genre de recherche que sont en train de poursuivre
+les Nouveaux Alchimistes avec des milliers de petites gens qui n’ont pas de
+formation universitaire. Ce sont des choses fascinantes qui mettront en jeu la
+créativité de chacun de nous de façon aussi profonde et peut-être aussi
+satisfaisante qu’actuellement les travaux ultra-spécialisés en laboratoire.
+
+Nous avons été élevés dans une certaine culture ambiante, dans un certain
+système de référence. Pour beaucoup d’entre nous, d’après les conditionnements
+reçus dès l’école primaire en fait, nous considérons que la société telle que
+nous la connaissons est l’aboutissement ultime de l’évolution, le nec plus
+ultra. Enfin, c’est le cas pour la majorité des scientifiques. Mais nous
+oublions qu’il y a eu des centaines et des milliers de civilisations avant la
+nôtre, avec des cultures différentes, qui sont nées, qui ont vécu, qui ont
+fleuri et qui se sont éteintes. Notre civilisation, ou la civilisation
+industrielle — parce que je ne la considère plus comme la mienne —, n’y fera
+pas exception.
+
+Une chose qui va au delà de cette remarque, à mon sens, c’est de réaliser qu’il
+s’agit d’un processus qui est vraiment devant nous, dans lequel nous sommes
+déjà engagés maintenant. En fait, la crise écologique, la crise de
+civilisation, ce n’est pas quelque chose pour dans dix ans ou dans vingt ans :
+nous somme en plein dedans. Je crois même qu’il y a de plus en plus de
+personnes qui s’en aperçoivent ; c’est une chose qui me frappe de plus en plus
+tout au long de ces derniers mois et de ces dernières semaines, à quel point
+des gens chez qui on s’y attendait le moins commencent à le ressentir. On
+gratte un tout petit peu en-dessous des choses superficielles qu’ils disent et
+on s’aperçoit qu’il y a un véritable désarroi concernant, disons, le sens
+global de la culture ambiante.
+
+Voici donc concernant l’accusation de nihilisme. Donc, il y a du vrai dedans si
+on l’applique à une certaine forme d’activité scientifique. J’ai quelque peu
+oublié les autres objections que vous faisiez ?
+
+Question :
+
+— On doit la vie à la science !
+
+Réponse :
+
+— Je crois qu’il y a des choses utiles à dire à ce sujet. A supposer que
+certains ici doivent la vie à la science, on peut dire qu’il y a des centaines
+de milliers de gens au Viêt-Nam qui doivent également leur mort, et leur mort
+sous des conditions atroces, à cette même science. C’est là un argument un peu
+facile parce qu’il y a beaucoup de gens qui disent : « La science a été mal
+employée, le remède est de faire toujours la même espèce de science, mais de la
+mettre maintenant entre les mains de gens qui vont l’employer bien. » On nous
+dira, par exemple, que la médecine, les recherches biologiques, etc., c’est le
+type de science qui est utilisée surtout de façon bénéfique. Alors, là encore,
+il y a une façon facile d’y répondre en disant : le même genre de recherche
+fondamentale en biologie qui par un travail d’engineering va, par exemple,
+servir à développer des vaccins anti-poliomyélite ou contre d’autres maladies,
+ce même genre de recherche fondamentale, par un autre travail d’engineering, va
+servir à produire des souches de microbes très pathogènes, très résistants à
+tous les agents anti-biotiques et qui seront utilisés pour la guerre
+bactériologique. Donc, finalement, la recherche n’a pas d’odeur et quelles que
+soient les intentions de celui qui promeut un certain type de recherches — tout
+au moins le type de recherches qui est actuellement promu à l’intérieur de
+notre science traditionnelle — l’expérience a montré qu’elle est toujours
+détournable et détournée.
+
+Comme j’ai donné ici l’exemple de la guerre bactériologique, on pourrait dire
+que les deux exemples sont un peu de même type. En ce sens qu’on peut les
+considérer comme liés à un accident, à savoir : l’existence d’appareils
+militaires, l’existence de nations antagonistes. Mais supposons que ces
+difficultés soient éliminées, que le rêve des citoyens du monde soit réalisé,
+qu’il y ait un gouvernement mondial. Ou bien supposons que les États-Unis, la
+Russie ou la Chine, au choix, ait absorbé l’ensemble de la planète, qu’il n’y
+ait plus qu’un seul pays. Ou supposons que la planète soit plus petite qu’elle
+n’est et qu’elle ne soit constituée que par les États-Unis, ou bien supposons
+que les États-Unis, par une politique isolationniste extrême arrivent à vivre
+en vase clos, et regardons ce qui se passe là-bas. Je prétends qu’en fait les
+problèmes sont plus profonds que cela, que les problèmes essentiels se posent
+encore dès lors même qu’il n’y aurait plus de problèmes militaires.
+
+Prenons par exemple, les antibiotiques dont vous avez parlé, précisément parce
+qu’ils sauvent effectivement des vies humaines. Que voyons-nous, pour l’usage
+des antibiotiques ? Nous voyons que, lorsque nous avons le moindre rhume,
+n’importe quelle affection quelle qu’elle soit, nous allons au médecin.
+Qu’est-ce qu’il nous prescrit ? Il nous prescrit des antibiotiques. En fait,
+pour une simple fatigue, très souvent, il nous prescrit des antibiotiques. Il
+semble être pris sous une sorte de pression sociale. à savoir, son client
+attend de lui qu’il prescrive à chaque fois le remède qui est susceptible, le
+plus rapidement possible d’apporter une amélioration. Ceci sans préjudice de ce
+qui va se passer à longue échéance. Or, n’importe quel biologiste vous le dira,
+il n’y a pas besoin d’être un grand génie pour ça et même moi je le sais bien
+que je ne soit pas biologiste, le fait d’utiliser à titre routinier des
+antibiotiques est un véritable contresens. En effet, par cette pratique, nous
+contribuons à la formation de souches de microbes dans notre organisme qui vont
+développer une résistance, précisément aux antibiotiques que nous prenons. De
+sorte que, dans les cas véritablement graves où une intervention urgente par
+antibiotiques serait susceptible de nous sauver la vie, nous risquons de rester
+sur le carreau [NdE: L’augmentation des résistances est seulement maintenant
+reconnue par les pouvoirs publics, campagne publicitaire “les antibiotiques,
+c’est pas automatique” fin 2004]. Maintenant, nous sommes dans une situation où
+il est malaisé d’évaluer les bénéfices ou les avantages qu’il y a eu dans
+l’emploi des antibiotiques. Qu’est-ce qui l’emporte sur l’autre : est-ce que
+les dizaines de milliers de vies qui ont été sauvées par l’emploi des
+antibiotiques pèsent plus lourd dans la balance que, disons, les millions
+d’organismes qui ont été affaiblis dans leur résistance naturelle aux agents
+microbiens par l’usage inconsidéré des antibiotiques ?
+
+Je ne trancherai pas ce problème, mais je dirais simplement qu’ici la question
+n’est pas une question technologique, ce n’est pas une question de
+connaissances. Il est bien clair que les biologistes ont les connaissances
+nécessaires pour décider, dès maintenant, que l’usage qu’en font les médecins,
+en clinique et dans leur pratique journalière, est insensé. C’est une question
+de mode de vie. C’est une question de civilisation. En fait, je ne dis pas
+qu’il faut bannir nécessairement les antibiotiques dans une société idéale
+future. Les antibiotiques sont des champignons qui peuvent être produits avec
+des moyens extrêmement rudimentaires, sans utiliser les grandes hyperstructures
+de l’industrie lourde. On peut donc fort bien utiliser les antibiotiques dans
+une société très décentralisée dans laquelle des communes de quelques centaines
+ou quelques milliers d’habitants vivraient en autarcie relative. Il est
+tout-à-fait possible et probable que les antibiotiques continueront à être
+utilisés dans des sociétés post-industrielles, dans certaines du moins. Ce
+n’est pas parce qu’ils ont été produits dans notre culture scientifique
+occidentale actuelle qu’il faudrait mettre l’interdit général contre ce genre
+de procédé. Je crois qu’il y a lieu de juger sur pièces et que ce n’est pas un
+travail théorique à faire maintenant, à savoir : de séparer le bon grain de
+l’ivraie dans l’ensemble de nos connaissances scientifiques et des techniques
+actuellement disponibles. C’est, je crois, un travail qui se fera au jour le
+jour, suivant les nécessités de l’heure. C’est-à-dire que c’est un travail qui
+ne se fera pas par quelques spécialistes, biologistes, médecins, psychiatres,
+physiciens, etc. Il se fera par tout le monde au fur et à mesure des besoins.
+On verra bien de quoi on a besoin dans le grand amas de connaissances
+scientifiques dont je suis convaincu que la plus grande partie est parfaitement
+inutilisable et va dépérir complètement.
+
+Question :
+
+— Qu’en est-il des relations entre le CERN et les militaires ?
+
+Réponse :
+
+— Je n’ai pas d’informations secrètes à ce sujet. Je ne prétendais pas parler,
+disons, de relations réelles, officielles ou occultes, entre le CERN et les
+appareils militaires. Je n’ai pas connaissance de telles choses. Je voulais
+parler de l’image que le nom du CERN a sur une large partie du public plus ou
+moins cultivé, par exemple moi-même. Le nom déjà : Centre Européen de
+Recherches Nucléaires. Le fait qu’il soit un organisme qui regroupe un certain
+nombre de pays, le prestige qui lui est attaché et que vous ne nierez sans
+doute pas ; le fait également qu’il s’agisse de recherches concernant tout au
+moins l’atome, même si ce ne sont pas des « recherches nucléaires » et ceci,
+lié à la préoccupation, aux soucis grandissants dans le public vis-à-vis,
+précisément, de l’atome, y compris de l’atome pacifique, tout ceci crée une
+certaine résonance concernant le CERN qu’on ne peut pas nier. A cela près que,
+en ce qui me concerne, de toute façon, le genre de recherches, le genre de
+pratique scientifique qui est poursuivi dans le CERN, comme dans n’importe
+qu’elle autre institution scientifique actuelle — mais encore plus à cause,
+malgré tout, des connotations générales de la recherche atomique avec les
+périls liés à notre survie —, tout ceci a comme effet de créer une gêne, je
+crois, chez beaucoup et chez moi en particulier.
+
+Question :
+
+— Et Evariste Galois ?
+
+Réponse :
+
+— Il est mort le pauvre.
+
+Question :
+
+— Vous avez signalé de nombreuses choses mauvaises et je suis d’accord avec
+vous, elles devraient être changées. La question est : « Quel est le rapport
+avec la science ? » Vous signalez que de nombreux scientifiques sont cupides,
+recherchent les honneurs, sont imbus de hiérarchie, etc. Est-ce vraiment
+différent parmi les artistes, les fermiers, les politiciens et d’autres ? De
+même, vous signalez de nombreuses choses déplorables sur le plan humain : des
+gens se suicident ou vont se suicider, ont des dépressions nerveuses. Ici
+aussi, en est-il autrement parmi les politiciens, les hommes d’affaires, etc.,
+et la science est-elle responsable de ces malheurs ? Est-ce seulement la
+science qui rend les gens cupides ou suicidaires ?
+
+Et, pour prendre un exemple, il a existé des poètes qui ont écrit de très
+belles choses sans avoir aucune communication, disons, avec leur femme.
+Pensez-vous que là encore la science est vraiment responsable de ce manque de
+communication ? Je crois que c’est plutôt propre à la nature humaine et que
+c’est mauvais. Nous devons lutter contre cela, mais cela n’a rien à voir avec
+la science.
+
+Et enfin, à propos des guerres, à propos du Viêt-Nam. Nous sommes tous d’accord
+que c’est une tragédie. Mais la science en est-elle responsable ? Je veux dire,
+il y a trois mille ans, pensez-vous que cela était fondamentalement différent ?
+Merci.
+
+Réponse :
+
+— Je suis tout à fait d’accord avec vous pour constater que la plupart des
+aspects de la pratique scientifique que j’ai mis en avant — un certain nombre
+du moins — ne sont pas spécifiques aux milieux de la recherche scientifique. Je
+ne pense pas qu’il y ait nécessairement plus de suicides, disons, parmi les
+mathématiciens que dans les autres professions. Pourquoi est-ce que j’en ai
+parlé ? Simplement, c’est parce qu’on parle mieux, malgré tout, du milieux que
+l’on connaît : on en parle de première main. Et j’en ai parlé parce que,
+finalement, il y a un certain mythe qui veut que les choses soient mieux dans
+la communauté scientifique ; qui veut, par exemple, que l’activité scientifique
+soit nécessairement source de satisfaction, source de plaisir, de joie. Alors
+que, dans un certain nombre de cas, on peut montrer que c’est précisément
+l’activité scientifique qui est source de contraintes, de répressions et de
+drames. Je connais d’autres cas, disons moins extrêmes que celui-là, dans ma
+pratique personnelle. Mais c’est pour aller à l’encontre de certains mythes que
+j’ai parlé de ces cas-là. Autrement, je suis tout-à-fait d’accord avec votre
+objection. Donc, finalement, je crois qu’il y a un malentendu, ce n’est pas
+vraiment une différence de vision importante.
+
+En ce qui concerne l’autre question, je ne pense pas que la science soit la
+seule cause de la situation assez catastrophique dans laquelle nous nous
+trouvons. J’avais dit dès le début que c’est une des causes. En tout cas, si
+cette cause n’existait pas, les problèmes liés, disons, à la survie de l’homme
+ne se poseraient pas actuellement. Ils se poseraient peut-être dans quelques
+siècles, mais ils ne se poseraient pas à l’heure actuelle. Bien entendu des
+guerres comme celle du Viêt-Nam pourraient fort bien avoir lieu et ont eu lieu
+sans que la science ait le développement actuel. Ce qui est frappant, je crois,
+pour un scientifique, c’est de constater à quel point les techniques les plus
+modernes trouvent leur application dans cette guerre. Je suis allé au Viêt-Nam
+du Nord et j’ai pu discuter sur place avec les intéressés sur les différents
+perfectionnements des bombes à billes, par exemple. Les billes ont un mouvement
+de rotation très rapide afin de mieux déchiqueter les chairs et de manière
+aussi à ce qu’elles puissent pénétrer à l’intérieur des abris anti-aérien qui
+sont creusés un peu partout le long des rues et le long des routes, pour peut
+que l’on ait pas pris soin de les fermer. Et enfin, elles éclatent en l’air
+pour mieux frapper les populations civiles. D’ailleurs, malgré les consignes,
+la plupart des vietnamiens, comme ils ont envie de voir ce qui se passe, ne
+ferment pas les trous. Ainsi, lorsque les bombes explosent, ceci rend ces abris
+à peu près illusoires. De même, les billes de métal ont été remplacées par des
+billes en plastique pour que leur détection par des moyens de radiographie soit
+impossible. Il faut donc développer des techniques nouvelles pour arriver à
+extraire ces billes des chairs déchiquetées. La technologie militaire employée
+au Viêt-Nam est orientée plus vers une mutilation de la population que vers son
+extermination directe, parce qu’une personne mutilée demande des soins de
+beaucoup d’autres gens pour la maintenir en vie, tandis qu’une personne tuée en
+demande très peu. Il y a donc un certain nombre d’aspects assez atroces de la
+technologie liées véritablement à une recherche, à l’état actuel de la science.
+
+Par ailleurs, il y a une chose dont je ne me rendais pas compte au moment où
+j’ai commencé à réfléchir sur ces questions, c’est que pratiquement toutes les
+grandes firmes commerciales américaines sont directement impliquées dans la
+fabrication des armements. C’est vrai dans une moindre mesure pour les firmes
+françaises ; je ne sais pas ce qu’il en est pour les firmes suisses. Au moment
+où j’ai quitté l’institut où je travaillais à cause de la présence de 5% du
+budget qui était d’origine militaire, je ne voyais rien à redire au fait que la
+plupart des fonds provenaient de firmes telles que Esso, Saint-Gobain et
+autres. Mais depuis lors, j’ai découvert que ces firmes sont très directement
+impliquées également dans ces fabrications d’armement, elles ont toutes
+d’important contrats avec l’armée. De telle façon que, finalement, il devient
+impossible de distinguer entre la recherche militaire et la recherche tout
+court, et même entre, disons, les firmes d’usage courant et les firmes liées à
+la prolifération des appareils militaires. Finalement, j’ai fini par
+m’apercevoir que tout était inextricablement lié.
+
+Au fait, je m’aperçois qu’il y a une question à laquelle je n’ai pas répondu,
+qui était peut-être liée à Galois. C’était l’affirmation qu’il était bon de
+poursuivre la recherche scientifique pour elle-même, pour le plaisir de la
+connaissance, au même titre que l’on poursuit une activité artistique. Alors
+là, il y a peut-être une ou deux choses à dire.
+
+Une première chose est que pour arriver à comprendre et à apprécier le genre de
+mathématiques que je faisais, par exemple, il y a trois ans encore. à supposer
+même que l’on court-circuite les canaux habituels dans l’enseignement, que l’on
+aille directement au fait, à l’essentiel, il faut compter quelque chose comme
+une formation spécialisée de cinq à dix ans. Or, il est clair qu’une telle
+formation sera dans l’état actuel des choses l’apanage d’une infime minorité de
+la population. D’autre part des centaines d’autres mathématiciens font des
+choses tout aussi ésotériques dans leur coin. De telle façon que finalement,
+ceux qui arrivent à comprendre le genre de chose que je faisais, une chose à
+laquelle je me livrais intensément depuis quelques années, sont — que sais-je —
+peut-être cinq, dix quinze, vingt personnes au monde, quelque chose dans ce
+goût-là. Alors, l’importance que peut avoir du point de vue artistique, disons,
+l’activité mathématique est très différente de l’importance que peut avoir, par
+exemple, la musique. Pour ressentir la musique, nous n’avons pas besoin d’une
+longue formation. En fait, nous n’avons pas même besoin d’être encore né, parce
+que même un embryon, dans le ventre de sa mère, réagit déjà aux stimuli
+musicaux. Je crois que pas mal de personnes ont dû en faire l’expérience, en
+tous cas ma femme l’a faite : lorsqu’il y avait une musique de jazz, alors
+qu’elle était enceinte depuis cinq ou six mois, le bébé dansait dans son
+ventre. Bien entendu, quand je parle d’art ici, je parle de l’art élémentaire,
+de l’art que nous pouvons apprécier, et même que nous pouvons faire chacun de
+nous : de la musique, du dessin, de la poterie, des choses comme cela, qui
+demandent une formation relativement minime.
+
+Mais il est vrai que dans les arts, comme dans les sciences, comme dans
+pratiquement toute activité humaine, également dans l’activité physique, dans
+les sports, l’aspect de compétition prend de plus en plus d’importance.
+Actuellement, chez presque tous, quand on dit art, le réflexe est de penser à
+des gens comme Rubinstein, Gieseking ou Heifetz, ou bien comme Picasso, etc.
+C’est-à-dire de penser immédiatement aux grands virtuoses de l’art, ceux qui
+sont arrivés à une position de prestige extraordinaire. Finalement, l’art
+devient l’apanage d’un tout petit nombre de gens qui font de l’art pour nous,
+par procuration, parce que là il n’est absolument plus question que chacun de
+nous en fasse autant dans sa propre vie.
+
+Or, c’est encore une des choses qu’on pourrait dire à propos de la question de
+ce que l’on entend par une vie qui vaut la peine d’être vécue : C’est une vie
+qui, précisément, contienne sa part de créativité, y compris sa part de
+créativité artistique. Il est beaucoup plus important que chacun de nous soit
+capable d’être artiste dans son propre domaine et à son propre niveau, à
+produire de la musique, à en exécuter, disons, sur un harmonica, sur un piano
+ou sur une guitare et à en retirer un plaisir direct. Ce plaisir, je crois,
+sera infiniment plus profond que le plaisir qu’il pourra avoir à écouter un
+disque de Heifetz ou de Gieseking. Il est d’une autre nature, en tous cas, il
+se place à un autre niveau. Peut-être que l’un n’empêche pas l’autre, ce n’est
+d’ailleurs pas clair. J’ai l’impression que le genre de mentalité qui règne
+parmi les grands virtuoses — qui leur fait exécuter, par exemple, cinq heures
+de gammes par jour, jour après jour — finit par tuer une grande part de la joie
+qu’ils ressentent à faire de la musique. Et ceci est nécessaire pour arriver à
+tenir le coup dans la compétition très forte qui s’exerce entre virtuoses. Je
+crois qu’elle est à peu près du même type que la compétition, parfois
+inconsciente, qu’il y a entre scientifiques. Compétition qui fait que des gens
+que je connais, y compris moi-même parfois, passent quinze heures de leur
+journée, jour après jour, pendant longtemps, à essayer de développer des
+théorèmes mathématiques de plus en plus sophistiqués, de plus en plus
+ésotériques. J’ai l’impression que ce type de mentalité disparaîtra dans les
+générations qui viennent.
+
+Question :
+
+— Ne pensez-vous pas qu’il y a quelque chose de beaucoup plus — quel que soit
+le mode de la civilisation et qui est propre à l’homme : cette liberté
+troublante de se poser des questions, de se demander « Pourquoi, par exemple,
+les planètes tournent de cette façon autour du soleil ? » ; « Pourquoi
+sommes-nous malheureux ? ». Cette grande liberté me paraît un peu, elle aussi,
+être condamnée vis à vis de la science. Parce que, en fait, nous avons aussi
+cette liberté de dire que la science est un malheur. En nous faisant prendre
+conscience que la science actuelle est mauvaise, vous supprimerez peut-être à
+l’avenir toute la liberté aux autres. Peut-être un jour la science pourrait
+apparaître bonne. En quelque sorte, comme un pendule, l’homme est à la fois
+cohabité par l’ange et le démon. Vous voudriez simplement qu’il soit habité par
+l’ange. J’en sera ravi, mais l’histoire humaine à montré souvent, n’est-ce pas,
+qu’il oscille entre le mauvais et le bien. Vous prévoyez peut-être que le
+pendule ira cette fois-ci du bon côté. J’espère avec vous, mais je ne sais pas
+si ce pendule sera arrêté à l’avenir à cette position.
+
+Réponse :
+
+— Une de vos questions est de savoir si en tournant le dos à la science telle
+qu’elle se fait actuellement et, éventuellement, en retirant aux gens la
+liberté de se poser le genre de questions que se pose la science actuelle, on
+ne va pas supprimer en même temps la liberté ou une partie appréciable de la
+liberté.
+
+Je voudrais dire à ce propos que moi-même et mes amis de Survivre et Vivre ne
+recommandons nullement de prendre des mesures coercitives qui empêcheraient qui
+que ce soit de faire de la science. La question n’est pas là. Si je prévois que
+la science, telle qu’elle est pratiquée actuellement, va dépérir, que par
+exemple la mathématique toute entière, à peu de choses près, va disparaître
+dans les générations qui viennent, c’est qu’il s’agira d’un dépérissement tout
+naturel parce que les gens ne se sentiront plus incités à en faire. Ainsi, pour
+faire un parallèle à une échelle moindre, je crois que c’était dans le premier
+siècle de notre ère, la science des sections hyperplanes, des sections coniques
+et des faisceaux de coniques était arrivée à un degré de complexité tel que les
+mathématiciens de cette époque pensaient que c’était la fin de la mathématique,
+parce que de toute façon, en allant plus loin, les choses deviendraient d’une
+complexité telle qu’il serait impossible à l’esprit humain de s’y reconnaître.
+Or il est arrivé que, purement et simplement, on a complètement laissé tomber
+ce genre de spéculations et la mathématique a continué dans des voies
+entièrement différentes et on s’aperçoit bien que la mathématique n’a pas cessé
+de produire du neuf jusqu’à aujourd’hui. Dans le même ordre d’idées, je pense
+que la direction de recherches qui s’est développé depuis 400 ans, disons, dans
+un certain esprit, va dépérir de la même façon et que l’esprit humain prendra
+des avenues très différentes. Non pas de façon coercitive, simplement parce que
+ce ne sera plus pratiqué. Il y aura d’autres impératifs liés à nos besoins
+véritables.
+
+Je pense que l’agriculture, l’élevage, la production d’énergie décentralisée,
+une certaine espèce de médecine très différente de la médecine qui prévaut
+actuellement, vont être à l’avant plan. Il est impossible de dire quelle sera
+la part de joie purement créatrice dans ces développements nouveaux. J’espère
+que ce sera un développement créateur où il n’y aura pas de différences
+essentielles entre activités conceptuelles et activités physiques manuelles.
+Quand les hommes deviendront suffisamment maîtres de leurs besoins pour qu’une
+part appréciable de leur créativité reste libre — et ceci prendra un temps
+qu’on ne peut pas prévoir, ce sera peut-être une génération, peut-être dix, nul
+ne sait — à ce moment-là, n’importe qui, pas seulement une certaine élite
+scientifique, sera en mesure de dédier une partie importante de son temps à des
+recherches purement créatrices, purement spéculatives, purement ludiques. Même
+si on reprend certaines directions de recherches qui auraient été abandonnées
+entre temps, par exemple certaines directions de la mathématique actuelle ou
+même de la physique — si la société est prête à les prendre en charge, parce
+que la physique actuelle ne se fait pas simplement par la tête, elle se fait
+avec une instrumentation sérieuse, avec des mises de fonds, implique la
+mobilisation d’une énergie collective importante — , à ce moment-là, je n’y
+vois pas d’inconvénient ; mais je crois qu’il est absolument impossible de le
+prévoir maintenant. En tout cas, je suis d’accord avec vous que la liberté est
+véritablement un critère essentiel pour les directions à prendre ; enfin, pour
+moi elle l’est certainement. Je pense que rien de nouveau se créera en dehors
+de la liberté et même, encore une fois, que le dépérissement de la science
+actuelle augmentera notre liberté, et ce ne sera pas aux dépends de la liberté
+de qui que ce soit.
+
+à propos de votre image de l’homme ange et démon, je ne crois pas à cette
+dichotomie du bien et du mal. Je ne partage pas cette façon de voir ; il y a
+plutôt un mélange complexe de deux principes opposés. Si vous le permettez, je
+vais faire une petite digression philosophique concernant le mode de pensée
+mathématique et son influence sur la pensée générale. Une chose m’avait déjà
+frappé avant d’en arriver à une critique d’ensemble de la science depuis près
+de deux ans : c’est la grossièreté, disons, du mode de raisonnement
+mathématique quand on le confronte avec les phénomènes de la vie, avec les
+phénomènes naturels. Les modèles que nous fournit la mathématique, y compris
+les modèles logiques, sont une sorte de lit de Procuse pour la réalité. Une
+chose toute particulière aux mathématiques, c’est que chaque proposition, si
+l’on met à part les subtilités logiques, est ou bien vraie ou bien fausse ; il
+n’y a pas de milieu entre les deux, la dichotomie est totale. En fait, cela ne
+correspond absolument pas à la nature des choses. Dans la nature, dans la vie,
+il n’y a pas de propositions qui soient absolument vraie ou absolument fausses.
+Il y a même lieu souvent, pour bien appréhender la réalité, de prendre en ligne
+de compte des aspects en apparence contradictoires, en tout cas, des aspects
+complémentaires, et tous les deux sont importants. D’un point de vue plus
+élémentaire, aucune porte n’est jamais entièrement fermée ou entièrement
+ouverte, ça n’a pas de sens. Cette dichotomie qui provient peut-être de la
+mathématique, de la logique aristotélicienne, a vraiment imprégné le mode de
+pensée, y compris dans la vie de tous les jours et dans n’importe quel débat
+d’idées ou même de vie personnelle. C’est une chose que j’ai souvent remarquée
+en discutant avec des personnes, que ce soit en privé ou en public. En général,
+les personnes voient deux alternatives extrêmes et ne voient pas de milieu
+entre les deux. Si mon interlocuteur a choisi une certaine alternative et que
+j’aie une vision qui se situe au-delà de celle qu’il considère comme bonne,
+tout aussitôt, il m’accusera d’avoir choisi l’alternative extrême opposée,
+parce qu’il ne voit pas le milieu.
+
+Je crois qu’il y a là un vice de pensée inhérent au mode de pensée mathématique
+et j’ai l’impression qu’il se reflète également dans cette vision manichéenne
+de la nature humaine. Il y a d’une part le bon, d’autre part le mauvais et dans
+le meilleur des cas on les voit cohabiter. J’ai l’impression que ce que nous
+appelons mauvais n’est qu’une réaction naturelle à une certain nombre de
+répressions que nous subissons depuis notre naissance ; en un sens ce sont des
+réactions tout aussi naturelles, tout aussi nécessaires que, par exemple,
+l’apparition de la fièvre — signe que notre corps est en train de réagir
+douloureusement et positivement à une invasion microbienne. La tâche du médecin
+n’est pas d’éliminer la fièvre, mais d’essayer de combattre l’invasion
+microbienne par des médicaments. Ceci est tout au moins la thèse officielle.
+Peut-être la tâche du médecin de l’avenir sera-t-elle surtout de comprendre la
+cause psychosomatique de la prolifération microbienne à ce moment plutôt qu’à
+un autre, alors qu’il y a toujours des microbes dans l’environnement et alors
+que nous y sommes exposés tout le temps : quelles sont les causes véritables,
+quelles sont les tensions auxquelles nous avons été soumises et qui nous
+rendent vulnérables. Mais ceci est une autre paire de manches. Donc, j’ai
+l’impression que la vision manichéenne n’est pas très bonne. Elle fait partie
+de l’air que nous respirons avec la culture ambiante et je crois que cette
+vision va encore se modifier.
+
+Question :
+
+— Vous pensez que cette vue du juste et du faux, c’est de l’air que nous
+respirons et qui vient de la mathématique. Moi, je crois plutôt le contraire.
+La mathématique moderne est plus jeune que toute notre philosophie médiévale ou
+même que la théologie. Parce que cette pensée qu’il y a le bon Dieu et le
+Diable, les deux adversaires, elle est très ancienne. Il se peut que les
+mathématiciens médiévaux du XVe et du XVIe siècle étaient tellement imprégnés
+de cette idée qu’il était naturel de penser comme cela. à propos de l’autre
+exemple, je pense qu’avant que la médecine n’arrive au point actuel, on
+essayait aussi d’expulser les mauvais esprits, le Diable. Donc, c’était la même
+idée. Je voulais juste émettre un doute, je le vois juste à l’envers. Je ne
+dirai pas que c’est un vice qui est dû à la mathématique seulement, mais je
+dirai qu’elle à peut-être hérité cela du passé.
+
+Réponse :
+
+— Bourbaki n’est pas à l’origine de la mathématique ; dans ses notes
+historiques, Bourbaki la fait remonter aux mathématiciens Grecs, disons à
+partir de Pythagore. C’est donc déjà une tradition très ancienne. Prenons par
+exemple Euclide qui a développé cet esprit systématique de façon absolument
+parfaite, de telle sorte qu’il a été enseigné jusqu’à il n’y a pas tellement
+longtemps encore. Il est donc possible que la mathématique soit pour quelque
+chose dans cet état d’esprit ; même s’il n’y a pas — je ne peux pas en jurer —
+un effet de causalité. Enfin, le fait que les deux choses aillent dans le même
+sens, la dichotomie mathématique et le manichéisme ou cette tendance à ne voir
+toujours que les deux extrêmes d’une alternative, ça ne peut guère être le
+hasard ; il y a certainement corrélation entre les deux. Ce sont des choses
+liées dans la culture dominante. Cette culture dominante, de toute façon, ne
+date pas d’hier, je pense qu’elle s’est développée depuis plus de deux mille
+ans. Je ne suis pas très ferré en histoire mais, par exemple des gens comme
+Jacques Ellul ou Lewis Mumford ont étudié précisément les tenants et les
+aboutissants idéologiques de la science et de la technologie depuis les
+origines ; en ce qui concerne Mumford, il me semble qu’il les situe déjà du
+temps de pharaons, des grands travaux de l’Egypte. Donc, je crois que nos
+ancêtres, à ce sujet, remontent assez loin. Mais il y avait une autre question
+je crois ?
+
+Question :
+
+— ………DÉBUT DE LA QUESTION INAUDIBLE……… de démystification ou de dénonciation du
+rôle de la science et surtout la motivation du scientifique, même si cela est
+peut-être incomplet. Je crois par exemple qu’on pourrait discuter longtemps et
+noter les rôles importants qu’a, à mon avis, la science dans la conservation
+même des structures sociales de notre société. J’ai trouvé un peu préoccupante
+la sorte d’interprétation qui pouvait découler de votre exposé sur la solution
+qui peut être trouvée à cette difficulté. La solution de se retirer, disons, du
+travail qui finalement est la raison pour laquelle la société vous paye est une
+solution de luxe qui ne peut être accessible qu’à très peu de gens et qui ne
+peut pas être érigée en solution. Matériellement, un ouvrier ne peut pas se
+retirer du travail pour développer sa sensibilité. à mon avis, si un ouvrier ne
+se cultive pas, ce n’est pas parce qu’il n’en a pas envie, ou ne comprend pas
+quels sont les vrais problèmes ; c’est parce que le poids écrasant de la
+société et des rythmes de travail, des conditions de vie auxquelles il est
+soumis ne lui offrent aucune autre possibilité. à mon avis, ce n’est pas les
+symptômes qu’il faut soigner, c’est la maladie. La maladie est entièrement
+basée dans la structure sociale. à mon avis, c’est seulement en participant à
+ces changements de structure qu’on pourrait un jour envisager de trouver un
+rôle nouveau soit dans la sensibilité de chacun, soit un rôle nouveau de la
+science elle-même. Ce n’est pas en faisant un peu de théorie — ici, sur quel
+est le rôle de la science —, qu’on pourra trouver notre place. Je crois que la
+participation à cette lutte est difficile pour un scientifique parce que
+justement la parcellisation des activités sociales la rend difficile. Je crois
+que la participation à cette lutte ne peut se faire qu’à partir de son poste de
+travail parce que le poste de travail est l’arme de tout le monde et je ne vois
+pas pourquoi ce serait différent pour un scientifique.
+
+Réponse :
+
+— Je pense qu’il y a un malentendu en ce sens que vous croyez que je préconise
+telle ou telle solution. Or, effectivement, j’ai parlé de mon expérience
+personnelle, de ma pratique personnelle, à titre d’illustration d’un type
+d’action, de conclusions qu’on peut tirer lorsqu’on est confronté avec
+certaines contradictions. Toutefois, ce n’est absolument pas dans l’intention
+de me poser en modèle pour qui que ce soit. Je réalise bien que les conditions
+dans lesquelles sont placés les uns et les autres sont extrêmement différentes.
+D’une part les conditions dites objectives et ensuite les conditions
+subjectives, disons, l’état de préparation nécessaire pour prendre des
+décisions assez draconiennes ; comme celles que j’ai prises en quittant
+l’Institut dans lequel je travaillais et un peu plus tard en décidant d’arrêter
+la recherche scientifique. Ce qui n’empêche pas d’ailleurs, que je suis encore
+payé pour enseigner, l’année dernière et cette année-ci, la science très
+ésotérique au Collège de France et que l’an prochain je serai ou bien
+enseignant à la Faculté des Sciences ou bien directeur de recherches au Centre
+National de la Recherche Scientifique (CNRS). C’est-à-dire que je n’aurai pas
+échappé à la contradiction de mon état scientifique.
+
+Finalement, ce qui compte pour moi, ce n’est pas tellement d’atteindre la
+position de pureté morale qui est parfaitement impossible à l’intérieur de
+cette société — c’est une des nombreuses choses que j’ai apprises au cours de
+ces deux dernières années —, ce qui compte c’est que nous soyons un ferment de
+transformations, un facteur de transformations là où nous nous trouvons. Bien
+entendu, si nous nous trouvons dans un certain milieu professionnel, il ne
+s’impose pas nécessairement que nous quittions ce milieu professionnel. Mais ce
+dont je suis convaincu, c’est que cette transformation ne se fera pas par la
+vertu magique d’adhérer à un certain parti ou, de temps en temps, de distribuer
+des tracts, ou encore d’adhérer à certains syndicats ou de déposer des
+bulletins de vote. Je suis entièrement persuadé que ce genre de transformation
+se fera, pour commencer, au niveau des relations personnelles. Dans la mesure
+où ces relations personnelles ne changeront pas profondément, rien ne changera.
+Si l’on pense que les relations personnelles ne peuvent changer qu’après le
+changement des structures — cela signifie qu’on renvoie tout au grand jour J de
+la révolution — la révolution ne viendra jamais ou la révolution qui viendra ne
+changera rien. C’est-à-dire qu’elle mettra une équipe dirigeante technocratique
+à la place d’une autre équipe technocratique et la société industrielle ira son
+chemin comme par devant.
+
+Comme exemple de relations qui devront changer de façon radicale, je pense par
+exemple aux relations entre les enseignants et les étudiants. Je serais
+probablement confronté dès cet automne à cette situation. C’est la première
+fois de ma vie d’ailleurs que je serais dans un amphithéâtre avec des étudiants
+auxquels je devrais pour de bon enseigner les mathématiques qui vont les
+préparer à certains examens, leur procurer certains diplômes, dont je suis
+convaincu qu’ils ne servent à rien. D’une part, ils ne servent à rien pour la
+société dans son ensemble et d’autre part, il n’est même pas clair qu’ils
+servent à quelque chose à ceux qui auront ce diplôme, parce qu’il n’est
+absolument pas clair que cela leur permettra d’avoir un métier par la suite.
+Aujourd’hui encore, la plupart des scientifiques ou bien se refusent à voir le
+problème ou bien, s’ils le voient, posent un voile pudique par dessus dans
+leurs relations avec les étudiants. Les relations entre les étudiants et eux
+sont donc des relations traditionnelles de professeur à étudiant ; c’est-à-dire
+qu’ils font un cours technique, celui qu’on leur demande, un point c’est tout.
+Lorsque, exceptionnellement, les étudiants posent des questions techniques, on
+répond à ces questions techniques du mieux que l’on peut et c’est tout. En ce
+qui me concerne, j’ai décidé de ne pas m’en tenir à ce type de relations et de
+ne plus séparer l’enseignement mathématique d’une discussion cartes sur table
+avec des étudiants ou tous ceux qui voudront venir assister à la discussion
+pour essayer de faire le point : « Pourquoi est-ce que nous sommes là ? » ; «
+Qu’est-ce que nous allons apprendre ensemble ? » ; « Pourquoi ? » ; « Que
+signifie l’examen qui est au bout du programme de cette année ? » ; « Quel est
+son sens ? » ; « Quel est notre rôle mutuel, moi professeur et vous étudiants ?
+». Et enfin, décider ensemble de ce que l’on fera. Sans doute, dans les
+premières années, à moins que la situation ne mûrisse encore plus vite que je
+ne le prévois, il est probable que les étudiants, dans leur majorité,
+insisteront pour que, une fois ces discussions terminées, on suive plus ou
+moins le programme traditionnel et qu’on fasse le rituel d’usage des examens.
+Il est possible aussi qu’ils en décident autrement, auquel cas je me plierai à
+leur avis. De toute façon, il y a là la possibilité d’un échange dynamique,
+d’un mûrissement de l’atmosphère générale.
+
+En fait, j’ai commencé à mettre ces idées en pratique cette année même au
+Collège de France où j’avais annoncé, comme première partie au cours de
+mathématique prévu, une discussion sur le même thème que notre discussion
+d’aujourd’hui. Cette proposition a donné lieu à un débat assez vif parmi mes
+collègues du Collège de France. Pour la grande majorité d’entre-eux, c’était
+une chose absolument impensable qu’un cours de mathématique puisse être
+partiellement et officiellement consacré à une question de ce type. En fait, le
+titre était plus long : « Sciences et techniques dans la crise évolutionniste
+actuelle, Allons-nous continuer la recherche scientifique ? ». Je posais donc
+la question de la crise de civilisation qui me semble être la question urgente
+à débattre actuellement. Or, peut-être pour la première fois ou une des rares
+fois que dans cette auguste institution on pose une question véritablement
+brûlante pour la civilisation dans laquelle nous sommes et qu’on se propose de
+la discuter publiquement et en profondeur, c’est pratiquement la seule fois où
+le corps professoral réuni refuse de donner son approbation à ce sujet de
+cours. En effet, le vote a donné quelque chose comme trente cinq voix contre et
+neuf voix pour et j’ai été moi-même surpris de trouver neuf collègues pour
+soutenir mon initiative. Cette surprise était d’ailleurs, j’en suis convaincu,
+beaucoup plus grande chez les trente cinq autres. D’après le ton sur lequel
+avait lieu cette discussion, il était clair que, pour eux, c’était impensable
+qu’un scientifique dans son sens commun puisse ne pas être choqué par le genre
+de proposition que je faisais pour ce cours soi-disant de mathématiques.
+
+Ceci, bien entendu, juste à titre d’exemple, non pas pour dire que tout le
+monde peut faire la même chose, mais à titre d’exemple concret de ce que,
+personnellement, j’essaie de faire pour tirer parti d’une situation simplement
+contradictoire. Au lieu d’essayer de cacher ces contradictions, j’essaie de les
+faire éclater le plus brutalement possible et ceci comme un moyen de faire
+mûrir une certaine situation.
+
+Question :
+
+— Vous avez fait constamment référence à la recherche scientifique, mais j’ai
+l’impression que vous donnez au terme une signification trop restreinte. J’ai
+l’impression que pour vous ce sont les mathématiques bien sûr, ensuite la
+physique, quelque chose comme ça, à la rigueur la recherche médicale. Mais il
+me semble que vous ignorez qu’il y a la recherche en sciences sociales, la
+recherche en sciences de l’homme. Vous parlez en termes apocalyptiques de ce
+qui va arriver à la société, à la civilisation, comme si c’était quelque chose
+qui devait arriver fatalement et de façon incontrôlable par l’homme. Je ne suis
+pas d’accord avec vous parce que, précisément, les sciences de l’homme
+permettent de contrôler cette évolution. On peut déjà observer le travail
+concret des agences publicitaires pour ne pas parler de choses beaucoup plus
+graves que la consommation du Coca-Cola. Vous parlez en termes apocalyptiques
+de choses qui doivent arriver comme des choses incontrôlables pour l’homme et
+là je crois que vous avez tort parce que si vous voulez modifier la société
+dans un sens — et je suis tout à fait d’accord avec vous qu’il faut la
+modifier, même si je ne suis pas tout à fait certain que ce soit dans le même
+sens, mais en tout cas on est d’accord sur la principe — , je crois au
+contraire qu’il faut faire cette science maudite, comme le disait le monsieur,
+pour pouvoir nous aussi contrôler cette évolution que vous présentez dans les
+caractéristiques de fatalisme. D’autre part, lorsque vous dites que vous allez
+discuter avec les étudiants de quels seront vos rapports avec eux, vous allez
+faire une science de l’homme que l’on appelle la communication pédagogique. Ce
+n’est pas les mathématiques, mais c’est de la science. Je crains que fatalement
+vous retombiez soit dans la religion, soit dans la science parce que ou bien
+vous faites des prophéties apocalyptiques ou bien vous essayez de faire avec
+vos étudiants, de réinventer des sciences qui sont déjà faites.
+
+Réponse :
+
+— Vous parlez d’une vision apocalyptique de la civilisation et c’est un terme
+qui revient souvent quand on parle de la civilisation. C’est toujours ce même
+conditionnement qui nous fait concevoir qu’il y a une civilisation, comme s’il
+n’y en avait pas eu des centaines et comme s’il ne va pas y en avoir des
+centaines d’autres. Donc, déjà, un premier point que je voudrais remettre en
+place dans ma vision tout au moins : c’est qu’il s’agit d’une certaine
+civilisation, qu’on peut fort bien récuser d’ailleurs et dont on peut fort bien
+prévoir qu’elle va disparaître comme bien d’autres civilisations ont disparu.
+Lorsqu’il y a près de deux ans, j’envisageai la disparition de la civilisation,
+j’étais encore trop prisonnier de ses conditionnements : j’identifiais la
+civilisation, la seule que je connaissais, avec l’humanité. La destruction de
+cette civilisation m’apparaissait effectivement sous une image apocalyptique de
+fin de l’espèce humaine. Or, voici une demi-heure ou une heure, j’ai expliqué
+que cette vision a entièrement changé maintenant. L’écroulement de cette
+civilisation n’est pas une vision apocalyptique ; c’est, disons, quelque chose
+qui me semble hautement souhaitable. Je considère même que c’est notre grande
+chance qu’il existe, disons, une base biologique de la société humaine qui se
+refuse à suivre la voie de la civilisation industrielle dominante. Finalement,
+c’est la crise écologique qui va nous forcer, que nous le voulions ou non, à
+modifier notre cours et à développer des modes de vie et des modes de
+production qui soient radicalement différents de ceux en cours dans la
+civilisation industrielle.
+
+D’autre part, vous parlez du rôle des sciences humaines en disant qu’il n’y a
+pas que les sciences dites exactes, les sciences physiques, et je le sais bien.
+Vous savez aussi comme moi d’ailleurs, et ça c’est une critique très sérieuse
+qu’on peut faire aux sciences humaines, qu’elles essaient de plus en plus de se
+mouler sur le modèle des sciences dites exactes, les sciences mathématiques en
+particulier. De telle façon que, dans la mesure où les sciences humaines
+veulent accéder au véritable statut scientifique — puisque seule la science
+d’après des normes universellement admises est considérée comme sérieuse —, on
+enferme ces sciences humaines de plus en plus dans un jargon souvent
+mathématique. On connaît l’influence des tests numériques, des méthodes
+quantitatives, dans la psychologie par exemple. On pourrait souligner aussi que
+pas mal de traités d’économie, des gros traités, commencent, pour les deux
+tiers du livre, par l’exposé de pesants formalismes mathématiques qui ont comme
+seul but de les rendre incompréhensibles au commun des mortels. Un professeur
+d’économie de Bordeaux a dit textuellement à un de mes amis que le but de ce
+formalisme mathématique dans un livre de sa composition était de cacher le fait
+que le contenu scientifique véritable pouvait être compris par n’importe quelle
+personne ayant le niveau d’instruction du Certificat d’études. Ainsi, on peut
+faire un reproche très sérieux aux sciences humaines dans cette direction.
+
+D’autre part les sciences humaines sont l’objet de détournements et à ce titre
+elles sont soumises aux mêmes critiques que les autres sciences. Par exemple,
+dans l’avant dernier numéro de Survivre, on donne pas mal de détails sur
+l’utilisation de l’anthropologie dans la guerre du Sud-Ouest Asiatique. En
+fait, la science anthropologique américaine est en grande partie au service des
+militaires : pour arriver à quadriller les populations indigènes en Asie du
+Sud-Ouest, pour étudier par ordinateur l’impact que pourrait avoir telle
+politique ou telle autre, comme de brûler les récoltes par exemple, afin de
+savoir si les retombées seront plus bénéfiques vis à vis de l’implantation
+américaine ou si, au contraire, le ressentiment pourrait l’emporter. Il y a
+donc des études comme celles-ci qui sont faites sur le terrain par des
+anthropologistes.
+
+Finalement, je crois qu’il n’y a pas tellement de différences à faire du point
+de vue du rôle pratique et idéologique entre les sciences humaines et les
+sciences dites exactes, les sciences naturelles disons.
+
+Question :
+
+— Je voudrais vous demander quels sont les buts du mouvement Survivre et quels
+sont les contacts que vous avez avec les mouvements existants dans la région
+comme le Comité Bugey-Cobaye.
+
+Réponse :
+
+— Les buts du mouvement Survivre ? Au début notre vision était apocalyptique et
+nous avions pris pour but de lutter pour la survie de l’espèce humaine menacée
+par les dangers des conflits militaires et par la crise écologique provenant de
+la pollution et de l’épuisement des ressources naturelles. Mais au cours d’un
+an et demi d’existence, nous avons pas mal évolué et je pense que l’on pourrait
+formuler ainsi la façon dont la plupart d’entre nous voient notre but : aider à
+préparer le passage d’un type de civilisation à un autre par des
+transformations qui puissent s’effectuer dans l’immédiat. Jusqu’à maintenant,
+notre travail a été surtout un travail critique. Néanmoins, cela fait
+longtemps, plus de six mois, que nous voyons assez clairement qu’il faut
+arriver à dépasser le travail critique pour arriver à faire quelque chose dans
+une direction constructive. Par exemple, disséminer de l’information sur le
+mouvement communautaire, sur le développement des techniques de technologie
+légère, de biotechnologie, dans le sens des Nouveaux Alchimistes ; disséminer
+de l’information sur les expériences d’écoles nouvelles du type Summerhill et
+des choses dans ce genre là. Mais, entre l’intention de le faire et, disons, la
+préparation du point de vue de l’expérience, du point de vue du contact, etc.
+il y a encore un pas. Je pense que cette transformation, dans le contenu du
+journal et notre action, se fera progressivement, au cours de l’année ou des
+années qui viennent. J’espère que d’ici une année par exemple, au moins une
+moitié des publications que nous sortirons, que ce soit journal ou autre chose,
+vont être dans cette direction constructive au lieu d’être purement critiques.
+
+En ce qui concerne nos relations avec le Comité Bugey-Cobaye, eh bien nous
+sommes en bonnes relations avec eux ! Cinq membres de Survivre ont participé à
+la grande fête-manifestation de Bugey-Cobaye du mois de juin dernier. Nous
+sommes en relations assez suivies avec eux. On a même eu quelqu’un à la
+permanence devant la centrale nucléaire de Bugey pendant un mois ou deux en
+automne dernier. C’était un adhérent de l’Hérault, un rédacteur du Courpatier,
+un petit journal écologique régional de la Provence.
+
+Du point de vue pratique, une des choses utiles que nous pouvons faire, disons,
+comme action spécifique, en particulier parce que nous sommes beaucoup de
+scientifiques à l’intérieur de Survivre et que nous sommes donc mieux placés
+que beaucoup d’autres, c’est de contribuer à dénoncer un certain nombre de
+mythes de la science et nous allons commencer vigoureusement dans ce sens à
+partir du n°9 de Survivre. Son éditorial est consacré à une description
+critique de l’idéologie scientiste, avec pour titre « La Nouvelle église
+Universelle ».
+
+D’autre part, nous pensons qu’un phénomène très important est en train de se
+passer. A savoir le nombre de plus en plus grand de personnes isolées dans leur
+coin ou dans leur milieu familial ou professionnel qui commencent à être
+conscientes de l’existence d’une véritable crise de civilisation. Elles se
+sentent donc isolées et de ce fait paralysées, et nous voulons contribuer à
+créer un réseau des connaissances entre ces gens là. En fait, ce réseau est en
+train de se constituer par l’intermédiaire de toutes sortes de facteurs ; je
+crois que, par exemple, les articles de Fournier dans Charlie-Hebdo y
+contribuent et je pense que l’existence de notre groupe y contribue également.
+D’ailleurs, ce phénomène de création d’un réseau de liens entre des entités
+d’abord isolées ne concerne pas seulement les personnes mais aussi les groupes.
+Par exemple, pendant un bon moment, le groupe Survivre croyait être le seul de
+son espèce à faire une analyse critique de la science. Or nous nous sommes
+aperçus depuis que, un peu partout, il y a des groupes analogues qui sont en
+train de surgir. Nous connaissons particulièrement bien le groupe Lacitoc et un
+autre groupe aux États-Unis Science for the People. Il y a d’autres groupes qui
+se sont créés plus ou moins simultanément avec nous et sous le même nom
+Survival aux états-Unis. Ces groupes, qui sont partis chacun d’un aspect
+spécifique de la crise de civilisation, élargissent peu à peu leur point de
+départ avec toutes sortes d’autres groupes qui parfois sont partis de points
+très différents. J’ai l’impression que ce processus extrêmement rapide va
+probablement être achevé dans l’année qui vient. C’est-à-dire qu’à partir de ce
+moment-là, n’importe qui dans la société occidentale, tout au moins celui qui
+commence à sentir assez clairement que quelque chose ne va pas du point de vue
+de la civilisation, qui commence à être étreint par un sentiment d’incohérence
+dans sa propre vie — mais une incohérence qui ait une signification globale —,
+d’emblée il lui sera impossible d’être isolé, il trouvera immédiatement à se
+placer dans ce réseau. C’est un processus auquel un groupe comme le nôtre peut
+très bien contribuer. Ce sont des choses assez modestes, disons, chacun le fait
+dans sa propre sphère d’activités, mais comme il y a beaucoup de personnes et
+de groupes qui le font, l’effet global n’est absolument pas négligeable.
+
+Retranscription de la conférence-débat donnée à l’amphithéâtre du CERN le 27
+janvier 1972.
+
+(Transcrit de l’enregistrement magnétique par Jacqueline Picard)
+
+Notes:
+
+[1] NdE : Le New Alchemy Institute est un groupe de chercheurs en agrobiologie
+fondé par le Dr. John Todd et le Dr. William McLarney situé a Woods Hole,
+Massachusetts, États-Unis (Nancy Todd, The Book of the new alchemists, éd.
+Dutton, New York 1977).
+
+[2] Hélas ! Ni plus ni moins que le Prix Nobel E. Rutherford qui ne voyait en
+1932 « aucune espèce d’application pratique aux recherches sur l’atome ». [NdE
+: Note sans indication d’origine.] 1972, Alexandre Grothendieck, Histoire de
+l'écologie, science, société	
+
