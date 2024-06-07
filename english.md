@@ -2,7 +2,7 @@
 
 > Talk given at the CERN on January 27, 1972.  
 > Original transcription by Jacqueline Picard from the magnetic recording.  
-> Translated from french by Peio Borthelle from web sources [^3] [^4] [^5] [^6].
+> Translated from French by Peio Borthelle from web sources [^3] [^4] [^5] [^6].
 
 I've always been bothered by the fact that during my research activities this
 influencial name -- Alexander Grothendieck -- started becoming a common noun
@@ -14,7 +14,7 @@ with whom I regularly talked about the social impact of the academic science --
 stumbled upon it shortly after Grothendieck's death in 2014 which generated a
 short burst of media interest and shared it with me.
 
-Talking with french and international collegues I realized that in general,
+Talking with French and international collegues I realized that in general,
 little was known about the interesting end of Grothendieck's carrer as a
 mathematician. Most commonly one would hear that "he left academia abruptly",
 that "he went to live alone recluded from society" or with uncomfortable
@@ -49,7 +49,7 @@ ask ourselves deeper questions. It's precisely in order to go a little deeper
 that it's useful to have speakers like Mr. Grothendieck, whom we have with us
 this evening, and to whom I'd like to hand over the floor immediately.
 
-**Alexandre Grothendieck:**
+**Alexander Grothendieck:**
 
 I'm very pleased to have the opportunity to speak at CERN. For many people,
 including myself, CERN is one of the few citadels, so to speak, of a certain
@@ -406,7 +406,7 @@ conditions are indicated in the journal.
 by Dr. John Todd and Dr. William McLarney in Woods Hole, Massachusetts, USA
 (Nancy Todd, The Book of the new alchemists, Dutton, New York 1977).
 [^2]: Alas! No other than Nobel Prize winner E. Rutherford, who in
-1932 saw "no practical application for research on the atom". [PN: footnote
+1932 saw "no practical application for research on the atom". [TN: footnote
 without indication of origin].
 [^3]: [https://sciences-critiques.fr/allons-nous-continuer-la-recherche-scientifique/]()
 [^4]: [https://sniadecki.wordpress.com/2012/05/20/grothendieck-recherche]()
