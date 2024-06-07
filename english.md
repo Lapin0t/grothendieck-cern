@@ -408,7 +408,7 @@ by Dr. John Todd and Dr. William McLarney in Woods Hole, Massachusetts, USA
 [^2]: Alas! No other than Nobel Prize winner E. Rutherford, who in
 1932 saw "no practical application for research on the atom". [TN: footnote
 without indication of origin].
-[^3]: [https://sciences-critiques.fr/allons-nous-continuer-la-recherche-scientifique/]()
-[^4]: [https://sniadecki.wordpress.com/2012/05/20/grothendieck-recherche]()
-[^5]: [https://www.youtube.com/watch?v=ZW9JpZXwGXc]()
-[^6]: [https://cds.cern.ch/record/912518/]()
+[^3]: <https://sciences-critiques.fr/allons-nous-continuer-la-recherche-scientifique/>
+[^4]: <https://sniadecki.wordpress.com/2012/05/20/grothendieck-recherche>
+[^5]: <https://www.youtube.com/watch?v=ZW9JpZXwGXc>
+[^6]: <https://cds.cern.ch/record/912518/>
