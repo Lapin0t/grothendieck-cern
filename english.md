@@ -5,7 +5,7 @@
 > Translated from French by Peio Borthelle from web sources [^3] [^4] [^5] [^6].
 
 I've always been bothered by the fact that during my research activities this
-influencial name -- Alexander Grothendieck -- started becoming a common noun
+influential name -- Alexander Grothendieck -- started becoming a common noun
 (as in "the grothendieck construction" or "grothendieck fibrations", two very
 common objects in categorical logic among other fields). As a matter of fact my
 first encounter with his name was not in the context of mathematics but
@@ -14,17 +14,17 @@ with whom I regularly talked about the social impact of the academic science --
 stumbled upon it shortly after Grothendieck's death in 2014 which generated a
 short burst of media interest and shared it with me.
 
-Talking with French and international collegues I realized that in general,
-little was known about the interesting end of Grothendieck's carrer as a
+Talking with French and international colleagues I realized that in general,
+little was known about the interesting end of Grothendieck's career as a
 mathematician. Most commonly one would hear that "he left academia abruptly",
-that "he went to live alone recluded from society" or with uncomfortable
+that "he went to live alone secluded from society" or with uncomfortable
 amusement that "he refused any form of publication of his later works" (how
-childish can this be?). This depolitization and "mad mathematician" trope is
+childish can this be?). This depoliticization and "mad mathematician" trope is
 quite notable as his turnaround was very much in phase with the ecological and
 societal critics at the time (onward 1968 mobilizations). These ideas are still
 very relevant and active today, perhaps tagged as radical ecology.
 
-Recently I had these discussions again and realized that an english translation
+Recently I had these discussions again and realized that an English translation
 of this talk was nowhere to be found online. The following aims to correct this
 fact. Please send me any mistake you can find and feel free to reproduce the
 translation with or without attribution to me. Copyright of the original audio
@@ -89,7 +89,7 @@ particularly disinclined to ask myself questions about the ins and outs of this
 scientific research, and in particular its social impact. It's only quite
 recently, in the last two years, that I've gradually begun to ask myself
 questions on this subject. In the future, I'll only do what's strictly
-necessary to support myself, since until proven ortherwise I have no other
+necessary to support myself, since until proven otherwise I have no other
 profession than mathematician. I know I'm not the only one to have asked this
 question. Over the last year or two, and even over the last few months, more
 and more people have been asking key questions on this subject. I'm quite sure
@@ -392,7 +392,7 @@ effectively insoluble problems.
 We now see our role in the following direction: to be ourselves an integral
 part of a process of transformations -- of ferments of transformations from one
 type of civilization to another -- which we can begin to develop right now. In
-this sense the problem of survival for us has been superseeded, it has become
+this sense the problem of survival for us has been superseded, it has become
 the problem of life, of the transformation of our lives in the immediate
 future; in such a way that on the one hand we are talking about ways of living
 and human relations that are worthy of being lived and, on the other hand are
