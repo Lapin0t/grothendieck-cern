@@ -178,7 +178,7 @@ milieu. That milieu of esoteric scientists who did high mathematics.
 To illustrate this point I'd like to give a very concrete example. Two weeks
 ago I went on a tour of Brittany. Among other things, I had the opportunity to
 visit Nantes where I met friends and spoke at a Maison de Jeunes et de la
-Culture (MJC, TN: youth cultural center) about the kind of issues we're
+Culture \[TN: MJC, youth cultural center\] about the kind of issues we're
 discussing today. I was there on Monday. As my colleagues from the University
 of Nantes had been warned of my arrival, they had asked me in extremis to come
 and give a talk on mathematical subjects with them the following afternoon. As
@@ -246,7 +246,7 @@ this decision I was thinking of spending several years doing research,
 acquiring some basic knowledge of biology, with the idea of applying and
 developing mathematical techniques, mathematical methods, to deal with
 biological problems. It's an absolutely fascinating thing for me and from the
-moment some friends and I started a group called "Survivre" (TN: Surviving) --
+moment some friends and I started a group called "Survivre" \[TN: Surviving\] --
 precisely to deal with questions of survival -- from that moment on, overnight,
 the interest in disinterested scientific research completely vanished for me
 and I've never had a minute's regret since.
@@ -360,8 +360,8 @@ probably enough; perhaps it would be preferable for other points to be dealt
 with in a little more depth during a general discussion.
 
 Before I finish my introductory speech I'd just like to say that I've brought
-back a few copies of a magazine we publish called "Survivre et Vivre" (TN:
-Surviving and Living). This is the group I mentioned at the beginning, which
+back a few copies of a magazine we publish called "Survivre et Vivre" \[TN:
+Surviving and Living\]. This is the group I mentioned at the beginning, which
 changed its name a few months ago. Instead of "Survivre", after a rather
 significant and characteristic change of perspective it has become "Survivre et
 Vivre". In the beginning we started out with the fear of a possible end of the
@@ -403,11 +403,11 @@ For subscriptions, please write to my address: 21, avenue Kennedy, 91 Massy;
 conditions are indicated in the journal.
 
 [^1]: The New Alchemy Institute is a group of agrobiology researchers founded
-by Dr. John Todd and Dr. William McLarney in Woods Hole, Massachusetts, USA
-(Nancy Todd, The Book of the new alchemists, Dutton, New York 1977).
+  by Dr. John Todd and Dr. William McLarney in Woods Hole, Massachusetts, USA
+  (Nancy Todd, The Book of the new alchemists, Dutton, New York 1977).
 [^2]: Alas! No other than Nobel Prize winner E. Rutherford, who in
-1932 saw "no practical application for research on the atom". [TN: footnote
-without indication of origin].
+  1932 saw "no practical application for research on the atom". \[TN: footnote
+  without indication of origin\].
 [^3]: <https://sciences-critiques.fr/allons-nous-continuer-la-recherche-scientifique/>
 [^4]: <https://sniadecki.wordpress.com/2012/05/20/grothendieck-recherche>
 [^5]: <https://www.youtube.com/watch?v=ZW9JpZXwGXc>
