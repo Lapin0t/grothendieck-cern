@@ -179,7 +179,7 @@ milieu. That milieu of esoteric scientists who did high mathematics.
 To illustrate this point I'd like to give a very concrete example. Two weeks
 ago I went on a tour of Brittany. Among other things, I had the opportunity to
 visit Nantes where I met friends and spoke at a Maison de Jeunes et de la
-Culture (MJC) \[TN: youth cultural center\] about the kind of issues we're
+Culture \[MJC, youth cultural center\] about the kind of issues we're
 discussing today. I was there on Monday. As my colleagues from the University
 of Nantes had been warned of my arrival, they had asked me in extremis to come
 and give a talk on mathematical subjects with them the following afternoon. As
@@ -247,8 +247,8 @@ this decision I was thinking of spending several years doing research,
 acquiring some basic knowledge of biology, with the idea of applying and
 developing mathematical techniques, mathematical methods, to deal with
 biological problems. It's an absolutely fascinating thing for me and from the
-moment some friends and I started a group called "Survivre" \[TN:
-Surviving\]---precisely to deal with questions of survival---from that moment
+moment some friends and I started a group called *Survivre*
+\[surviving\]---precisely to deal with questions of survival---from that moment
 on, overnight, the interest in disinterested scientific research completely
 vanished for me and I've never had a minute's regret since.
 
@@ -361,12 +361,12 @@ enough; perhaps it would be preferable for other points to be dealt with in a
 little more depth during a general discussion.
 
 Before I finish my introductory speech I'd just like to say that I've brought
-back a few copies of a magazine we publish called "Survivre et Vivre" \[TN:
-surviving and living\]. This is the group I mentioned at the beginning, which
-changed its name a few months ago. Instead of "Survivre", after a rather
-significant and characteristic change of perspective it has become "Survivre et
-Vivre". In the beginning we started out with the fear of a possible end of the
-world where the essential imperative for us was the imperative of survival.
+back a few copies of a magazine we publish called *Survivre et Vivre*
+\[surviving and living\]. This is the group I mentioned at the beginning, which
+changed its name a few months ago. Instead of "surviving", after a rather
+significant and characteristic change of perspective it has become "surviving
+and living". In the beginning we started out with the fear of a possible end of
+the world where the essential imperative for us was the imperative of survival.
 Since then, through a parallel process for many of us and others outside the
 group we've come to a different conclusion. At first we were overwhelmed by the
 multiplicity of extremely tangled problems in such a way that it seemed
@@ -449,7 +449,7 @@ that, a priori, you felt like questioning it---you didn't want to tak it
 seriously. Jargon, let's say, of an unbridled cult of Mao Tse Tung's
 personality, a sort of hagiography that accompanied it, meant that I read these
 publications quite often, but they fell out of my hands of discouragment: it
-just wouldn't do. Then, three months ago, I met the New Alchemists[^1] who made
+just wouldn't do. Then, three months ago, I met the *New Alchemists*[^1] who made
 me realize the possibility of a scientific practice entirely different from
 that which currently prevails in all the sciences that are at universities and
 research institutes. From that moment, I took a renewed interest in what was
@@ -508,7 +508,7 @@ First of all, the patient is no longer an object in the hands of the doctor; it
 is no longer the doctor who is the subject who knows and applies his knowledge
 to the sick object. Here, in scientific investigation, the doctor is
 simultaneously the object of experimentation, which at the same time enables
-him to overcome this \[...\] \[TN: inaudible passage\] \[...\] of the position,
+him to overcome this \[...\] \[inaudible\] \[...\] of the position,
 intolerable for the patient, of being an object without will, without
 personality, in the hands of the doctor. And at the same time allows, I
 believe, a much more direct, much more intense understanding of what's going
@@ -710,7 +710,7 @@ gardens, at the bedside of the sick, by all those who take part in production
 in society, that is the satisfaction of our real needs---in other words, by
 everyone.
 
-So science truly becomes everyone's science. For the New Alchemists, this group
+So science truly becomes everyone's science. For the *New Alchemists*, this group
 I've already alluded to, it's even a technical necessity. Indeed, their
 intention, their starting theme, was to develop biotechnologies which would
 allow, with extremely rudimentary means that don't call on the industrial and
@@ -728,17 +728,17 @@ microsystem to another---and there are thousands and tens of thousands of them
 in a country like the United States, where they pursue their operations.
 
 So, to develop these methods, we need to develop them in the field and everyone
-must join in virtually. The New Alchemists are in contact with millions of
+must join in virtually. The *New Alchemists* are in contact with millions of
 Americans interested in agrobiology, "organic gardening and farming", through
-the intermediary through their Organic gardening and farming magazine[^10]. and
-farming magazine. Among them are thousands of small people, small farmers,
-small gardeners, who have written to them to join their research into the
-development of such ecosystems. So, currently, it's not just a question of
-ideas in the air, but things that are being done in a country as radically
-opposed to this kind of spirit as the United States. Once again, by cause of
-concrete details that John Todd, one of the founders of the New Alchemists,
-told me, it's absolutely impossible to promote this kind of research within
-existing academic structures. They've tried, but it's impossible.
+the intermediary through their *Organic Gardening and Farming* magazine[^10].
+Among them are thousands of small people, small farmers, small gardeners, who
+have written to them to join their research into the development of such
+ecosystems. So, currently, it's not just a question of ideas in the air, but
+things that are being done in a country as radically opposed to this kind of
+spirit as the United States. Once again, by cause of concrete details that John
+Todd, one of the founders of the *New Alchemists*, told me, it's absolutely
+impossible to promote this kind of research within existing academic
+structures. They've tried, but it's impossible.
 
 > Although 99% of the population doesn't have access to science, meanwhile it
 > should be noted that they have a greater respect for it than you do, and this
@@ -748,7 +748,7 @@ existing academic structures. They've tried, but it's impossible.
 > medicine, for example? Which are not acupuncture, which are not the
 > repositioning of pelvic organs, but simply penicillin and a number of other
 > decisive things that led to an increase in the world's population. A number
-> of us, we're living---your group is called "Vivre" \[TN: living\]---we're
+> of us, we're living---your group is called "Vivre" \[living\]---we're
 > living because of this cursed science.
 >
 > It's true that we're at risk of destruction, and it's only natural that we
@@ -778,7 +778,7 @@ existing academic structures. They've tried, but it's impossible.
 > Einstein. There are problems for people who are neither Galois nor Einstein
 > and who are in large institutions where the industrial organization of
 > research poses considerable problems and considerable anxieties. But I find
-> that with your total rejection of science, you're joining Planète[^7], you
+> that with your total rejection of science, you're joining *Planète*[^7], you
 > join a certain number of, you know what I'm thinking of, you're joining a
 > certain number of obscurantists. I apologize, as I'm receiving you in the
 > stomach for the first time, I can't criticize your positions, but there's a
@@ -833,8 +833,8 @@ won't want to, simply, I'm convinced, to do scientific research. That doesn't
 mean we won't want to do any research at all. Research, our creative
 activities, will go in completely different directions.
 
-I'm thinking, for example, of the kind of research being carried out by the the
-New Alchemists with thousands of little people who have no university training.
+I'm thinking, for example, of the kind of research being carried out by the
+*New Alchemists* with thousands of little people who have no university training.
 These are fascinating things that will challenge the creativity of each and
 every one of us in ways as profound and perhaps as satisfying as
 ultra-specialized laboratory work is today.
@@ -949,7 +949,7 @@ about, let's say, any real, official, or occult relations, between CERN and the
 military apparatus. I have no knowledge of such things. I wanted to talk about
 the image that the name CERN has on a large part of the more or less educated
 public, myself included. The name itself: Centre Européen de Recherche
-Nucléaires \[TN: European Center for Nuclear Research\]; the fact that it's an
+Nucléaires \[european center for nuclear research\]; the fact that it's an
 organization that brings together a number of countries; the prestige attached
 to it, which I'm sure you won't deny; the fact that it's research concerns at
 least the atom, even if it's not "nuclear research"; and that linked to the
@@ -1118,7 +1118,7 @@ and, possibly, taking away people's freedom to ask the kinds of questions that
 current science is asking, we won't be at the same time suppress freedom, or an
 appreciable part of it.
 
-I would like to say in this regard that I and my friends at Survivre et Vivre
+I would like to say in this regard that I and my friends at *Survivre et Vivre*
 are not recommending coercive measures to prevent anyone from doing science.
 That's not the point. If I predict that science, as it is currently practiced,
 will wither away, that, for example, that the whole of mathematics, more or
@@ -1238,7 +1238,7 @@ can hardly be chance. There's certainly a correlation between the two. These
 things are linked in the dominant culture. This dominant culture, in any case,
 is not new. I think it's been developing for over two thousand years. years.
 I'm not very well versed in history, but, for example, people like Jacques
-Ellul and Lewis Mumford[TODO REF], for example, have precisely studied the
+Ellul and Lewis Mumford\[TODO REF\], for example, have precisely studied the
 ideological ins and outs of science and technology from its very origins. As
 far as Mumford is concerned, it seems to me that he dates it back already to
 the time of the Pharaohs, of the great works of Egypt. So, I believe that our
@@ -1246,7 +1246,7 @@ ancestors, in this respect, go back quite a long way.
 
 But there was another question I believe?
 
-> \[TN: beginning inaudible\] \[...\] the part that serves of demystification
+> \[inaudible\] \[...\] the part that serves of demystification
 > or denunciation of the role of science and, above all, the motivation of the
 > scientist, even if this is perhaps incomplete. I believe, for example, that
 > we could discuss at length and note the important role that science plays, in
@@ -1282,10 +1282,11 @@ conditions, and on the other, subjective conditions, let's say, the state of
 readiness required to make draconian steps, such as the one I made when I left
 the Institute where I worked, and a little later when I decided to stop
 scientific research. Which, by the way, doesn't mean I'm not still paid to
-teach, last year and this year, very esoteric science at the Collège de France,
-and that next year I'll either be teaching at the Orsay faculty of science or
-research director at the Centre National de Recherche Scientifique (CNRS) \[TN:
-french national research agency\].
+teach, last year and this year, very esoteric science at the Collège de France
+\[prestigious french higher education establishment\], and that next year I'll
+either be teaching at the Orsay faculty of science or research director at the
+Centre National de Recherche Scientifique \[CNRS, french national research
+agency\].
 
 In other words, I won't have escaped the contradiction of my scientific status.
 In the end, what counts for me is not so much achieving the position of moral
@@ -1371,7 +1372,7 @@ as possible, as a means of maturing a certain situation.
 > fate, something that mankind can't control. I don't agree with you, because
 > people already try to control this evolution. We can already observe the
 > concrete work of advertising agencies, not to mention things much more
-> serious than than Coca-Cola consumption. You speak in apocalyptic terms about
+> serious than than *Coca-Cola* consumption. You speak in apocalyptic terms about
 > things that are bound to happen. I think you're wrong there, because if you
 > want to change society in a certain sense---and I totally agree with you that
 > it has to be changed, even if I'm not entirely sure it's in the same
@@ -1422,12 +1423,12 @@ purpose is to make them incomprehensible to mere mortals. A professor of
 economics in Bordeaux literally told a friend of mine that the purpose of this
 mathematical formalism in a book of his own was to hide the fact that the true
 scientific content could be understood by anyone with the level of education of
-the Certificat d'Études \[TN: primary education\]. We can thus make a very
+the Certificat d'Études \[primary education certificate\]. We can thus make a very
 serious reproach to the humanities in this respect.
 
 On the other hand, the human sciences are subject to misappropriation, and
 hence subject to the same criticism as other sciences. For example, in the in
-the penultimate issue of Survivre, we go into some detail about the use of
+the penultimate issue of *Survivre*, we go into some detail about the use of
 anthropology in the South-West Asian war. In fact, American anthropological
 science is largely at the service of the military. the military: in order to
 map out the indigenous populations in South-West Asia; in order to study by
@@ -1440,12 +1441,12 @@ In the end, I don't think there's that much difference to be made on the
 practical and ideological role between the humanities and the so-called exact
 sciences, let's say the natural sciences.
 
-> I'd like to ask you about the aims of the Survivre movement and what contacts
+> I'd like to ask you about the aims of the *Survivre* movement and what contacts
 > you have with existing movements in the region, such as the such as the
-> commitee "Bugey-Cobaye" \[TN: "Bugey Guinea-pig", large anti-nuclear
+> *Comité Bugey-Cobaye* \[Bugey guinea-pig commitee, large anti-nuclear
 > demonstration near Lyon in july 1971\].
 
-What are the goals of the Survivre movement? In the beginning, our vision was
+What are the goals of the *Survivre* movement? In the beginning, our vision was
 apocalyptic and and our aim was to fight for the survival of the human species,
 threatened by the dangers of military conflict and the ecological crisis,
 caused by pollution and the depletion of natural resources. But in the year and
@@ -1456,8 +1457,8 @@ now, our work has mainly been critical. Nevertheless, it's been a long time,
 six months, since we've been able to see quite clearly that we need to move
 past critical work to be able to do something in a constructive direction. For
 example, disseminating information about the community movement, on the
-development of light technology, of biotechnology, in the sense of the New
-Alchemists; disseminating information on the experiences of new schools like
+development of light technology, of biotechnology, in the sense of the *New
+Alchemists*; disseminating information on the experiences of new schools like
 Summerhill[^8] and things like that. But, between the intention to do it and,
 let's say, the preparation from the point of view of experience, from the point
 of view of contact, and so on, there's another step. I think that this
@@ -1467,18 +1468,18 @@ example, at least half of the publications we put out, whether newspaper or
 otherwise, will be in this constructive direction, rather than being purely
 critical.
 
-As for our relations with the commitee Bugey-Cobaye, well, we're on good terms
-with them! Five Survivre members took part in Bugey-Cobaye's big party-event
+As for our relations with the *Comité Bugey-Cobaye*, well, we're on good terms
+with them! Five *Survivre* members took part in *Bugey-Cobaye*'s big party-event
 last June. We're in fairly close contact with them. We even had someone at the
 the Bugey nuclear power plant for a month or two last autumn. He was a member
-from the Hérault region, an editor of Le Courpatier, a small regional
+from the Hérault region, an editor of *Le Courpatier*, a small regional
 ecological newspaper in Provence.
 
 From a practical point of view, one of the useful things we can do, say, as a
 specific action, particularly because we're a lot of scientists within Survivre
 and are therefore better placed than many others, is to help denounce a certain
 number of scientific myth, and we're going to start vigorously in this
-direction from starting with issue no. 9 of Survivre. Its editorial is devoted
+direction from starting with issue no. 9 of *Survivre*. Its editorial is devoted
 to a new critical description of scientism, with the title "The New Universal
 Church".
 
@@ -1489,42 +1490,45 @@ existence of a real, civilizational, crisis. They feel isolated and thus
 paralyzed, and we want to contribute to create a network of contacts between
 these people. In fact, this network is is in the process of being set up
 through all kinds of factors; I believe that, for example, Fournier's articles
-in Charlie-Hebdo contributes to it, and I think the existence of our group also
+in *Charlie-Hebdo* contributes to it, and I think the existence of our group also
 contributes to it. Moreover, this phenomenon of creating a network of links
 between previously isolated entities applies not only to individuals, but also
-to groups. For example, for quite some time, the Survivre group believed it was
+to groups. For example, for quite some time, the *Survivre* group believed it was
 the only one of its kind to critically analyze science. But we have since
 realized that similar groups are springing up all over the place. We are
-particularly familiar with the CIDOC[^9]\[TODO correct? was transcribed as
-"Lacitoc"\] and another group in the United States, Science for the People.
-There are other groups created more or less simultaneously with us and under
-the same name "Survival" in the USA. These groups, each based on a specific
-aspect of the crisis of civilization, are gradually broadening their starting
-point with all kinds of other groups, sometimes starting from very different
-points. I have the impression that this extremely rapid process will be
-completed in the coming year. In other words that anyone in Western society, at
-least anyone who begins to sense quite clearly that something is not quite
-right from the point of view of civilization, who begins to be gripped by a
-feeling of incoherence in his own life---but an incoherence with a global
-meaning---it will be impossible for him to be isolated, he will immediately
-find himself in this network. It's a process to which a group like ours can
-make an excellent contribution. These are fairly modest things, which everyone
-does in their own sphere of activity, but as there are so many people and
-groups who do it, the overall effect is by no means negligible.
+particularly familiar with the CIDOC[^9] and another group in the United
+States, *Science for the People*. There are other groups created more or less
+simultaneously with us and under the same name "survival" in the USA. These
+groups, each based on a specific aspect of the crisis of civilization, are
+gradually broadening their starting point with all kinds of other groups,
+sometimes starting from very different points. I have the impression that this
+extremely rapid process will be completed in the coming year. In other words
+that anyone in Western society, at least anyone who begins to sense quite
+clearly that something is not quite right from the point of view of
+civilization, who begins to be gripped by a feeling of incoherence in his own
+life---but an incoherence with a global meaning---it will be impossible for him
+to be isolated, he will immediately find himself in this network. It's a
+process to which a group like ours can make an excellent contribution. These
+are fairly modest things, which everyone does in their own sphere of activity,
+but as there are so many people and groups who do it, the overall effect is by
+no means negligible.
 
-[^1]: The New Alchemy Institute is a group of agrobiology researchers founded
+[^1]: The *New Alchemy Institute* is a group of agrobiology researchers founded
   by Dr. John Todd and Dr. William McLarney in Woods Hole, Massachusetts, USA
-  (see e.g. "The Book of the new alchemists", ed. Nancy Todd, pub. Dutton, NY, 1977).
+  (see e.g. "The Book of the New Alchemists", ed. Nancy Todd, pub. Dutton, NY,
+  1977).
 [^2]: Alas! No other than Nobel Prize winner E. Rutherford, who in
-  1932 saw "no practical application for research on the atom". \[TN: footnote
+  1932 saw "no practical application for research on the atom". \[footnote
   without indication of origin\]
 [^3]: <https://sciences-critiques.fr/allons-nous-continuer-la-recherche-scientifique/>
 [^4]: <https://sniadecki.wordpress.com/2012/05/20/grothendieck-recherche>
 [^6]: <https://cds.cern.ch/record/912518/>
-[^7]: Planète (1961--1971), a french magazine publishing on the topics of
+[^7]: *Planète* (1961--1971), a french magazine publishing on the topics of
   science history, science fiction, fantastic, futurology.
 [^8]: See Alexander Sutherland Neill, "Summerhill: A Radical Approach to Child
     Rearing", ed. Hart, 1960.
-[^9]: Centro Intercultural de Documentación, a center in the spirit of free
-  universities founded in 1966 by Ivan Illich.
+[^9]: Centro Intercultural de Documentación (CIDOC), a cultural center in the
+  spirit of free universities founded in 1966 by Ivan Illich. \[possibly be
+  incorrect, was originally transcribed as "Lacitoc", own interpretation: "la
+  CIDOC"\]
 [^10]: <https://archive.org/details/pub_organic-gardening>
