@@ -1,18 +1,18 @@
-# "Will we continue scientific research?" -- Alexander Grothendieck
+# "Will we continue scientific research?"---Alexander Grothendieck
 
-> Talk given at the CERN on January 27, 1972.  
-> Original transcription by Jacqueline Picard from the magnetic recording.  
+> Talk given at the CERN on January 27, 1972.
+> Original transcription by Jacqueline Picard from the magnetic recording.
 > Translated from French by Peio Borthelle from web sources [^3] [^4] [^5] [^6].
 
 I've always been bothered by the fact that during my research activities this
-influential name -- Alexander Grothendieck -- started becoming a common noun
-(as in "the grothendieck construction" or "grothendieck fibrations", two very
+influential name---Alexander Grothendieck---started becoming a common noun (as
+in "the grothendieck construction" or "grothendieck fibrations", two very
 common objects in categorical logic among other fields). As a matter of fact my
 first encounter with his name was not in the context of mathematics but
-listening to the speech transcribed below. A friend of mine -- fellow student
-with whom I regularly talked about the social impact of the academic science --
-stumbled upon it shortly after Grothendieck's death in 2014 which generated a
-short burst of media interest and shared it with me.
+listening to the speech transcribed below. A friend of mine---fellow student
+with whom I regularly talked about the social impact of the academic
+science---stumbled upon it shortly after Grothendieck's death in 2014 which
+generated a short burst of media interest and shared it with me.
 
 Talking with French and international colleagues I realized that in general,
 little was known about the interesting end of Grothendieck's career as a
@@ -28,9 +28,9 @@ Recently I had these discussions again and realized that an English translation
 of this talk was nowhere to be found online. The following aims to correct this
 fact. Please send me any mistake you can find and feel free to reproduce the
 translation with or without attribution to me. Copyright of the original audio
-files appears to be held by CERN [^6].
+files appears to be held by CERN.
 
-Peio Borthelle
+--Peio Borthelle
 
 ## Transcription
 
@@ -39,12 +39,12 @@ Peio Borthelle
 Good evening, ladies and gentlemen.
 
 In the ten years we've been organizing our lecture series, we've periodically
-asked scientists to come and give us their thoughts on science -- on the
-responsibility of the scientist -- and I think it's particularly necessary to do
+asked scientists to come and give us their thoughts on science---on the
+responsibility of the scientist---and I think it's particularly necessary to do
 so because we have a tendency at CERN to think of ourselves as extraordinary
 people doing theoretical things that aren't dangerous at all within an
 exceptional European collaboration. So always caught up in these fine ideas
-we tend -- perhaps a little too much -- to be satisfied with them and not to
+we tend---perhaps a little too much---to be satisfied with them and not to
 ask ourselves deeper questions. It's precisely in order to go a little deeper
 that it's useful to have speakers like Mr. Grothendieck, whom we have with us
 this evening, and to whom I'd like to hand over the floor immediately.
@@ -54,9 +54,9 @@ this evening, and to whom I'd like to hand over the floor immediately.
 I'm very pleased to have the opportunity to speak at CERN. For many people,
 including myself, CERN is one of the few citadels, so to speak, of a certain
 science, in fact a cutting-edge science: nuclear research. I've been proven
-wrong. It seems that at CERN -- the European Organization for Nuclear Research
--- one doesn't do nuclear research. Be that as it may I think that in many
-people's minds CERN does.
+wrong. It seems that at CERN---the European Organization for Nuclear
+Research---one doesn't do nuclear research. Be that as it may I think that in
+many people's minds CERN does.
 
 Nuclear research is indissolubly associated, for many people too, with military
 research, with A and H bombs, and also with something whose drawbacks are only
@@ -67,14 +67,14 @@ receded into the past. Of course, the accumulation of destructive A- and H-type
 weapons kept a lot of people worried. A more recent phenomenon has been the
 proliferation of nuclear power plants to meet the growing energy needs of
 industrial society. However, it has become clear that this proliferation has a
-number of -- to put it euphemistically -- "extremely serious" drawbacks, and
+number of---to put it euphemistically---"extremely serious" drawbacks, and
 that it poses some very serious problems. The fact that cutting-edge research
 is associated with a real threat to the survival of mankind, a threat even to
 life itself on the planet, is not an exceptional situation, it's the rule. In
 the one or two years I've been wondering about this, I've come to realize that
 ultimately, in each of the major issues that currently threaten the survival of
-the human species, these issues would not arise in their current form -- the
-threat to survival would not arise -- if the state of our science were that of
+the human species, these issues would not arise in their current form---the
+threat to survival would not arise---if the state of our science were that of
 the year 1900, for example. I don't mean to imply that science is the sole
 cause of all these ills and dangers. There is of course a combination of
 several things, but science, the current state of scientific research,
@@ -101,8 +101,8 @@ of losing their position. Of course, this atmosphere is not specific to CERN. I
 believe it's an atmosphere that prevails in most academic or research
 organizations, in France, in Europe, and even, to a certain extent, in the
 United States, where people who take the risk of openly expressing their
-reservations -- even on a strictly scientific level, about certain scientific
-developments -- are still a tiny minority.
+reservations---even on a strictly scientific level, about certain scientific
+developments---are still a tiny minority.
 
 So, for the past year or two, I've been asking myself questions. And not just
 to myself. I've also been asking them to colleagues and, particularly over the
@@ -134,7 +134,7 @@ and at the same time a certain fascination with the problems at hand.
 But all this, in the end doesn't answer the question: "What is the social
 purpose of scientific research?". Because, if its sole purpose were to give
 pleasure say to a handful of mathematicians or other scientists, society would
-doubtless hesitate to invest considerable funds in it -- in mathematics they're
+doubtless hesitate to invest considerable funds in it---in mathematics they're
 not very considerable but in the other sciences they can be. Society would also
 be reluctant to pay tribute to this type of activity whereas it is rather
 silent about activities that may require just as much effort, but of a
@@ -150,20 +150,21 @@ for everyone! I was astonished to discover that for most scientists, scientific
 research is felt to be a constraint, a servitude. Doing scientific research is
 a matter of life and death for any considered member of the scientific
 community. Scientific research is a prerequisite for getting a job, once you've
-embarked on this path without really knowing what it's all about. Once you've got your
-job, it's an imperative to move up the ladder. Once you've moved up the ladder,
-even assuming you've made it to the top, it's an imperative to be considered in
-the running. You're expected to produce. Scientific production -- like any
-other kind of production in the ambient civilization -- is considered an
-imperative in itself. The remarkable thing about all this is that in the end,
-the content of research becomes a second thought. It's all about producing a
-certain number of "papers". In extreme cases, a scientist's productivity is
-measured by the number of pages they publish. Under these conditions, for a
-large number of scientists -- certainly for the overwhelming majority, with the
-real exception of a few who are fortunate enough to have an exceptional gift or
-to be in a social position and disposition that enables them to free themselves
-from these feelings of constraint -- for most, scientific research is a real
-constraint that kills the pleasure one can have in carrying it out.
+embarked on this path without really knowing what it's all about. Once you've
+got your job, it's an imperative to move up the ladder. Once you've moved up
+the ladder, even assuming you've made it to the top, it's an imperative to be
+considered in the running. You're expected to produce. Scientific
+production---like any other kind of production in the ambient civilization---is
+considered an imperative in itself. The remarkable thing about all this is that
+in the end, the content of research becomes a second thought. It's all about
+producing a certain number of "papers". In extreme cases, a scientist's
+productivity is measured by the number of pages they publish. Under these
+conditions, for a large number of scientists---certainly for the overwhelming
+majority, with the real exception of a few who are fortunate enough to have an
+exceptional gift or to be in a social position and disposition that enables
+them to free themselves from these feelings of constraint---for most,
+scientific research is a real constraint that kills the pleasure one can have
+in carrying it out.
 
 This is something I discovered with amazement, because we don't talk about it.
 Between my students and myself, I thought there was a spontaneous and
@@ -178,22 +179,22 @@ milieu. That milieu of esoteric scientists who did high mathematics.
 To illustrate this point I'd like to give a very concrete example. Two weeks
 ago I went on a tour of Brittany. Among other things, I had the opportunity to
 visit Nantes where I met friends and spoke at a Maison de Jeunes et de la
-Culture \[TN: MJC, youth cultural center\] about the kind of issues we're
+Culture (MJC) \[TN: youth cultural center\] about the kind of issues we're
 discussing today. I was there on Monday. As my colleagues from the University
 of Nantes had been warned of my arrival, they had asked me in extremis to come
 and give a talk on mathematical subjects with them the following afternoon. As
-it happened, on the very day of my visit one of the Nantes mathematicians, M.
+it happened, on the very day of my visit one of the Nantes mathematicians, Mr.
 Molinaro, committed suicide. So because of this unfortunate incident the
 mathematical talk that had been planned was cancelled. Instead I contacted a
 number of colleagues to ask if we could get together to talk a little about
 mathematical life within the mathematics department at the University and also
 to talk a little about this suicide. There was an extremely revealing session
-that afternoon in Nantes where everyone present -- with one exception I'd say
--- clearly felt that this suicide was very very closely linked to the kind of
-things we'd been discussing the evening before at the MJC.
+that afternoon in Nantes where everyone present---with one exception I'd
+say---clearly felt that this suicide was very very closely linked to the kind
+of things we'd been discussing the evening before at the MJC.
 
 In fact, I'll perhaps give one or two details. It so happened that Molinaro had
-two students working on post-graduate theses -- I don't think they were state
+two students working on post-graduate theses---I don't think they were state
 theses. These theses were not considered to be of sufficient scientific value.
 They were judged very harshly by Dieudonné, who is a good colleague of mine and
 with whom I wrote a major treatise on algebraic geometry. So I know him very
@@ -204,19 +205,19 @@ higher education posts, he undermined them and their inclusion was refused.
 This of course was felt as a kind of personal affront by Molinaro who had
 already had difficulties before, and he committed suicide on these
 circumstances. In fact I had a mathematician friend called Terenhöfel who also
-committed suicide. I know a number of mathematicians -- I'm talking mainly
-about mathematicians here, since that's the milieu I've known best -- who have
-gone mad.
+committed suicide. I know a number of mathematicians---I'm talking mainly about
+mathematicians here, since that's the milieu I've known best---who have gone
+mad.
 
 I don't think that's something peculiar to mathematics. I think that the kind
-of atmosphere that prevails in the scientific world -- whether mathematical or
-not -- a kind of atmosphere with extremely rarefied air, and the pressure that
+of atmosphere that prevails in the scientific world---whether mathematical or
+not---a kind of atmosphere with extremely rarefied air, and the pressure that
 is exerted on researchers have a lot to do with the evolution of these
 unfortunate cases.
 
 Concerning the pleasure we take in scientific research, I believe there can be
-enjoyment. But I've come to the conclusion that the enjoyment of some -- the
-enjoyment of those in high places, the enjoyment of the brilliant -- comes at
+enjoyment. But I've come to the conclusion that the enjoyment of some---the
+enjoyment of those in high places, the enjoyment of the brilliant---comes at
 the expense of genuine repression of the average scientist.
 
 Another aspect of this problem which goes beyond the limits of the scientific
@@ -246,32 +247,32 @@ this decision I was thinking of spending several years doing research,
 acquiring some basic knowledge of biology, with the idea of applying and
 developing mathematical techniques, mathematical methods, to deal with
 biological problems. It's an absolutely fascinating thing for me and from the
-moment some friends and I started a group called "Survivre" \[TN: Surviving\] --
-precisely to deal with questions of survival -- from that moment on, overnight,
-the interest in disinterested scientific research completely vanished for me
-and I've never had a minute's regret since.
+moment some friends and I started a group called "Survivre" \[TN:
+Surviving\]---precisely to deal with questions of survival---from that moment
+on, overnight, the interest in disinterested scientific research completely
+vanished for me and I've never had a minute's regret since.
 
 Then there's the second motivation: science, scientific activity, allows us to
 earn a living. This is actually the main motivation for most scientists,
 according to the conversations I've had with many of them. There's a lot to be
 said for that too. In particular for the young people who are currently
-embarking on a career in science -- those who study science under the
-assumption that they will find a ready-made job that will provide them with
-security. I think it's generally well known that this is a great illusion. By
-dint of producing highly qualified people we've really produced too many since
-the great boom in the production of young scientists -- since Sputnik some
-fifteen years ago -- and there's more and more unemployment in scientific
-careers. The problem is becoming increasingly acute for a growing number of
-young people, especially young scientists. In the USA we must produce something
-like 1000 or 1500 theses a year in mathematics alone and the number of job
-openings is about a third of that.
+embarking on a career in science---those who study science under the assumption
+that they will find a ready-made job that will provide them with security. I
+think it's generally well known that this is a great illusion. By dint of
+producing highly qualified people we've really produced too many since the
+great boom in the production of young scientists---since Sputnik some fifteen
+years ago---and there's more and more unemployment in scientific careers. The
+problem is becoming increasingly acute for a growing number of young people,
+especially young scientists. In the USA we must produce something like 1000 or
+1500 theses a year in mathematics alone and the number of job openings is about
+a third of that.
 
 On the other hand the fact remains that when science enables us to earn a
-salary and support ourselves, the links between our work and the satisfaction of
-our needs are practically cut and dried. The link is practically formed by the
-salary but our needs are not directly linked to the activity we perform. In
-fact -- and this is the remarkable thing -- when the question is asked: "What
-is the social purpose of science?", practically nobody is able to answer. The
+salary and support ourselves, the links between our work and the satisfaction
+of our needs are practically cut and dried. The link is practically formed by
+the salary but our needs are not directly linked to the activity we perform. In
+fact---and this is the remarkable thing---when the question is asked: "What is
+the social purpose of science?", practically nobody is able to answer. The
 scientific activities we engage in don't serve to directly fulfill any of our
 needs, any of the needs of our loved ones, of people we may know. There's a
 perfect alienation between ourselves and our work.
@@ -281,10 +282,10 @@ concerning almost all professional activities within industrial civilization.
 It's one of the great failings of industrial civilization.
 
 As far as mathematics in particular is concerned, for the last few months I've
-been really trying to discover a way in which mathematical research -- that which
-has been carried out over the last few centuries, I'm not necessarily talking
-about the most recent mathematical research, in which I was still
-involved at a fairly recent date -- could be of use from the point of view of
+been really trying to discover a way in which mathematical research---that
+which has been carried out over the last few centuries, I'm not necessarily
+talking about the most recent mathematical research, in which I was still
+involved at a fairly recent date---could be of use from the point of view of
 satisfying our needs. I've been talking to all kinds of mathematicians about
 this for the last three months. No one has been able to give me an answer. In
 audiences like this or smaller groups of colleagues nobody knows. I wouldn't
@@ -295,10 +296,10 @@ much more content in some respects, at least until recently. After all I'm a
 mathematician myself and it would have pleased me to know that my mathematical
 knowledge could be used for something socially positive. However in the two
 years I've been trying to understand a little bit about the course society is
-taking, the possibilities we have to act favorably on this course -- in
+taking, the possibilities we have to act favorably on this course---in
 particular the possibilities we have to enable the survival of the human
 species and to enable life to evolve in a way that's worth living, that's worth
-surviving -- my knowledge as a scientist hasn't served me once.
+surviving---my knowledge as a scientist hasn't served me once.
 
 The only point on which my training as a mathematician served me was not so
 much my training as a mathematician as such, nor my name as a mathematician, it
@@ -330,7 +331,7 @@ part of my stay and the other.
 
 So not only am I announcing the more general public debate that takes place
 afterwards but I'm also distancing myself from the very practice of inviting
-foreign speakers to perform a certain ritual -- namely to give a high-profile
+foreign speakers to perform a certain ritual---namely to give a high-profile
 lecture on a great esoteric subject in front of an audience of fifty or a
 hundred people, perhaps two or three of whom can painfully make some sense of
 it while the others feel genuinely humiliated because, effectively, they feel a
@@ -339,8 +340,8 @@ clearly was in Toulouse a few months ago, and I actually felt a kind of relief
 that these things were being said. For the first time since I've been doing
 this kind of lecture, spontaneously, without anything having been agreed in
 advance, after the mathematical lecture which was indeed very esoteric and
-which in itself was very tedious and burdensome -- I had to apologize several
-times during the lecture because really it was quite intolerable -- well
+which in itself was very tedious and burdensome---I had to apologize several
+times during the lecture because really it was quite intolerable---well
 immediately afterwards an extremely interesting discussion took place precisely
 on the theme: "What's the point of this kind of mathematics?" and "What's the
 point of this kind of ritual of giving lectures to people who have absolutely
@@ -354,14 +355,14 @@ possibilities of developing a scientific practice entirely different from
 current scientific practice and about a more detailed critique of that
 practice.
 
-Instead I spoke in fairly concrete terms about my personal experience -- about
-what was passed on to me directly by others -- for half an hour. That's
-probably enough; perhaps it would be preferable for other points to be dealt
-with in a little more depth during a general discussion.
+Instead I spoke in fairly concrete terms about my personal experience---about
+what was passed on to me directly by others---for half an hour. That's probably
+enough; perhaps it would be preferable for other points to be dealt with in a
+little more depth during a general discussion.
 
 Before I finish my introductory speech I'd just like to say that I've brought
 back a few copies of a magazine we publish called "Survivre et Vivre" \[TN:
-Surviving and Living\]. This is the group I mentioned at the beginning, which
+surviving and living\]. This is the group I mentioned at the beginning, which
 changed its name a few months ago. Instead of "Survivre", after a rather
 significant and characteristic change of perspective it has become "Survivre et
 Vivre". In the beginning we started out with the fear of a possible end of the
@@ -372,26 +373,26 @@ multiplicity of extremely tangled problems in such a way that it seemed
 impossible to touch any one of them without at the same time bringing on all
 the others. In the end we would have given in to a kind of despair, a black
 pessimism, had we not made the following change of perspective: within the
-usual system of reference in which we live -- within the given type of
-civilization, let's call it western civilization or industrial civilization --
-there is no possible solution; the interweaving of economic, political,
-ideological and scientific problems is such that there are no possible
-outcomes.
+usual system of reference in which we live---within the given type of
+civilization, let's call it western civilization or industrial
+civilization---there is no possible solution; the interweaving of economic,
+political, ideological and scientific problems is such that there are no
+possible outcomes.
 
-At the beginning we thought that with scientific knowledge -- by making it
-available to enough people -- we'd be able to better grasp a solution to the
+At the beginning we thought that with scientific knowledge---by making it
+available to enough people---we'd be able to better grasp a solution to the
 problems at hand. We've come back from that illusion. We now believe that the
 solution will not come from more scientific knowledge or more techniques but
 from a change in civilization. That's where the extremely important change of
-perspective comes in. For us the dominant civilization -- industrial
-civilization -- is doomed to disappear in a relatively short time, in perhaps
+perspective comes in. For us the dominant civilization---industrial
+civilization---is doomed to disappear in a relatively short time, in perhaps
 ten, twenty or thirty years... one or two generations, in that order of
 magnitude; because the problems currently posed by this civilization are
 effectively insoluble problems.
 
 We now see our role in the following direction: to be ourselves an integral
-part of a process of transformations -- of ferments of transformations from one
-type of civilization to another -- which we can begin to develop right now. In
+part of a process of transformations---of ferments of transformations from one
+type of civilization to another---which we can begin to develop right now. In
 this sense the problem of survival for us has been superseded, it has become
 the problem of life, of the transformation of our lives in the immediate
 future; in such a way that on the one hand we are talking about ways of living
@@ -424,7 +425,7 @@ expense of other people's possibilities for fulfilment. If some people have
 found themselves under such psychological pressure to the point of suicide,
 it's because of the prevailing consensus that a person's worth was judged, for
 example, by their technical virtuosity in proving theorems, i.e. to perform
-excessively specialized operations -- when, the rest of the person was left
+excessively specialized operations---when, the rest of the person was left
 completely in the shadows. This is something I've experienced time and again.
 When we're talking a certain person and I ask, "Who is he?", I'm told, "He's a
 jerk." This meaning, between mathematicians, that it's a guy who either
@@ -444,7 +445,7 @@ on scientific practice, it's the most immediate thing I can think of to answer.
 
 Until quite recently, let's say about three months ago, I was rather closed to
 any information that came from China because it was wrapped up in such jargon
-that, a priori, you felt like questioning it -- you didn't want to tak it
+that, a priori, you felt like questioning it---you didn't want to tak it
 seriously. Jargon, let's say, of an unbridled cult of Mao Tse Tung's
 personality, a sort of hagiography that accompanied it, meant that I read these
 publications quite often, but they fell out of my hands of discouragment: it
@@ -463,15 +464,15 @@ whatever means you can find on the spot".
 
 Whether we're university professors, workers or farmers, we're all capable of
 creative initiative, of inventing something. of inventing something. I think
-the most striking way in which these -- let's call them "watchwords" -- or this
+the most striking way in which these---let's call them "watchwords"---or this
 new movement has materialized, is in the development of Chinese medicine.
 Particularly since the Cultural Revolution. This is precisely an example of
 science getting out of the hands of a certain caste to become the science of
 all, and it is only by becoming everyone's science can it become science for
 everyone. In fact, practically anyone can become a doctor, whatever their
 cultural background. This vast movement of "barefoot doctors" has mobilized an
-impressive number of people -- but I'm no good at statistics and can't say how
-many -- who travel the countryside for all kinds of simple medical procedures
+impressive number of people---but I'm no good at statistics and can't say how
+many---who travel the countryside for all kinds of simple medical procedures
 that would only be admitted after years and years of medical study in a social
 context like ours. Whereas over there, after just a few months' preparation,
 you can practice certain medical activities.
@@ -538,7 +539,7 @@ implications of the eventual use of what they are building.
 > catastrophe, say, famine, etc.?
 
 I think there's already a basic misunderstanding. I didn't say that anyone in
-particular anyone in particular, or anyone else -- me, for example, transform
+particular anyone in particular, or anyone else---me, for example, transform
 industrial society, just like that, over the next ten, twenty or thirty years
 years into another predetermined form of society. If a fairy were to invest me
 with discretionary powers, I'd tell her I didn't want to. Indeed, I'm quite
@@ -567,27 +568,27 @@ communicative, of communicating itself from one to another.
 Among the transformations to be carried out, there are in particular:
 overcoming of competitiveness between people, overcoming the attitude or desire
 of domination of one person over another, which in turn generates the desire of
-submission to an authority --- two aspects of the same tendency --- and, above
-all, the establishment of communication between people, which has become
-extremely poor in our civilization. Quite recently, I took stock of my own life
-and the human relationships I've had, and I was struck by how poor real
-communication was. For example, in mathematical circles, between colleagues,
-conversations are essentially about technical subjects connected to
-mathematics. I've had a number of romantic relationships in my life, as I'm
-sure most of you have, and, here too, I realized how much true communication,
-mutual understanding, was poor. I'm quite convinced that this is not a personal
-characteristic of mine, because I personally would be less gifted at
-communication than others. In fact, this is a general phenomenon in our
-culture, and indeed, when talking with many other people, I've made analogous
-observations. For myself, for example, I've made the general decision to pursue
-romantic relations with a woman only to the extent that it will seem to me to
-be a means of establishing deeper communication. If you like, this is just one
-particular example of a way in which each of us can immediately transform the
-way we approach others. Similarly, I can tell you that my relationship with my
-children has changed; in the sense that I realized that, on many occasions, I
-had been exercised a rather arbitrary authority over them, let's say, on things
-which, in good conscience, were their own responsibility. So these are things
-that can be changed.
+submission to an authority---two aspects of the same tendency---and, above all,
+the establishment of communication between people, which has become extremely
+poor in our civilization. Quite recently, I took stock of my own life and the
+human relationships I've had, and I was struck by how poor real communication
+was. For example, in mathematical circles, between colleagues, conversations
+are essentially about technical subjects connected to mathematics. I've had a
+number of romantic relationships in my life, as I'm sure most of you have, and,
+here too, I realized how much true communication, mutual understanding, was
+poor. I'm quite convinced that this is not a personal characteristic of mine,
+because I personally would be less gifted at communication than others. In
+fact, this is a general phenomenon in our culture, and indeed, when talking
+with many other people, I've made analogous observations. For myself, for
+example, I've made the general decision to pursue romantic relations with a
+woman only to the extent that it will seem to me to be a means of establishing
+deeper communication. If you like, this is just one particular example of a way
+in which each of us can immediately transform the way we approach others.
+Similarly, I can tell you that my relationship with my children has changed; in
+the sense that I realized that, on many occasions, I had been exercised a
+rather arbitrary authority over them, let's say, on things which, in good
+conscience, were their own responsibility. So these are things that can be
+changed.
 
 At first glance, one might wonder how this type of change is related to, say,
 the global problems of survival. I'm convinced of it, but I can't prove it,
@@ -739,16 +740,16 @@ concrete details that John Todd, one of the founders of the New Alchemists,
 told me, it's absolutely impossible to promote this kind of research within
 existing academic structures. They've tried, but it's impossible.
 
-> Although 99% of the population doesn't have access to science, meanwhile it should be
-> noted that they have a greater respect for it than you do, and this is based
-> on a fact that is not simply due to ignorance. For example, we could ask the
-> question: How many people in this room owe their lives to the fact that there
-> was this science you decry---that there have been spin-offs in medicine, for
-> example? Which are not acupuncture, which are not the repositioning of pelvic
-> organs, but simply penicillin and a number of other decisive things that led
-> to an increase in the world's population. A number of us, we're living---your
-> group is called "Vivre" \[TN: living\]---we're living because of this cursed
-> science.
+> Although 99% of the population doesn't have access to science, meanwhile it
+> should be noted that they have a greater respect for it than you do, and this
+> is based on a fact that is not simply due to ignorance. For example, we could
+> ask the question: How many people in this room owe their lives to the fact
+> that there was this science you decry---that there have been spin-offs in
+> medicine, for example? Which are not acupuncture, which are not the
+> repositioning of pelvic organs, but simply penicillin and a number of other
+> decisive things that led to an increase in the world's population. A number
+> of us, we're living---your group is called "Vivre" \[TN: living\]---we're
+> living because of this cursed science.
 >
 > It's true that we're at risk of destruction, and it's only natural that we
 > should reflect on what science is today, in the hands of guys who seem to
@@ -760,11 +761,11 @@ existing academic structures. They've tried, but it's impossible.
 > position.
 >
 > You have expressed the doubt, based on your relations with certain people at
-> CERN, that the research done, for example by us, that we think that it has no military
-> application, this is something that can perfectly be doubted. Maybe we're all
-> idiots [^2], but I don't think so. Really, I don't think any colleague would
-> take the slightest risk in coming to us and saying: How could what we're doing
-> risk to have military applications?
+> CERN, that the research done, for example by us, that we think that it has no
+> military application, this is something that can perfectly be doubted. Maybe
+> we're all idiots [^2], but I don't think so. Really, I don't think any
+> colleague would take the slightest risk in coming to us and saying: How could
+> what we're doing risk to have military applications?
 >
 > And that brings me to something something that seems essential to me, you
 > asked the question: What's the point of mathematics? We must continue: What
@@ -1094,24 +1095,23 @@ day, day after day for a long time, trying to develop mathematical theorems
 increasingly sophisticated, increasingly esoteric. I have the impression that
 this type of mentality will disappear in the generations to come.
 
-> \[TN: question slightly edited because rather confuse \] You have realized
-> that our world is a world where there is no dialogue. Or at least there is a
-> sad monologue under somewhat speculative appearance. You're calling on us to
-> become aware of this world. Admitting we become aware of this world, like you
-> do, let me ask you the following question. Don't you think there's something
-> more, whatever the mode of civilization, something which is unique to humans:
-> this unsettling freedom to ask questions, to ask why, for example, do the
-> planets revolve around the sun in this way? Why are we unhappy? This great
-> freedom seems to me to be condemned at the same time as science. Because, in
-> fact, we also have this freedom to say that science is a misfortune. By
-> making us aware that current science is bad, you may be taking away the
-> freedom of others. Perhaps one day science might appear good. In a way, like
-> a pendulum, man is simultaneously cohabited by the angel and the devil. You
-> simply want him to be inhabited by the angel. I'd be delighted, but human
-> history has often shown, hasn't it, that he oscillates between bad and good.
-> Perhaps you're expecting the pendulum pendulum will swing in the right
-> direction this time. I hope so with you, but I don't know if this pendulum
-> will be stopped at that position in the future.
+> You have realized that our world is a world where there is no dialogue. Or at
+> least there is a sad monologue under somewhat speculative appearance. You're
+> calling on us to become aware of this world. Admitting we become aware of
+> this world, like you do, let me ask you the following question. Don't you
+> think there's something more, whatever the mode of civilization, something
+> which is unique to humans: this unsettling freedom to ask questions, to ask
+> why, for example, do the planets revolve around the sun in this way? Why are
+> we unhappy? This great freedom seems to me to be condemned at the same time
+> as science. Because, in fact, we also have this freedom to say that science
+> is a misfortune. By making us aware that current science is bad, you may be
+> taking away the freedom of others. Perhaps one day science might appear good.
+> In a way, like a pendulum, man is simultaneously cohabited by the angel and
+> the devil. You simply want him to be inhabited by the angel. I'd be
+> delighted, but human history has often shown, hasn't it, that he oscillates
+> between bad and good. Perhaps you're expecting the pendulum pendulum will
+> swing in the right direction this time. I hope so with you, but I don't know
+> if this pendulum will be stopped at that position in the future.
 
 One of your questions is whether, by turning our backs on science as currently
 and, possibly, taking away people's freedom to ask the kinds of questions that
@@ -1240,8 +1240,8 @@ is not new. I think it's been developing for over two thousand years. years.
 I'm not very well versed in history, but, for example, people like Jacques
 Ellul and Lewis Mumford[TODO REF], for example, have precisely studied the
 ideological ins and outs of science and technology from its very origins. As
-far as Mumford is concerned, it seems to me that he dates it back already to the
-time of the Pharaohs, of the great works of Egypt. So, I believe that our
+far as Mumford is concerned, it seems to me that he dates it back already to
+the time of the Pharaohs, of the great works of Egypt. So, I believe that our
 ancestors, in this respect, go back quite a long way.
 
 But there was another question I believe?
@@ -1265,7 +1265,7 @@ But there was another question I believe?
 > the social structure. In my opinion, it's only by participating in these
 > structural changes that we could one day envisage finding a new role either
 > for any individual's sensibility, or for science itself. It's not by a little
-> theorizing---in this case, about the role of science--- that we'll be able to
+> theorizing---in this case, about the role of science---that we'll be able to
 > find our place. I believe that participation in this struggle is difficult
 > for a scientist, precisely because the fragmentation of social activities
 > makes it difficult. I believe that participation in this struggle can only
@@ -1284,12 +1284,12 @@ the Institute where I worked, and a little later when I decided to stop
 scientific research. Which, by the way, doesn't mean I'm not still paid to
 teach, last year and this year, very esoteric science at the Collège de France,
 and that next year I'll either be teaching at the Orsay faculty of science or
-research director at the Centre National de Recherche Scientifique \[TN: CNRS,
-a frenche national research agency\].
+research director at the Centre National de Recherche Scientifique (CNRS) \[TN:
+french national research agency\].
 
 In other words, I won't have escaped the contradiction of my scientific status.
 In the end, what counts for me is not so much achieving the position of moral
-purity, which is perfectly impossible within society--- that's one of the many
+purity, which is perfectly impossible within society---that's one of the many
 things I've learned over the last two years---what counts is that we are a
 ferment of transformations, a factor of transformations wherever we find
 ourselves. Of course, if we find ourselves in a certain professional
@@ -1300,7 +1300,7 @@ handing out leaflets, join certain unions, or cast ballots. I'm entirely
 convinced that this kind of transformation will start with personal
 relationships. To the extent that if personal relationships don't change
 profoundly, nothing will. If we think that personal relationships can only
-change after structures have changed ---which means that everything is
+change after structures have changed---which means that everything is
 postponed until the big D day of the revolution---then the revolution will
 never come, or the revolution that does come won't change anything. In other
 words, it will put a technocratic management team in the place of another
@@ -1323,7 +1323,7 @@ exceptionally, students ask technical questions, we answer them as best we can,
 and that's it. As far as I'm concerned, I've decided not to stick to this type
 of relationship, to no longer separate mathematical teaching from a
 cards-on-the-table discussion with students---or anyone else who wants to join
-in ---to review: Why are we here? What are we going to learn together? Why?
+in---to review: Why are we here? What are we going to learn together? Why?
 What does the exam at the end of this year's program mean? What is its meaning?
 What is our mutual role, me as teacher and you as students? And finally,
 deciding together what we're going to do. No doubt, in the first few years,
@@ -1422,9 +1422,8 @@ purpose is to make them incomprehensible to mere mortals. A professor of
 economics in Bordeaux literally told a friend of mine that the purpose of this
 mathematical formalism in a book of his own was to hide the fact that the true
 scientific content could be understood by anyone with the level of education of
-the Certificat d'Études [TN: certificate sanctioning primary education until
-1989]. We can thus make a very serious reproach to the humanities in this
-respect.
+the Certificat d'Études \[TN: primary education\]. We can thus make a very
+serious reproach to the humanities in this respect.
 
 On the other hand, the human sciences are subject to misappropriation, and
 hence subject to the same criticism as other sciences. For example, in the in
@@ -1443,8 +1442,8 @@ sciences, let's say the natural sciences.
 
 > I'd like to ask you about the aims of the Survivre movement and what contacts
 > you have with existing movements in the region, such as the such as the
-> commitee "Bugey-Cobaye" \[TN: "Bugey-guinea-pig", name of a large
-> anti-nuclear demonstration near Lyon in july 1971\].
+> commitee "Bugey-Cobaye" \[TN: "Bugey Guinea-pig", large anti-nuclear
+> demonstration near Lyon in july 1971\].
 
 What are the goals of the Survivre movement? In the beginning, our vision was
 apocalyptic and and our aim was to fight for the survival of the human species,
