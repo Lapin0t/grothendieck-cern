@@ -1528,7 +1528,7 @@ no means negligible.
 [^8]: See Alexander Sutherland Neill, "Summerhill: A Radical Approach to Child
     Rearing", ed. Hart, 1960.
 [^9]: Centro Intercultural de Documentación (CIDOC), a cultural center in the
-  spirit of free universities founded in 1966 by Ivan Illich. \[possibly be
+  spirit of free universities founded in 1966 by Ivan Illich. \[possibly
   incorrect, was originally transcribed as "Lacitoc", own interpretation: "la
   CIDOC"\]
 [^10]: <https://archive.org/details/pub_organic-gardening>
