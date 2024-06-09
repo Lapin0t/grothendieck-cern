@@ -1,8 +1,8 @@
 # "Will we continue scientific research?"---Alexander Grothendieck
 
-> Talk given at the CERN on January 27, 1972.
-> Original transcription by Jacqueline Picard from the magnetic recording.
-> Translated from French by Peio Borthelle from web sources [^3] [^4] [^5] [^6].
+> - Talk given at the CERN on January 27, 1972.
+> - Original transcription by Jacqueline Picard from the magnetic recording [^6].
+> - Translated from French by Peio Borthelle from web sources [^3] [^4].
 
 I've always been bothered by the fact that during my research activities this
 influential name---Alexander Grothendieck---started becoming a common noun (as
@@ -1517,13 +1517,12 @@ groups who do it, the overall effect is by no means negligible.
   (see e.g. "The Book of the new alchemists", ed. Nancy Todd, pub. Dutton, NY, 1977).
 [^2]: Alas! No other than Nobel Prize winner E. Rutherford, who in
   1932 saw "no practical application for research on the atom". \[TN: footnote
-  without indication of origin\].
+  without indication of origin\]
 [^3]: <https://sciences-critiques.fr/allons-nous-continuer-la-recherche-scientifique/>
 [^4]: <https://sniadecki.wordpress.com/2012/05/20/grothendieck-recherche>
-[^5]: <https://www.youtube.com/watch?v=ZW9JpZXwGXc>
 [^6]: <https://cds.cern.ch/record/912518/>
 [^7]: Planète (1961--1971), a french magazine publishing on the topics of
-  science history, science fiction, fantastic, futurology
+  science history, science fiction, fantastic, futurology.
 [^8]: See Alexander Sutherland Neill, "Summerhill: A Radical Approach to Child
     Rearing", ed. Hart, 1960.
 [^9]: Centro Intercultural de Documentación, a center in the spirit of free
