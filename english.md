@@ -440,7 +440,7 @@ Well, this is an aspect, I don't pretend to answer the question raised here,
 which is a very vast one. But from the point of view we're taking here, based
 on scientific practice, it's the most immediate thing I can think of to answer.
 
-> What are your views on the structure of scientific research in the the
+> What are your views on the structure of scientific research in the
 > People's Republic of China?
 
 Until quite recently, let's say about three months ago, I was rather closed to
@@ -683,7 +683,7 @@ branches such as mathematics, physics, chemistry and chemistry and, more
 recently, biology. Agriculture, after all, has been the basis of our so-called
 civilized societies for ten thousand years. It is truly society's basic
 activity, from which we derive most of the resources we need to satisfy our
-material needs. One might have thought that, with the the development of new
+material needs. One might have thought that, with the development of new
 knowledge methods, they would be applied to agriculture as a matter of
 priority, freeing us, to some extent, from having to work excessively to
 satisfy our basic needs. This has not been the case. Even today, I believe that
@@ -892,7 +892,7 @@ that the dream of the global citizens is realized, that there would be a world
 government. Or suppose that the United States, Russia or China, as the case may
 be, had absorbed the entire planet, that there was only one country left. Or
 suppose that the planet is smaller than it is and that it solely consists of
-the the United States, or let's suppose that the United States, through an
+the United States, or let's suppose that the United States, through an
 extreme isolationist policy is able to live in closed loop, and let's look at
 what's happening over there. I would argue that, in fact that the problems are
 deeper than that, that the essential problems still arise even if there were no
