@@ -1514,8 +1514,7 @@ no means negligible.
 
 [^1]: The *New Alchemy Institute* is a group of agrobiology researchers founded
   by Dr. John Todd and Dr. William McLarney in Woods Hole, Massachusetts, USA
-  (see e.g. "The Book of the New Alchemists", ed. Nancy Todd, pub. Dutton, NY,
-  1977).
+  ("The Book of the New Alchemists", ed. Nancy Todd, pub. Dutton, NY, 1977).
 [^2]: Alas! No other than Nobel Prize winner E. Rutherford, who in
   1932 saw "no practical application for research on the atom". \[footnote
   without indication of origin\]
