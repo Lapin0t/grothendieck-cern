@@ -1,8 +1,8 @@
-# "Will we continue scientific research?"---Alexander Grothendieck
+# Will we continue scientific research? Alexander Grothendieck
 
-> - Talk given at the CERN on January 27, 1972.
-> - Original transcription by Jacqueline Picard from the magnetic recording [^6].
-> - Translated from French by Peio Borthelle from web sources [^3] [^4].
+- Talk given at CERN on January 27, 1972.
+- Original transcription by Jacqueline Picard from the magnetic recording [^6].
+- Translated from French by Peio Borthelle from web sources [^3] [^4].
 
 I've always been bothered by the fact that during my research activities this
 influential name---Alexander Grothendieck---started becoming a common noun (as
