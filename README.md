@@ -1,8 +1,8 @@
 # Will we continue scientific research? Alexander Grothendieck
 
 - Talk given at CERN on January 27, 1972.
-- Original transcription by Jacqueline Picard from the magnetic recording [^6].
-- Translated from French by Peio Borthelle from web sources [^3] [^4].
+- Original transcription by Jacqueline Picard from the magnetic recording[^6].
+- Translated from French by Peio Borthelle from web sources[^3][^4].
 
 I've always been bothered by the fact that during my research activities this
 influential name---Alexander Grothendieck---started becoming a common noun (as
@@ -740,16 +740,15 @@ Todd, one of the founders of the *New Alchemists*, told me, it's absolutely
 impossible to promote this kind of research within existing academic
 structures. They've tried, but it's impossible.
 
-> Although 99% of the population doesn't have access to science, meanwhile it
-> should be noted that they have a greater respect for it than you do, and this
-> is based on a fact that is not simply due to ignorance. For example, we could
-> ask the question: How many people in this room owe their lives to the fact
-> that there was this science you decry---that there have been spin-offs in
-> medicine, for example? Which are not acupuncture, which are not the
-> repositioning of pelvic organs, but simply penicillin and a number of other
-> decisive things that led to an increase in the world's population. A number
-> of us, we're living---your group is called "Vivre" \[living\]---we're
-> living because of this cursed science.
+> Although 99% of the population doesn't have access to science, it should be
+> noted that they have a greater respect for it than you do, and this is based
+> on a fact that is not simply due to ignorance. For example, we could ask the
+> question: How many people in this room owe their lives to the fact that there
+> was this science you decry---that there have been spin-offs in medicine, for
+> example? Which are not acupuncture, which are not the repositioning of pelvic
+> organs, but simply penicillin and a number of other decisive things that led
+> to an increase in the world's population. A number of us, we're living---your
+> group is called *Vivre*---we're living because of this cursed science.
 >
 > It's true that we're at risk of destruction, and it's only natural that we
 > should reflect on what science is today, in the hands of guys who seem to
@@ -763,7 +762,7 @@ structures. They've tried, but it's impossible.
 > You have expressed the doubt, based on your relations with certain people at
 > CERN, that the research done, for example by us, that we think that it has no
 > military application, this is something that can perfectly be doubted. Maybe
-> we're all idiots [^2], but I don't think so. Really, I don't think any
+> we're all idiots[^2], but I don't think so. Really, I don't think any
 > colleague would take the slightest risk in coming to us and saying: How could
 > what we're doing risk to have military applications?
 >
@@ -1238,7 +1237,7 @@ can hardly be chance. There's certainly a correlation between the two. These
 things are linked in the dominant culture. This dominant culture, in any case,
 is not new. I think it's been developing for over two thousand years. years.
 I'm not very well versed in history, but, for example, people like Jacques
-Ellul and Lewis Mumford\[TODO REF\], for example, have precisely studied the
+Ellul and Lewis Mumford[^5], for example, have precisely studied the
 ideological ins and outs of science and technology from its very origins. As
 far as Mumford is concerned, it seems to me that he dates it back already to
 the time of the Pharaohs, of the great works of Egypt. So, I believe that our
@@ -1522,6 +1521,7 @@ no means negligible.
   without indication of origin\]
 [^3]: <https://sciences-critiques.fr/allons-nous-continuer-la-recherche-scientifique/>
 [^4]: <https://sniadecki.wordpress.com/2012/05/20/grothendieck-recherche>
+[^5]: TODO: book reference
 [^6]: <https://cds.cern.ch/record/912518/>
 [^7]: *Planète* (1961--1971), a french magazine publishing on the topics of
   science history, science fiction, fantastic, futurology.
