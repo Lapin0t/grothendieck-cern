@@ -483,24 +483,24 @@ cases, or as an adjunct to certain medical techniques. We know the role
 currently played by Chinese acupuncture in anaesthesia. Acupuncture can also be
 used to cure all kinds of ailments, including such commonplace ailments such as
 colds, but also, for example, very serious conditions such as pelvic organ
-prolapse (POP) in very advanced states. I recently had the translation of a
-Chinese newspaper article on this subject, which sheds some light the
-differences between scientific practice, in particular medical practice in
-Western countries such as France or Switzerland and practice in China, where an
-entirely new technique for healing very advanced POP was found by a young woman
-doctor who had very little who had very little formal education behind her, but
-who was highly motivated to to heal a specific case. On the other hand, she
-found herself in a cultural climate where it is not considered inadmissible,
-unthinkable, that a person with little knowledge, and practically no
-qualifications, could develop new techniques. She experimented with herself by
-needling on her own lower vertebrae, since she knew, from the little elementary
-things she had learnt, that there were direct nervous links between the pelvic
-floor and these vertebrae. By force of experimentation on herself, she finally
-found a point that caused an extremely strong reaction that brought the pelvic
-organs up inside her belly. Then, convinced that she'd found the correct point,
-she performed the same operation on the patient she had in mind and the patient
-was cured. Since then, according to this newspaper, some fifty other cases
-cases have been treated, with forty-five cured.
+prolapse in very advanced states. I recently had the translation of a Chinese
+newspaper article on this subject, which sheds some light the differences
+between scientific practice, in particular medical practice in Western
+countries such as France or Switzerland and practice in China, where an
+entirely new technique for healing very advanced organ prolapse was found by a
+young woman doctor who had very little who had very little formal education
+behind her, but who was highly motivated to to heal a specific case. On the
+other hand, she found herself in a cultural climate where it is not considered
+inadmissible, unthinkable, that a person with little knowledge, and practically
+no qualifications, could develop new techniques. She experimented with herself
+by needling on her own lower vertebrae, since she knew, from the little
+elementary things she had learnt, that there were direct nervous links between
+the pelvic floor and these vertebrae. By force of experimentation on herself,
+she finally found a point that caused an extremely strong reaction that brought
+the pelvic organs up inside her belly. Then, convinced that she'd found the
+correct point, she performed the same operation on the patient she had in mind
+and the patient was cured. Since then, according to this newspaper, some fifty
+other cases cases have been treated, with forty-five cured.
 
 Here we can see the fundamental difference between this kind of scientific
 practice and scientific discoveries and those prevailing in Western countries.
