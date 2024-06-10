@@ -846,18 +846,16 @@ enlèvent une partie du poids à votre position :
 
 • Vous avez émis le doute, il est basé sur les relations que vous avez avec
 certaines gens du CERN, que la recherche que nous pouvons faire, nous par
-exemple, n’a pas d’application militaire. C’est quelque chose que l’on peut
+exemple, le fait que nous pensons qu'elle n’a pas d’application militaire. C’est quelque chose que l’on peut
 parfaitement mettre en doute. On doit être, peut-être, tous complètement idiots
 [2], mais je ne crois pas. Vraiment, je ne crois pas que des collègues
 prendraient le moindre risque à venir nous dire : « En quoi ce que nous faisons
-risque d’avoir des applications militaires ? » Et ça me fait venir à quelque
-chose qui me paraît essentiel.
+risque d’avoir des applications militaires ? »
 
-• Nous avons posé la question : « à quoi servent les mathématiques ? » Il faut
+Et ça me fait venir à quelque
+chose qui me paraît essentiel, vous avez posé la question : « à quoi servent les mathématiques ? » Il faut
 continuer : à quoi sert la musique ? à quoi servent un certain nombre
-d’activités que les gens font simplement pour leur plaisir ?
-
-• Enfin quel est votre conception de l’homme ? Il est vrai qu’un certain nombre
+d’activités que les gens font simplement pour leur plaisir ? Enfin, quelle est votre conception de l’homme ? Il est vrai qu’un certain nombre
 de gens ont des activités auxquelles la masse n’a pas accès, mais je ne pense
 pas que c’est en décidant que M. Einstein ne doit pas faire de la recherche ou
 que M. Evariste Gallois ne doit pas faire de la recherche que vous arriverez à
@@ -1249,13 +1247,28 @@ théorèmes mathématiques de plus en plus sophistiqués, de plus en plus
 ésotériques. J’ai l’impression que ce type de mentalité disparaîtra dans les
 générations qui viennent.
 
+
+
 Question :
 
-— Ne pensez-vous pas qu’il y a quelque chose de beaucoup plus — quel que soit
-le mode de la civilisation et qui est propre à l’homme : cette liberté
+\[TN: inaudible \] \[...\] Vous avez constaté que notre monde est un monde où il n'y a
+pas de dialogue. En tout cas il y a un triste monologue sous des apparence un peu
+spéculatives et que si on voulait réellement, disons, charcuter dans chacun de
+nous---vous dites essayez vous verrez quelle sont vos drames. En fait vous nous
+appellez à prendre conscience de ce monde. Admettons que nous prenons conscience
+de ce monde comme nous, je vous pose la question suivante.
+
+Ne pensez-vous pas qu’il y a quelque chose de plus, quel que soit
+le mode de la civilisation, et qui est propre à l’homme : cette liberté
 troublante de se poser des questions, de se demander « Pourquoi, par exemple,
-les planètes tournent de cette façon autour du soleil ? » ; « Pourquoi
-sommes-nous malheureux ? ». Cette grande liberté me paraît un peu, elle aussi,
+les planètes tournent de cette façon autour du soleil ? » ; Pourquoi le soleil
+se lève pour les gens d'un coté et pas de l'autre coté? Pourquoi le grain pousse?
+Pourquoi sommes nous malades?
+
+« Pourquoi
+sommes-nous malheureux ? »
+Pourquoi prenons nous conscience de ce qui ne va pas?
+. Cette grande liberté me paraît un peu, elle aussi,
 être condamnée vis à vis de la science. Parce que, en fait, nous avons aussi
 cette liberté de dire que la science est un malheur. En nous faisant prendre
 conscience que la science actuelle est mauvaise, vous supprimerez peut-être à
@@ -1333,7 +1346,7 @@ frappé avant d’en arriver à une critique d’ensemble de la science depuis p
 de deux ans : c’est la grossièreté, disons, du mode de raisonnement
 mathématique quand on le confronte avec les phénomènes de la vie, avec les
 phénomènes naturels. Les modèles que nous fournit la mathématique, y compris
-les modèles logiques, sont une sorte de lit de Procuse pour la réalité. Une
+les modèles logiques, sont une sorte de lit de Procuste pour la réalité. Une
 chose toute particulière aux mathématiques, c’est que chaque proposition, si
 l’on met à part les subtilités logiques, est ou bien vraie ou bien fausse ; il
 n’y a pas de milieu entre les deux, la dichotomie est totale. En fait, cela ne
@@ -1384,7 +1397,7 @@ même que la théologie. Parce que cette pensée qu’il y a le bon Dieu et le
 Diable, les deux adversaires, elle est très ancienne. Il se peut que les
 mathématiciens médiévaux du XVe et du XVIe siècle étaient tellement imprégnés
 de cette idée qu’il était naturel de penser comme cela. à propos de l’autre
-exemple, je pense qu’avant que la médecine n’arrive au point actuel, on
+exemple, du médecin, je pense qu’avant que la médecine n’arrive au point actuel, on
 essayait aussi d’expulser les mauvais esprits, le Diable. Donc, c’était la même
 idée. Je voulais juste émettre un doute, je le vois juste à l’envers. Je ne
 dirai pas que c’est un vice qui est dû à la mathématique seulement, mais je
@@ -1415,7 +1428,7 @@ je crois ?
 
 Question :
 
-— ………DÉBUT DE LA QUESTION INAUDIBLE……… de démystification ou de dénonciation du
+— ………DÉBUT DE LA QUESTION INAUDIBLE……… La partie qui sert de démystification ou de dénonciation du
 rôle de la science et surtout la motivation du scientifique, même si cela est
 peut-être incomplet. Je crois par exemple qu’on pourrait discuter longtemps et
 noter les rôles importants qu’a, à mon avis, la science dans la conservation
@@ -1474,7 +1487,7 @@ vertu magique d’adhérer à un certain parti ou, de temps en temps, de distrib
 des tracts, ou encore d’adhérer à certains syndicats ou de déposer des
 bulletins de vote. Je suis entièrement persuadé que ce genre de transformation
 se fera, pour commencer, au niveau des relations personnelles. Dans la mesure
-où ces relations personnelles ne changeront pas profondément, rien ne changera.
+où si ces relations personnelles ne changeront pas profondément, rien ne changera.
 Si l’on pense que les relations personnelles ne peuvent changer qu’après le
 changement des structures — cela signifie qu’on renvoie tout au grand jour J de
 la révolution — la révolution ne viendra jamais ou la révolution qui viendra ne
@@ -1554,13 +1567,13 @@ physique, quelque chose comme ça, à la rigueur la recherche médicale. Mais il
 me semble que vous ignorez qu’il y a la recherche en sciences sociales, la
 recherche en sciences de l’homme. Vous parlez en termes apocalyptiques de ce
 qui va arriver à la société, à la civilisation, comme si c’était quelque chose
-qui devait arriver fatalement et de façon incontrôlable par l’homme. Je ne suis
-pas d’accord avec vous parce que, précisément, les sciences de l’homme
-permettent de contrôler cette évolution. On peut déjà observer le travail
+qui devait arriver fatalement et de façon incontrôlable par l’homme.
+Que nous le voulions ou non, ce sont des choses controllables par l'homme,
+certains s'en préoccupent déjà.
+ On peut déjà observer le travail
 concret des agences publicitaires pour ne pas parler de choses beaucoup plus
 graves que la consommation du Coca-Cola. Vous parlez en termes apocalyptiques
-de choses qui doivent arriver comme des choses incontrôlables pour l’homme et
-là je crois que vous avez tort parce que si vous voulez modifier la société
+de choses qui doivent arriver comme des choses incontrôlables pour l’homme.là je crois que vous avez tort parce que si vous voulez modifier la société
 dans un sens — et je suis tout à fait d’accord avec vous qu’il faut la
 modifier, même si je ne suis pas tout à fait certain que ce soit dans le même
 sens, mais en tout cas on est d’accord sur la principe — , je crois au
@@ -1715,6 +1728,26 @@ placer dans ce réseau. C’est un processus auquel un groupe comme le nôtre pe
 très bien contribuer. Ce sont des choses assez modestes, disons, chacun le fait
 dans sa propre sphère d’activités, mais comme il y a beaucoup de personnes et
 de groupes qui le font, l’effet global n’est absolument pas négligeable.
+
+-- Ca m'a l'air d'etre une bonne conclusion pour les questions, parce que je
+crois qu'on peut continuer toute la nuit mais bon il faut bien trouver une fin.
+Je crois que nous pouvons vous remercier beaucoup, car beaucoup de points très
+profonds ont étés traités et beaucoup d'aspects de ces problèmes méritent
+certainement encore reflexion, et nous continuerons ce genre de discussions
+lors du passage d'un autre conférencier.
+
+-- Juste si je peux ajouter quelque chose? Bien entendu s'il y a des personnes
+ici présentes qui ont envie de continuer, disons, à discuter certains points en
+particulier---je ne sais pas, est-ce qu'on peut le faire ici sur place?
+
+-- Il serait mieux de continuer en bas.
+
+-- C'est ça. Parce que dans mon expérience personelle, finalement, les discussions
+qui ont lieu par petits groupes, après coup, une fois que la séance est levée, sont
+plus fructueuses, sont plus intéressantes que la discussion générale, qui était
+particulièrement ordonnée ici, mais qui en général est beaucoup plus anarchique,
+beaucoup plus chaotique---je vois qu'on a affaire à des scientifiques, c'est-à-dire
+à des gens disciplinés.
 
 Retranscription de la conférence-débat donnée à l’amphithéâtre du CERN le 27
 janvier 1972.
