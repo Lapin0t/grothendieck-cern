@@ -471,7 +471,7 @@ Cultural Revolution. This is precisely an example of science getting out of the
 hands of a certain caste to become the science of all, and it is only by
 becoming everyone's science can it become science for everyone. In fact,
 practically anyone can become a doctor, whatever their cultural background.
-This vast movement of "barefoot doctors"[^11] has mobilized an impressive
+This vast movement of *barefoot doctors*[^11] has mobilized an impressive
 number of people---but I'm no good at statistics and can't say how many---who
 travel the countryside for all kinds of simple medical procedures that would
 only be admitted after years and years of medical study in a social context
