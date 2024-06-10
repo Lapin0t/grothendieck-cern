@@ -1542,7 +1542,7 @@ words, disciplined people. \[laughter and applause\]
 [^7]: *Planète* (1961--1971), a french magazine publishing on the topics of
   science history, science fiction, fantastic, futurology.
 [^8]: See Alexander Sutherland Neill, "Summerhill: A Radical Approach to Child
-    Rearing", ed. Hart, 1960.
+    Rearing", pub. Hart, 1960.
 [^9]: *Centro Intercultural de Documentación* (CIDOC), a cultural center in the
   spirit of free universities founded in 1966 by Ivan Illich. \[possibly
   incorrect, was originally transcribed as "Lacitoc", own interpretation: "la
