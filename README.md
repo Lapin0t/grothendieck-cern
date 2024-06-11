@@ -1218,13 +1218,14 @@ culture, and I believe that this vision will continue to change.
 > where it is today, people also tried to expel evil spirits, the Devil. So it
 > was the same idea. I just wanted to cast a doubt, I just see it backwards.
 >
-> The third point is the question: should we work digital or analogic? It's a
+> The third point is the question: should we use digital or analog data? It's a
 > question we ask ourselves at every level. By digital is meant binary, yes or
 > no, and this is currently very fashionable. Maybe we can say that this idea
-> came from ancient philosophy, passing through mathematical language. Let's go
-> for the other one, the continuous scale, which you preferred before---but I
-> wouldn't say that it's a vice that's due to mathematics alone, I would say
-> that it may have inherited it from the past.
+> came from ancient philosophy and infused mathematical language. Let's go for
+> the other one, the analog, continuous scale, which you prefered before; but I
+> wouldn't say that prevalence of digital thinking is a vice that's due to
+> mathematics alone, I would say that mathematics may have inherited it from
+> the past.
 
 Bourbaki is not the originator of mathematics. Bourbaki traces it back to the
 Greek mathematicians, let's say from Pythagoras onwards. So it's already a very
