@@ -540,23 +540,23 @@ implications of the eventual use of what they are building.
 > catastrophe, say, famine, etc.?
 
 I think there's already a basic misunderstanding. I didn't say that anyone in
-particular anyone in particular, or anyone else---me, for example, transform
-industrial society, just like that, over the next ten, twenty or thirty years
-years into another predetermined form of society. If a fairy were to invest me
-with discretionary powers, I'd tell her I didn't want to. Indeed, I'm quite
-convinced that what I could do would be nothing more than to create even more
-of a mery mess than there already is. In fact, I'm entirely convinced that
-absolutely no one is capable of, let's say, programming, of foreseeing the
-changes that are going to take place. I think that the complexity of planetary
-problems is so great that it absolutely defies mathematical or experimental
-analysis. We're in a situation where the methods of experimental science are
-practically useless. Because, after all, there's only one planet Earth, and
-a crisis situation like we're in right now, happens only once in the history of
-evolution. So we don't have an experience here that we can repeat at will to
-see what the consequences of this or that operation will be, so that we can
-then optimize our operation procedures. This is absolutely out of the question.
-This is a unique situation, with a complexity infinitely beyond our
-posibilities for analysis and detailed prediction.
+particular, or anyone else---me, for example, transform industrial society,
+just like that, over the next ten, twenty or thirty years years into another
+predetermined form of society. If a fairy were to invest me with discretionary
+powers, I'd tell her I didn't want to. Indeed, I'm quite convinced that what I
+could do would be nothing more than to create even more of a mery mess than
+there already is. In fact, I'm entirely convinced that absolutely no one is
+capable of, let's say, programming, of foreseeing the changes that are going to
+take place. I think that the complexity of planetary problems is so great that
+it absolutely defies mathematical or experimental analysis. We're in a
+situation where the methods of experimental science are practically useless.
+Because, after all, there's only one planet Earth, and a crisis situation like
+we're in right now, happens only once in the history of evolution. So we don't
+have an experience here that we can repeat at will to see what the consequences
+of this or that operation will be, so that we can then optimize our operation
+procedures. This is absolutely out of the question. This is a unique situation,
+with a complexity infinitely beyond our posibilities for analysis and detailed
+prediction.
 
 All we can do, I'm convinced, is for each of us, in our own sphere of activity,
 in our own environment, to try to be a of ferment of transformation in the
