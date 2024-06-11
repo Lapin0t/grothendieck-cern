@@ -540,7 +540,7 @@ implications of the eventual use of what they are building.
 > catastrophe, say, famine, etc.?
 
 I think there's already a basic misunderstanding. I didn't say that anyone in
-particular, or anyone else---me, for example, transform industrial society,
+particular---or anyone else, me, for example---should transform industrial society,
 just like that, over the next ten, twenty or thirty years years into another
 predetermined form of society. If a fairy were to invest me with discretionary
 powers, I'd tell her I didn't want to. Indeed, I'm quite convinced that what I
