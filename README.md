@@ -449,7 +449,7 @@ any information that came from China because it was wrapped up in such jargon
 that, a priori, you felt like questioning it---you didn't want to tak it
 seriously. Jargon, let's say, of an unbridled cult of Mao Tse Tung's
 personality, a sort of hagiography that accompanied it, meant that I read these
-publications quite often, but they fell out of my hands of discouragment: it
+publications quite often, but they fell out of my hands of discouragement: it
 just wouldn't do. Then, three months ago, I met the *New Alchemists*[^1] who made
 me realize the possibility of a scientific practice entirely different from
 that which currently prevails in all the sciences that are at universities and
@@ -460,7 +460,7 @@ that there are some extremely interesting things happening in China too,
 precisely in the direction of developing a new science. In any case, China is
 the only country where the myth of the expert is officially shattered. Where
 people are told: "Don't trust the experts. Don't wait for the government to
-send you competent folks to solve them for you. Ssolve them yourself with
+send you competent folks to solve them for you. Solve them yourself with
 whatever means you can find on the spot."
 
 Whether we're university professors, workers or farmers, we're all capable of
@@ -481,7 +481,7 @@ practice certain medical activities.
 Particularly noteworthy is the sensational development of Chinese acupuncture,
 which has made it possible to cure certain ailments in previously unexpected
 cases, or as an adjunct to certain medical techniques. We know the role
-currently played by Chinese acupuncture in anaesthesia. Acupuncture can also be
+currently played by Chinese acupuncture in anesthesia. Acupuncture can also be
 used to cure all kinds of ailments, including commonplace ailments such as
 colds, but also, for example, very serious conditions such as pelvic organ
 prolapse in very advanced states. I recently had the translation of a Chinese
@@ -555,7 +555,7 @@ we're in right now, happens only once in the history of evolution. So we don't
 have an experience here that we can repeat at will to see what the consequences
 of this or that operation will be, so that we can then optimize our operation
 procedures. This is absolutely out of the question. This is a unique situation,
-with a complexity infinitely beyond our posibilities for analysis and detailed
+with a complexity infinitely beyond our possibilities for analysis and detailed
 prediction.
 
 All we can do, I'm convinced, is for each of us, in our own sphere of activity,
@@ -582,7 +582,7 @@ that I would personally be less gifted at communication than others. In
 fact, this is a general phenomenon in our culture, and indeed, when talking
 with many other people, I've made analogous observations. For myself, for
 example, I've made the general decision to pursue romantic relations with a
-woman only to the extent that it will appear to me as a vehicule of establishing
+woman only to the extent that it will appear to me as a vehicle of establishing
 deeper communication. See, this is just one particular example of a way
 in which each of us can immediately transform the way we approach others.
 Similarly, I can tell you that my relationship with my children has changed, in
@@ -857,7 +857,7 @@ something that's struck me more and more over the last few weeks and months,
 the extent to which people for whom we were least expecting it, started feeling
 it. We scratch just a little bit underneath the superficial things they say,
 and we notice there's a real sense of disarray about, let's say, the overall
-sense of the ambiant culture.
+sense of the ambient culture.
 
 Here is to the accusation of nihilism. So, there's some truth in it if applied
 to a certain form of scientific activity. I've somewhat forgotten the other
@@ -949,7 +949,7 @@ about, let's say, any real, official, or occult relations, between CERN and the
 military apparatus. I have no knowledge of such things. I wanted to talk about
 the image that the name CERN has on a large part of the more or less educated
 public, myself included. The name itself: Centre Européen de Recherche
-Nucléaires \[european center for nuclear research\]; the fact that it's an
+Nucléaires \[European center for nuclear research\]; the fact that it's an
 organization that brings together a number of countries; the prestige attached
 to it, which I'm sure you won't deny; the fact that it's research concerns at
 least the atom, even if it's not "nuclear research"; and that, linked to the
@@ -1117,7 +1117,7 @@ mentality will disappear in the generations to come.
 One of your questions is whether, by turning our backs on science as it
 currently practiced, and, possibly, by taking away people's freedom to ask the
 kinds of questions that current science is asking, we won't be at the same time
-suppress freedom, or a substancial part of it.
+suppress freedom, or a substantial part of it.
 
 I would like to say in this regard that myself and my friends at *Survivre et
 Vivre* are not recommending coercive measures to prevent anyone from doing
@@ -1140,7 +1140,7 @@ different avenues. Not in a coercive way, simply because it will no longer be
 practiced. There will be other imperatives linked to our real needs.
 
 I think that agriculture, stockbreeding, decentralized energy production,
-medicin of a certain kind, very different from the medicine that prevails
+medicine of a certain kind, very different from the medicine that prevails
 today, will come to the fore. It's impossible to say which part purely
 creative joy will play in these new developments. My hope is, it will be a
 creative development in which there will be no essential difference between
@@ -1190,7 +1190,7 @@ they'll immediately accuse me of having chosen the opposite extreme alternative,
 because they can't see the middle ground.
 
 I think there's an inherent flaw in the mathematical way of thinking and I have
-the impression that it's also reflected in this Manichean vision of human
+the impression that it's also reflected in this Manichaean vision of human
 nature. On the one hand, there's the good, and on the other, the bad, and in
 the best case scenario, we see both living side by side. I have the impression
 that what we call bad is just a natural reaction to a certain number of
@@ -1203,7 +1203,7 @@ the future will be above all to understand the psychosomatic cause of microbial
 proliferation at this time rather than another, since there are always microbes
 in the environment, and we're exposed to them all the time: what are the real
 causes? What stresses have we been subjected to that make us vulnerable? But
-that's a different kettle of fish. So, I have the impression that the Manichean
+that's a different kettle of fish. So, I have the impression that the Manichaean
 vision isn't very good. It's part of the air we breathe with the prevailing
 culture, and I believe that this vision will continue to change.
 
@@ -1222,7 +1222,7 @@ culture, and I believe that this vision will continue to change.
 > question we ask ourselves at every level. By digital is meant binary, yes or
 > no, and this is currently very fashionable. Maybe we can say that this idea
 > came from ancient philosophy, passing through mathematical language. Let's go
-> for the other one, the continuous scale, which you prefered before---but I
+> for the other one, the continuous scale, which you preferred before---but I
 > wouldn't say that it's a vice that's due to mathematics alone, I would say
 > that it may have inherited it from the past.
 
@@ -1353,7 +1353,7 @@ surprised to find nine colleagues supporting my initiative. This surprise was,
 I'm sure, much greater among the other thirty-five. From the tone in which this
 discussion was taking place, it was clear that, for them, it was unthinkable
 that a scientist in his common sense could fail to be shocked by the kind of
-proposal I was making for this, suposedly, mathematics class.
+proposal I was making for this, supposedly, mathematics class.
 
 This, of course, is just an example, not to say that anyone can do the same
 thing, but as a concrete example of what, I personally, try to do, to make the
@@ -1441,8 +1441,8 @@ sciences, let's say the natural sciences.
 
 > I'd like to ask you about the aims of the *Survivre* movement and what
 > contacts you have with existing movements in the region, such as the *Comité
-> Bugey-Cobaye* \[Bugey guinea-pig commitee, organizing a large anti-nuclear
-> demonstration near Lyon in july 1971\].
+> Bugey-Cobaye* \[Bugey guinea-pig committee, organizing a large anti-nuclear
+> demonstration near Lyon in July 1971\].
 
 What are the goals of the *Survivre* movement? In the beginning, our vision was
 apocalyptic and our aim was to fight for the survival of the human species,
