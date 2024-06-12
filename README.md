@@ -716,9 +716,9 @@ group I've already alluded to, it's even a technical necessity. Indeed, their
 intention, their starting theme, was to develop biotechnologies which would
 allow, with extremely rudimentary means that don't call on the industrial and
 technological hyperstructure, to create artificial ecosystems highly productive
-in food. Technological means in the ordinary sense, such as the introduction of
+in food. Technological means in the ordinary sense---such as the introduction of
 a continuous source of energy (electricity), or the supply of food by chemical
-industries (the fertilizers or feed for livestock or fish), can be replaced by
+industries (the fertilizers or feed for livestock or fish)---can be replaced by
 a sophisticated and comprehensive knowledge of the natural phenomena within
 these artificial ecosystems. To achieve this, they convinced themselves that
 this could not be achieved within existing academic structures. In fact, it
@@ -762,7 +762,7 @@ tried, but it's impossible.
 >
 > You have expressed the doubt, based on your relations with certain people at
 > CERN, that the research done, for example by us, that we think that it has no
-> military application, this is something that can perfectly be doubted. Maybe
+> military application; this is something that can perfectly be doubted. Maybe
 > we're all idiots, but I don't think so. Really, I don't think any colleague
 > would take the slightest risk in coming to us and saying: What are the
 > concrete risks for what you're doing to have military applications?
@@ -780,9 +780,10 @@ tried, but it's impossible.
 > organization of research poses considerable problems and considerable
 > anxieties. But I find that in your total rejection of science, you're joining
 > *Planète*[^7], you join a certain number of, you know what I'm thinking of,
-> you're joining a certain number of obscurantists. I apologize, as I'm
-> receiving you in the stomach for the first time, I can't criticize your
-> positions, but there's a lot about you that merits debate.
+> you're joining a certain number of obscurantists.
+>
+> I apologize, as I'm receiving you in the stomach for the first time, I can't
+> criticize your positions, but there's a lot about you that merits debate.
 
 If you'll allow me, I'd like to say a few words about your intervention.
 
@@ -1383,7 +1384,7 @@ way of maturing a certain situation.
 > phenomena, called for example pedagogical communication, which one does
 > study with scientific methods. It's not mathematics, but it's science. I'm
 > afraid that inevitably you'll fall back into either religion or science,
-> because either you're either making apocalyptic prophecies or you're trying
+> because either you're making apocalyptic prophecies or you're trying
 > to reinvent with your students science that's already been done.
 
 You speak of an apocalyptic vision of civilization, and this is a term that
@@ -1442,8 +1443,7 @@ sciences, let's say the natural sciences.
 
 > I'd like to ask you about the aims of the *Survivre* movement and what
 > contacts you have with existing movements in the region, such as the *Comité
-> Bugey-Cobaye* \[Bugey guinea-pig committee, organizing a large anti-nuclear
-> demonstration near Lyon in July 1971\].
+> Bugey-Cobaye* \[Bugey guinea-pig committee][^16].
 
 What are the goals of the *Survivre* movement? In the beginning, our vision was
 apocalyptic and our aim was to fight for the survival of the human species,
@@ -1556,3 +1556,6 @@ words, disciplined people. \[laughter and applause\]
 [^13]: Archived by [archivesautonomies.org](https://archivesautonomies.org/spip.php?rubrique531)
 [^14]: TODO: find it
 [^15]: See <https://en.wikipedia.org/wiki/Science_for_the_People>.
+[^16]: One of the first anti-nuclear group in france, organizing protests
+  against the Bugey power plant construction, such as July 10th and 11th, 1971.
+  TODO: get hands on <https://catalogue.bnf.fr/ark:/12148/cb42564802q>
