@@ -30,6 +30,11 @@ fact. Please send me any mistake you can find and feel free to reproduce the
 translation with or without attribution to me. Copyright of the original audio
 files appears to be held by CERN.
 
+\[*hi there, btw, i'm searching for a post-doc beginning 2025, on doing
+beautiful dependently typed programming to say things about low-level
+computations; if you have any info, contact is on my website, url in my
+profile; sorry Alexander but i gotta eat*\]
+
 --Peio Borthelle
 
 ## Transcription
