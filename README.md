@@ -1228,7 +1228,7 @@ culture, and I believe that this vision will continue to change.
 > question we ask ourselves at every level. By digital is meant binary, yes or
 > no, and this is currently very fashionable. Maybe we can say that this idea
 > came from ancient philosophy and infused mathematical language. Let's go for
-> the other one, the analog, continuous scale, which you prefered before; but I
+> the other one, the analog, continuous scale, which you preferred before; but I
 > wouldn't say that prevalence of digital thinking is a vice that's due to
 > mathematics alone, I would say that mathematics may have inherited it from
 > the past.
