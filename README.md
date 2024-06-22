@@ -722,7 +722,7 @@ industries (the fertilizers or feed for livestock or fish)---can be replaced by
 a sophisticated and comprehensive knowledge of the natural phenomena within
 these artificial ecosystems. To achieve this, they convinced themselves that
 this could not be achieved within existing academic structures. In fact, it
-wasn't even possible to do it inside closed closed laboratories, it could only
+wasn't even possible to do it inside closed laboratories, it could only
 be done in the field, because the development of these techniques had to take
 into account subtle ecological factors that vary enormously from one ecological
 microsystem to another---of which there are thousands and tens of thousands of
