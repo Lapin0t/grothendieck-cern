@@ -446,7 +446,7 @@ I can think of as an answer.
 
 Until quite recently, let's say about three months ago, I was rather closed to
 any information that came from China because it was wrapped up in such jargon
-that, a priori, you felt like questioning it---you didn't want to tak it
+that, a priori, you felt like questioning it---you didn't want to take it
 seriously. Jargon, let's say, of an unbridled cult of Mao Tse Tung's
 personality, a sort of hagiography that accompanied it, meant that I read these
 publications quite often, but they fell out of my hands of discouragement: it
