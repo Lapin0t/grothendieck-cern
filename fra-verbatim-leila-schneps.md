@@ -112,7 +112,7 @@ qu'il n'aimait pas du tout.
 
 L.S. --- Oui, en fait moi je pense qu'il devait être un professeur
 extraordinaire. Il écrit, j'ai quelques écrits, j'ai une description du cours
-qu'il donner une année. C'est incroyable, c'est... Moi j'aurais tellement aimé
+qu'il donnait une année. C'est incroyable, c'est... Moi j'aurais tellement aimé
 être dans ses cours je pense! Il découvrait beaucoup de choses qu'il avait
 jamais fait, puisque les élèves avaient un petit niveau, donc il les faisaient
 découper avec des ciseaux, du papier, faire des solides platoniciens, vraiment
@@ -136,7 +136,7 @@ lit, il n'y avait rien.
 
 G.D. --- Oui c'était très spartiate.
 
-L.S. --- Complément spartiate! Et la maison elle-même, il vivait dans à
+L.S. --- Complément spartiate! Et la maison elle-même, il vivait à
 Montpellier dans des petits villages, dans des maisons minuscules. Si vous
 voyez les photos, on n'arrive même pas à le croire. Mais c'est ça qu'il
 voulait. Il aimait ça, sa maison était ouverte à --- n'importe qui pouvait
@@ -172,7 +172,7 @@ G.D. --- Je me demande, je crois que c'est Pierre Lechaq \[nom incertain\] qui
 me disait, ses passions c'était les maths, le bouddhisme et les femmes.
 
 L.S. --- Oui, enfin non, la méditation mais c'est pas du boudhisme, c'est la
-méditation à sa façon. On peut dire c'est un peu zen mais... C'est lui qui dit!
+méditation à sa façon. On peut dire c'est un peu Zen mais... C'est lui qui dit!
 C'est lui même il a dit "les mathématiques, la méditation et les femmes", trois
 passion de sa vie. Et il faut dire que il y a beaucoup beaucoup d'histoires qui
 sont plutôt belles parce que c'est un homme de passion, donc il faisait pas
@@ -261,8 +261,8 @@ jours, les soixantes ans.
 
 G.D. --- D'accord, d'accord, c'est bon! Non, je voulais dire, par rapport à la
 solitude que tu évoquais, c'est une solitude qui est doublée d'une très haute
-opinion de lui-même. Et il ya un passage qui m'a toujours fait rire, je vous le
-lis, j'avais pas prévu de le lire, mais je le trouve quand même assez
+opinion de lui-même. Et il y a un passage qui m'a toujours fait rire, je vous
+le lis, j'avais pas prévu de le lire, mais je le trouve quand même assez
 incroyable. Donc *Récoltes et Semailles* c'est une immense oeuvre dans laquelle
 il parle à la fois de sa vie, de sa philosophie, et de ses mathématiques et
 donc là il parle de ses mathématiques et il dit:
@@ -285,7 +285,7 @@ bon je passe.
 
 Donc non seulement j'ai révolutionné les maths, mais en plus je les ai
 révolutionnées tout seul! Je trouve que c'est quand même un passage assez
-éloquent. Donc ça c'est dans *Recoltes et semailles*, dont on va parler.
+éloquent. Donc ça c'est dans *Récoltes et Semailles*, dont on va parler.
 
 Sabre Bougrine --- Qui a jamais été publié?
 

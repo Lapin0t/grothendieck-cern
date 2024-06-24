@@ -20,25 +20,25 @@ vont notamment le sensibiliser à la question de l'écologie. Il va devenir
 militant écologiste radical et il va même fonder une revue qui s'appelle
 *Survivre*.
 
-Leïla Schneps --- Oui c'est plus tard. En fait c'est très intéressant comme
-question.
+Leïla Schneps --- Oui mais ça c'est plus tard, en fait c'est très intéressant
+comme question.
 
 G.D. --- Mais ça commence dans les années 1960!
 
 L.S. --- Je crois que ça commence avant. Il faut savoir qu'il s'est marié,
 qu'il a eu trois enfants, qu'il habitait un pavillon à Massy Palaiseau, qu'il
 vivait vraiment comme comme un professeur de fac normal. Il s'est adapté à la
-vie vie qu'on attendait de lui. Et il faisait, on dit souvent, jusqu'à seize
-heures de maths par jours. Il faisait tout le temps ça. C'était extrêmement
-difficile de lui parler d'autre choses, de lui parler de livres à lire, de
-cinéma, de films. En gros il faisait vraiment uniquement des maths. Et la
-question de ses intérêts politiques, qui quelque part viennent de ses parents
-forcément, et de son intérêt pour l'écologie, à quel moment ça a commencé chez
-lui, c'est difficile à dire. Ce qui est sûr c'est qu'il y a eu un
-bouleversement incroyable dans sa vie en mai 68. Je pense que pour lui c'était
-un moment énorme, où il a renoué avec ce qu'il était vraiment, qu'il avait
-écrasé. Il le dit lui-même: "J'ai stagné complètement pendant tout le temps que
-je faisais des maths, parce que je ne faisait que des maths."
+vie qu'on attendait de lui. On dit souvent qu'il faisait jusqu'à seize heures
+de maths par jours. Il faisait tout le temps ça. C'était extrêmement difficile
+de lui parler d'autre choses, de lui parler de livres à lire, de cinéma, de
+films. En gros il faisait vraiment uniquement des maths. Et la question de ses
+intérêts politiques, qui quelque part viennent forcément de ses parents, et de
+son intérêt pour l'écologie, à quel moment ça a commencé chez lui, c'est
+difficile à dire. Ce qui est sûr c'est qu'il y a eu un bouleversement
+incroyable dans sa vie en mai 68. Je pense que pour lui c'était un moment
+énorme, où il a renoué avec ce qu'il était vraiment, ce qu'il avait écrasé. Il
+le dit lui-même: "J'ai stagné complètement pendant tout le temps que je faisais
+des maths, parce que je ne faisait que des maths."
 
 Il y a Michel Demazure, un de ses élèves qui est devenu un excellent
 mathématicien, qui raconte cette anecdote, où un jour, il a croisé Grothendieck
@@ -86,7 +86,7 @@ conscience politique. Motchane, qui tenait beaucoup aux honneurs pour son
 institut est allé à Moscou recevoir la médaille pour lui. Et quand il est
 revenu il tenait absolument à organiser à une cérémonie, où il décernerait,
 lui, la médaille à Grothendieck. Et Grothendieck, voulait rien savoir, disait
-"Donne moi ce truc d'ailleurs je vais le donner au Vietnam." Il ne s'entendait
+"Donne moi ce truc, d'ailleurs je vais le donner au Vietnam." Il ne s'entendait
 pas du tout ces deux là. Le conflit était larvée, mais il était de plus en plus
 important et sur de plus en plus de sujets. Donc finalement c'était un prétexte
 cette histoire. C'était un prétexte aussi de la part de Motchane pour qu'il
@@ -97,16 +97,16 @@ supportaient plus.
 G.D. --- Il faut savoir que Grothendieck n'aimait pas spécialement les prix et
 qu'il a reçu les plus belles distinctions en mathématiques mondiales. La
 médaille Fields, comme tu dis, qu'il a accepté, mais qu'il n'est même pas allé
-chercher et qu'il l'a donné à Hanoï effectivement. Et puis le prix Crafoord
+chercher et qu'il a donné à Hanoï effectivement. Et puis le prix Crafoord
 aussi, grande récompense mathématique, qu'il a refusé. Et donc après toutes ces
 aventures, il retourne à Montpellier, où il va être professeur. Mais il va
 avoir du mal finalement à noter ses élèves. Je crois qu'il n'aimait pas ça du
 tout.
 
 L.S. --- Oui. En fait je pense qu'il devait être un professeur extraordinaire.
-J'ai quelques écrits, une description du cours qu'il donner une année. C'est
+J'ai quelques écrits, une description du cours qu'il donnait une année. C'est
 incroyable, j'aurais tellement aimé être dans ses cours! Il découvrait beaucoup
-de choses qui l'avait jamais faites. Puisque les élèves avaient un petit
+de choses qu'il n'avait jamais faites. Puisque les élèves avaient un petit
 niveau, il les faisaient découper avec du papier avec des ciseaux, faire des
 solides platoniciens, vraiment des choses concrètes. Et il découvrait lui même
 tout un aspect des maths qu'il n'avait jamais regardé.
@@ -127,8 +127,8 @@ même pas de lit, il n'y avait rien.
 
 G.D. --- Oui c'était très spartiate.
 
-L.S. --- Complément spartiate! Et la maison elle-même, il vivait dans à
-Montpellier dans des petits villages, dans des maisons de minuscules. Si vous
+L.S. --- Complément spartiate! Et la maison elle-même, il vivait à
+Montpellier dans des petits villages, dans des maisons minuscules. Si vous
 voyez les photos, vous ne le croirez pas. Mais c'est ça qu'il voulait. Il
 aimait ça, sa maison était ouverte à n'importe quels gens de passages, qui
 pouvait venir, dormir. Mais on dormait sur un morceau de bois parce qu'il
@@ -144,14 +144,14 @@ petit village de l'Ariège. Alors là, il a vraiment une vie très simple, il
 cultive son jardin, au sens propre, il passe beaucoup de temps avec ses
 plantes.
 
-L.S. --- Oui, parce que malgré tout quand il était à Montpellier, donc il avait
+L.S. --- Oui, parce que malgré tout quand il était à Montpellier donc, il avait
 de l'enseignement, il avait une maison, il avait des amis, finalement un
-cercle, pas mal de gens. Il faisait encore des maths, qu'il publiait pas, mais
-beaucoup beaucoup de maths qu'il mettait dans des caisses.
+cercle, pas mal de gens. Il faisait encore beaucoup de maths, qu'il ne publiait
+pas, mais qu'il mettait dans des caisses.
 
 G.D. --- Les fameuses archives de Montpellier.
 
-L.S. --- Les fameuses archives et il avait aussi une histoire amoureuse
+L.S. --- Les fameuses archives. Et il avait aussi une histoire amoureuse
 extrêmement passionnée, avec une dame qui habitait dans les environs. Mais à un
 moment donné, c'était de nouveau une vie qu'il ne voulait pas, il a voulu
 vraiment se couper de tout.
@@ -160,7 +160,7 @@ G.D. --- Je crois que c'est Pierre Lechaq \[nom incertain\] qui me disait que
 ses passions c'était les maths, le bouddhisme et les femmes.
 
 L.S. --- Oui, enfin non, la méditation, mais c'est pas du boudhisme, c'est la
-méditation à sa façon. On peut dire c'est un peu zen mais pas entièrement.
+méditation à sa façon. On peut dire c'est un peu Zen mais pas entièrement.
 C'est lui même qui disait que les trois passions de sa vie étaient les
 mathématiques, la méditation et les femmes. Et il faut dire que il y a beaucoup
 d'histoires qui sont plutôt belles parce que c'est un homme de passion, donc
@@ -170,7 +170,7 @@ amies.
 
 G.D. --- J'aimerais te poser une question. Quand même c'est incroyable ce
 mathématicien qui a pris une ampleur considérable, qui était mondialement
-connu, qui a reçu les plus beaux prix des maths, qui va s'enfermer pendant 23
+connu, qui a reçu les plus beaux prix des maths et qui va s'enfermer pendant 23
 ans dans un petit village. Il a pu parler encore à des gens, mais très peu, et
 puis à la fin de sa vie il ne parlait quasiment plus à personne. Je me souviens
 quand même que juste un mois avant sa mort en octobre 2014, il a invité ses
@@ -188,28 +188,28 @@ concret. Que ce soit dans son enseignement, ou dans cette vie avec son jardin,
 alors qu'il s'était coupé du concret jusque là, jusqu'à l'âge 42 ans. Il a
 repris contact avec le concret, et il y a quand même quelques années pendant
 cette période qu'il appelle "le dimanche de ma vie". Je trouve que c'est une
-très belle expression. Il était heureux, et c'était pas un homme heureux en
-général, mais il a eu quelques années de bonheur. Mais qu'est ce qui s'est
-passé pendant les 18 ou 20 ans qu'il a passés à Montpellier, c'est que
+très belle expression. Il était heureux, et ce n'était pas un homme heureux en
+général, mais il a eu quelques années de bonheur. Mais ce qui s'est passé
+pendant les 18 ou 20 ans qu'il a passés à Montpellier, c'est que
 malheureusement il est rentré de nouveau dans des... Il a des tas de petites
-phrases très typique de sa façon parler, comme "le carrousel de l'amour", qui
-décrit un moment où les relations vont mal, avec des gens qui ne vous
-comprennent pas. Au début de cette période il a passé plusieurs années à vivre
-en communauté, et à travailler --- mais comme un dingue, parce que lui quand il
-faisait quelque chose c'était jusqu'au cou --- à l'écologie et à sortir un
-petit journal écologiste "Survivre et Vivre". Ce journal devait convaincre les
-gens de changer leur style de vie et de se rapprocher de la terre. Il a
-abandonné parce qu'il ne convainquait personne. Il n'était pas fait pour
-persuader, je me souvient de Pierre Cartier qui m'a dit une fois: "Il est venu
-à un congrès de maths pour parler d'écologie et convaincre les gens, mais il
-était énervant. À tel point, que j'étais d'accord avec tout ce qu'il disait,
-mais j'étais tellement énervé, que j'avais pas envie de faire ce qu'il disait,
-même si j'étais d'accord avec tout." Il se mettait les gens à dos, il n'était
-pas très doué pour convaincre, pour persuader. Donc il a renoncé à toute forme
-de prosélytisme ou de travail social. Et la communauté ça n'a pas marché bien
-sûr, parce que c'est dur de vivre en communauté. Je crois que c'est pas facile,
-et lui il avait besoin de solitude. Donc ça, ça a duré quelques années, après
-il a retrouvé sa solitude. Mais il avait quand même des élèves, des amis, une
+phrases très typique de sa façon parler, comme "le carrousel de l'amour". Tout
+va mal, il est en relation avec des gens qui ne le comprennent pas. Au début de
+cette période il a passé plusieurs années à vivre en communauté, et à
+travailler --- mais comme un dingue, parce que lui quand il faisait quelque
+chose c'était jusqu'au cou --- à l'écologie et à sortir un petit journal
+écologiste "Survivre et Vivre". Ce journal devait convaincre les gens de
+changer leur style de vie et de se rapprocher de la terre. Il a abandonné parce
+qu'il ne convainquait personne. Il n'était pas fait pour persuader, je me
+souvient de Pierre Cartier qui m'a dit une fois: "Il est venu à un congrès de
+maths pour parler d'écologie et convaincre les gens, mais il était énervant. À
+tel point, que j'étais d'accord avec tout ce qu'il disait, mais j'étais
+tellement énervé, que j'avais pas envie de faire ce qu'il disait, même si
+j'étais d'accord avec tout." Il se mettait les gens à dos, il n'était pas très
+doué pour convaincre, pour persuader. Donc il a renoncé à toute forme de
+prosélytisme ou de travail social. Et la communauté ça n'a pas marché bien sûr,
+parce que c'est dur de vivre en communauté. Je crois que c'est pas facile, et
+lui il avait besoin de solitude. Donc ça, ça a duré quelques années, après il a
+retrouvé sa solitude. Mais il avait quand même des élèves, des amis, une
 amante.
 
 G.D. --- Et alors il y a eu une deuxième rupture.
@@ -243,16 +243,16 @@ L.S. --- Pas à la fin de sa vie, il l'a écrit en 1983--84 je pense.
 
 G.D. --- Bon, quand même relativement tardivement.
 
-L.S. --- Il a soixantes ans. La fin de la vie, moi je les ai dans quelques
+L.S. --- Il a soixante ans. La fin de la vie --- moi je les ai dans quelques
 jours, les soixantes ans.
 
 G.D. --- D'accord, d'accord! Par rapport à la solitude que tu évoquais, je
 voulais dire que c'est une solitude qui est doublée d'une très haute opinion de
-lui-même. Il ya un passage qui m'a toujours fait rire, je vous le lis, je
-n'avais pas prévu de le lire, mais je le trouve quand même assez incroyable.
-*Récoltes et Semailles* c'est une immense oeuvre dans laquelle il parle à la
-fois de sa vie, de sa philosophie, et de ses mathématiques. Et donc là il parle
-de ses mathématiques et il dit:
+lui-même. Il y a un passage qui m'a toujours fait rire, je n'avais pas prévu de
+le lire, mais je le trouve quand même assez incroyable. *Récoltes et Semailles*
+c'est une immense oeuvre dans laquelle il parle à la fois de sa vie, de sa
+philosophie, et de ses mathématiques. Et donc là il parle de ses mathématiques
+et il dit:
 
 > La chose qui m'a frappé c'est que je ne me rappelle pas avoir eu connaissance
 > ne fût-ce que par allusion par des amis ou collègues mieux versés en histoire
@@ -271,7 +271,7 @@ passe.
 
 Donc non seulement j'ai révolutionné les maths, mais en plus je les ai
 révolutionnées tout seul! Je trouve que c'est quand même un passage assez
-éloquent. Donc ça, c'est dans *Recoltes et semailles*, qui va être publiés le
+éloquent. Donc ça, c'est dans *Récoltes et Semailles*, qui va être publiés le
 mois prochain, n'est-ce pas?
 
 L.S. --- Oui, voilà. Donc finalement ce livre qui n'avait jamais été publié,
