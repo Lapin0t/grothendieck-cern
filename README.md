@@ -1495,7 +1495,7 @@ of links between previously isolated entities applies not only to individuals,
 but also to groups. For example, for quite some time, the *Survivre* group
 believed it was the only one of its kind to critically analyze science. But we
 have since realized that similar groups are springing up all over the place. We
-are particularly familiar with the CIDOC[^9] and another group in the United
+are particularly familiar with LASITOC[^9] and another group in the United
 States, *Science for the People*[^15]. There are other groups created more or
 less simultaneously with us and under the same name "survival" in the USA.
 These groups, each based on a specific aspect of the crisis of civilization,
@@ -1544,10 +1544,9 @@ words, disciplined people. \[laughter and applause\]
   science history, science fiction, fantastic, futurology.
 [^8]: See Alexander Sutherland Neill, "Summerhill: A Radical Approach to Child
     Rearing", pub. Hart, 1960.
-[^9]: *Centro Intercultural de Documentación* (CIDOC), a cultural center in the
-  spirit of free universities founded in 1966 by Ivan Illich. \[possibly
-  incorrect, was originally transcribed as "Lacitoc", own interpretation: "la
-  CIDOC"\]
+[^9]: *Look At, Search Into, Try Out* (LASITOC), an international group
+  promoting critical science founded in 1967. Notably organized a workshop
+  on "Threats and Promise of Science" at the Imperial College in July 1970.
 [^10]: Archived by [archive.org](https://archive.org/details/pub_organic-gardening)
 [^11]: Internationally acclaimed initiative of semi-professional healthcare
   workers in rural China (1965–1981), focused on preventive and primary
